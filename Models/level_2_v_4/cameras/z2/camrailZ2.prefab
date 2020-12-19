@@ -1,0 +1,5327 @@
+{
+    "GameObjects": [
+        {
+            "UUID": 1366611774,
+            "ParentUUID": 2717938735,
+            "Name": "camrailZ2",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1051092063,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1301529493,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 1928842924,
+                    "ComponentType": 6,
+                    "Active": true,
+                    "ScriptName": "CameraLine"
+                }
+            ]
+        },
+        {
+            "UUID": 3234152068,
+            "ParentUUID": 1366611774,
+            "Name": "Cam02Raill001",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 3884359971,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    185.73626708984376,
+                    11.732220649719239,
+                    28.90412712097168
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 2961317293,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 1940746201,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 3714623720,
+                    "Material": 600222301,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 1743795258,
+            "ParentUUID": 1366611774,
+            "Name": "Cam02Raill002",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2051212496,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    185.02685546875,
+                    10.832304954528809,
+                    27.112760543823243
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1233467027,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 3636224417,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 1453146164,
+                    "Material": 3155739793,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 966225198,
+            "ParentUUID": 1366611774,
+            "Name": "Cam02Raill003",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 3241258897,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    184.51329040527345,
+                    9.965023040771485,
+                    25.240415573120118
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 3686429076,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 3465494864,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 3142399566,
+                    "Material": 646632693,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 3283013772,
+            "ParentUUID": 1366611774,
+            "Name": "Cam02Raill004",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 4067679801,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    184.22531127929688,
+                    9.14480209350586,
+                    23.300058364868165
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1360635465,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 707722154,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 8961449,
+                    "Material": 1369776112,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 3954229252,
+            "ParentUUID": 1366611774,
+            "Name": "Cam02Raill005",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2821092497,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    184.1866455078125,
+                    8.387575149536133,
+                    21.31382942199707
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 4016122966,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 2218372754,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 2191711633,
+                    "Material": 4145317941,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 702614034,
+            "ParentUUID": 1366611774,
+            "Name": "Cam02Raill006",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 3297409940,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    184.40835571289063,
+                    7.708104133605957,
+                    19.31159019470215
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 4094464718,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 4083533495,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 2081935133,
+                    "Material": 933639161,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 3125664455,
+            "ParentUUID": 1366611774,
+            "Name": "Cam02Raill007",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 4099424849,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    184.88516235351563,
+                    7.116869926452637,
+                    17.325830459594728
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 340241432,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 3447198669,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 3780455270,
+                    "Material": 1036587373,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 2870889435,
+            "ParentUUID": 1366611774,
+            "Name": "Cam02Raill008",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 3790158248,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    185.5966339111328,
+                    6.618061065673828,
+                    15.385238647460938
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 3900486599,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 1679178758,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 2174136791,
+                    "Material": 1709877510,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 2737992041,
+            "ParentUUID": 1366611774,
+            "Name": "Cam02Raill009",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 3706585495,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    186.5137481689453,
+                    6.210122585296631,
+                    13.510580062866211
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 210162908,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 326792314,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 3796096890,
+                    "Material": 1902922806,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 2325279694,
+            "ParentUUID": 1366611774,
+            "Name": "Cam02Raill010",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 65790434,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    187.6033172607422,
+                    5.886590480804443,
+                    11.713088989257813
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 3920491856,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 2838284593,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 3251704736,
+                    "Material": 1420048762,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 4135494738,
+            "ParentUUID": 1366611774,
+            "Name": "Cam02Raill011",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2042423644,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    188.83480834960938,
+                    5.639148712158203,
+                    9.996767044067383
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 4259533600,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 27682510,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 1662656239,
+                    "Material": 597279272,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 3110151991,
+            "ParentUUID": 1366611774,
+            "Name": "Cam02Raill012",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2612702370,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    190.18199157714845,
+                    5.459013938903809,
+                    8.36068344116211
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 2469692975,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 1893346673,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 963686648,
+                    "Material": 3828532572,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 2890024088,
+            "ParentUUID": 1366611774,
+            "Name": "Cam02Raill013",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 3891838970,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    191.62281799316407,
+                    5.337577819824219,
+                    6.800823211669922
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 3507998323,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 3981710762,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 3353173307,
+                    "Material": 3170193545,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 2569881446,
+            "ParentUUID": 1366611774,
+            "Name": "Cam02Raill014",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1024006569,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    193.17921447753907,
+                    5.292222023010254,
+                    5.352205276489258
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1654163586,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 1183293463,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 1256576251,
+                    "Material": 1796718706,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 1383822148,
+            "ParentUUID": 1366611774,
+            "Name": "Cam02Raill015",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2784237620,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    194.8530731201172,
+                    5.331186294555664,
+                    4.040641784667969
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 3376306994,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 2123856441,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 3125977065,
+                    "Material": 207422166,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 2710029712,
+            "ParentUUID": 1366611774,
+            "Name": "Cam02Raill016",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1267361707,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    196.59881591796876,
+                    5.427905082702637,
+                    2.8291091918945314
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1989541745,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 2591794122,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 3544391804,
+                    "Material": 3012633182,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 3362123953,
+            "ParentUUID": 1366611774,
+            "Name": "Cam02Raill017",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2367387997,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    198.39114379882813,
+                    5.5657453536987309,
+                    1.6916284561157227
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1510452396,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 2968493427,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 2975330530,
+                    "Material": 1248937843,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 2100696766,
+            "ParentUUID": 1366611774,
+            "Name": "Cam02Raill018",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2336677735,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    200.21502685546876,
+                    5.733721733093262,
+                    0.6095848083496094
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1950416137,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 2231948751,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 1347923196,
+                    "Material": 3071066276,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 466750087,
+            "ParentUUID": 1366611774,
+            "Name": "Cam02Raill019",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 4088466474,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    202.0608367919922,
+                    5.924155235290527,
+                    -0.4308357238769531
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 3950480825,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 1428552780,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 2372787635,
+                    "Material": 1900529274,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 3681354882,
+            "ParentUUID": 1366611774,
+            "Name": "Cam02Raill020",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2156007897,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    203.9221649169922,
+                    6.131593704223633,
+                    -1.4399213790893555
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 801559323,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 3702791318,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 2188351228,
+                    "Material": 2898002084,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 3843787888,
+            "ParentUUID": 1366611774,
+            "Name": "Cam02Raill021",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1440433073,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    205.79408264160157,
+                    6.351507186889648,
+                    -2.4265518188476564
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1774827071,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 4259794289,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 1362807064,
+                    "Material": 2110088825,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 3619900692,
+            "ParentUUID": 1366611774,
+            "Name": "Cam02Raill022",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1312508810,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    207.67306518554688,
+                    6.580557823181152,
+                    -3.397542953491211
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 3408422347,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 369933630,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 4292093109,
+                    "Material": 657532290,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 1686836267,
+            "ParentUUID": 1366611774,
+            "Name": "Cam02Raill023",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1318193146,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    209.55609130859376,
+                    6.815713405609131,
+                    -4.359203338623047
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 2434034646,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 1735886581,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 3478321078,
+                    "Material": 3515630024,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 3950547084,
+            "ParentUUID": 1366611774,
+            "Name": "Cam02Raill024",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2422293002,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    211.44065856933595,
+                    7.054447650909424,
+                    -5.3170013427734379
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 2996301945,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 1217014695,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 3277766223,
+                    "Material": 3375678640,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 744100486,
+            "ParentUUID": 1366611774,
+            "Name": "Cam02Raill025",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1045476740,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    213.3243408203125,
+                    7.294356346130371,
+                    -6.276200771331787
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1639158067,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 901537638,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 191907941,
+                    "Material": 1443798722,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 3779824931,
+            "ParentUUID": 1366611774,
+            "Name": "Cam02Raill026",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 3726419983,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    215.20484924316407,
+                    7.53312349319458,
+                    -7.24190616607666
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 4162705110,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 319220642,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 2944444701,
+                    "Material": 3261943877,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 1711329859,
+            "ParentUUID": 1366611774,
+            "Name": "Cam02Raill027",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 4159863762,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    217.07974243164063,
+                    7.768428802490234,
+                    -8.219287872314454
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 2803167979,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 2454795667,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 3848569817,
+                    "Material": 4082206981,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 635132753,
+            "ParentUUID": 1366611774,
+            "Name": "Cam02Raill028",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 3275604345,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    218.94615173339845,
+                    7.997675895690918,
+                    -9.214177131652832
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 2824207942,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 4251712552,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 2122750417,
+                    "Material": 3943136172,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 439020985,
+            "ParentUUID": 1366611774,
+            "Name": "Cam02Raill029",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2925316866,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    220.8009796142578,
+                    8.21817398071289,
+                    -10.232439041137696
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 4196825535,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 4003175159,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 302334780,
+                    "Material": 114828526,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 3463788700,
+            "ParentUUID": 1366611774,
+            "Name": "Cam02Raill030",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 240420703,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    222.64013671875,
+                    8.426647186279297,
+                    -11.281150817871094
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 399848380,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 4004679710,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 4118972004,
+                    "Material": 4073944715,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 925698752,
+            "ParentUUID": 1366611774,
+            "Name": "Cam02Raill031",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2703725034,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    224.4584197998047,
+                    8.619173049926758,
+                    -12.368571281433106
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1863595977,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 2736527738,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 2463893142,
+                    "Material": 794906954,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 854427139,
+            "ParentUUID": 1366611774,
+            "Name": "Cam02Raill032",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 832788588,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    226.2486572265625,
+                    8.790735244750977,
+                    -13.504841804504395
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 798244724,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 94252082,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 1087452164,
+                    "Material": 2293386096,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 2128233691,
+            "ParentUUID": 1366611774,
+            "Name": "Cam02Raill033",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1007536966,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    228.0010528564453,
+                    8.934989929199219,
+                    -14.70215892791748
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 132596714,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 3802976873,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 1164225823,
+                    "Material": 3655978944,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 2089728323,
+            "ParentUUID": 1366611774,
+            "Name": "Cam02Raill034",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2260511164,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    229.70095825195313,
+                    9.043187141418457,
+                    -15.97634220123291
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 2361230262,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 3187525688,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 1404545489,
+                    "Material": 3088562771,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 3900737818,
+            "ParentUUID": 1366611774,
+            "Name": "Cam02Raill035",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2128096781,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    231.3339080810547,
+                    9.112578392028809,
+                    -17.337791442871095
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 505237282,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 1581487226,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 1544600443,
+                    "Material": 3774667093,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 2171802826,
+            "ParentUUID": 1366611774,
+            "Name": "Cam02Raill036",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 153162021,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    232.89840698242188,
+                    9.149847984313965,
+                    -18.778608322143556
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 2005826668,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 589650401,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 1731718648,
+                    "Material": 35588805,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 3522044227,
+            "ParentUUID": 1366611774,
+            "Name": "Cam02Raill037",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2542349654,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    234.39572143554688,
+                    9.157064437866211,
+                    -20.289613723754884
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 518186144,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 2376649717,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 4201502538,
+                    "Material": 2974523619,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 1989096566,
+            "ParentUUID": 1366611774,
+            "Name": "Cam02Raill038",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 328090176,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    235.8297119140625,
+                    9.136972427368164,
+                    -21.860790252685548
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1179917973,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 4247065741,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 1600973826,
+                    "Material": 3100038430,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 2515087994,
+            "ParentUUID": 1366611774,
+            "Name": "Cam02Raill039",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2699269233,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    237.20677185058595,
+                    9.09295654296875,
+                    -23.481658935546876
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 3694484617,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 3554041358,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 3336595623,
+                    "Material": 850579089,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 3286502435,
+            "ParentUUID": 1366611774,
+            "Name": "Cam02Raill040",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 664200057,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    238.5362548828125,
+                    9.029153823852539,
+                    -25.141189575195314
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1935098048,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 664866718,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 877318305,
+                    "Material": 2230305591,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 3176623667,
+            "ParentUUID": 1366611774,
+            "Name": "Cam02Raill041",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 498759645,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    239.82962036132813,
+                    8.950154304504395,
+                    -26.828428268432618
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 4262626707,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 861403104,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 2605350180,
+                    "Material": 39896202,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 4012221853,
+            "ParentUUID": 1366611774,
+            "Name": "Cam02Raill042",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2430313840,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    241.0998992919922,
+                    8.860830307006836,
+                    -28.532630920410158
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 3103453796,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 662835277,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 2215059252,
+                    "Material": 2067575079,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 3320768372,
+            "ParentUUID": 1366611774,
+            "Name": "Cam02Raill043",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 796080611,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    242.36129760742188,
+                    8.766303062438965,
+                    -30.243131637573243
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 2001712261,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 3492974270,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 2927138756,
+                    "Material": 942866296,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 3513727601,
+            "ParentUUID": 1366611774,
+            "Name": "Cam02Raill044",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2711158034,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    243.62879943847657,
+                    8.671886444091797,
+                    -31.94913101196289
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1100038643,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 1764814130,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 628992103,
+                    "Material": 3383695210,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 518935046,
+            "ParentUUID": 1366611774,
+            "Name": "Cam02Raill045",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1271571045,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    244.91754150390626,
+                    8.58303451538086,
+                    -33.639404296875
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 3547359105,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 4034604290,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 530898190,
+                    "Material": 2877978031,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 1304752235,
+            "ParentUUID": 1366611774,
+            "Name": "Cam02Raill046",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2412994836,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    246.2423858642578,
+                    8.50528335571289,
+                    -35.30206298828125
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 37081320,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 756628773,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 21893962,
+                    "Material": 215746134,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 2961533391,
+            "ParentUUID": 1366611774,
+            "Name": "Cam02Raill047",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2518113280,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    247.61712646484376,
+                    8.444161415100098,
+                    -36.924354553222659
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1652173438,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 1189781030,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 201237565,
+                    "Material": 1513055136,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 2489251360,
+            "ParentUUID": 1366611774,
+            "Name": "Cam02Raill048",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1298309919,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    249.05374145507813,
+                    8.405014038085938,
+                    -38.492713928222659
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 636577402,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 833613389,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 3704684368,
+                    "Material": 960436682,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 3699420042,
+            "ParentUUID": 1366611774,
+            "Name": "Cam02Raill049",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1420753801,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    250.56155395507813,
+                    8.392766952514649,
+                    -39.993125915527347
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1173564441,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 2621465436,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 752574977,
+                    "Material": 412638778,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 3324810845,
+            "ParentUUID": 1366611774,
+            "Name": "Cam02Raill050",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 4149808767,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    252.1463623046875,
+                    8.411617279052735,
+                    -41.41181182861328
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 743706831,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 960313781,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 2705620323,
+                    "Material": 3014041591,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 1081771130,
+            "ParentUUID": 1366611774,
+            "Name": "Cam02Raill051",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 508867583,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    253.80996704101563,
+                    8.464685440063477,
+                    -42.736385345458987
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1018474418,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 2137877435,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 3711447821,
+                    "Material": 1208922284,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 2229325979,
+            "ParentUUID": 1366611774,
+            "Name": "Cam02Raill052",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2942950682,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    255.5288848876953,
+                    8.542922973632813,
+                    -43.98725128173828
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 2980867874,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 2811450452,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 107888968,
+                    "Material": 315362556,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 179230100,
+            "ParentUUID": 1366611774,
+            "Name": "Cam02Raill053",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1354796144,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    257.27410888671877,
+                    8.632718086242676,
+                    -45.20046615600586
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 3864920943,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 4157191137,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 2212310175,
+                    "Material": 3094864203,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 3072009578,
+            "ParentUUID": 1366611774,
+            "Name": "Cam02Raill054",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2685661420,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    259.0440673828125,
+                    8.733707427978516,
+                    -46.37638854980469
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 3339498443,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 1293901492,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 2130759104,
+                    "Material": 1602114270,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 886425705,
+            "ParentUUID": 1366611774,
+            "Name": "Cam02Raill055",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1058784344,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    260.8371887207031,
+                    8.845495223999024,
+                    -47.515647888183597
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1663019910,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 3794073290,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 1450003715,
+                    "Material": 516102185,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 3860610816,
+            "ParentUUID": 1366611774,
+            "Name": "Cam02Raill056",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 4112988445,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    262.6524658203125,
+                    8.967913627624512,
+                    -48.6181640625
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 3938376570,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 2159518553,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 2590658486,
+                    "Material": 2927288302,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 497628341,
+            "ParentUUID": 1366611774,
+            "Name": "Cam02Raill057",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 3445769351,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    264.4883728027344,
+                    9.100549697875977,
+                    -49.68474578857422
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 4047881507,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 3428645916,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 3231252813,
+                    "Material": 1452113853,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 3311452949,
+            "ParentUUID": 1366611774,
+            "Name": "Cam02Raill058",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2630313841,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    266.34393310546877,
+                    9.243221282958985,
+                    -50.71540832519531
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 768908579,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 2288608146,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 490924772,
+                    "Material": 4221403578,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 406992737,
+            "ParentUUID": 1366611774,
+            "Name": "Cam02Raill059",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2719488278,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    268.2177734375,
+                    9.395512580871582,
+                    -51.711082458496097
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 3908841074,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 2965292204,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 2095902604,
+                    "Material": 30999202,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 713352770,
+            "ParentUUID": 1366611774,
+            "Name": "Cam02Raill060",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1018504924,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    270.10888671875,
+                    9.557220458984375,
+                    -52.67195129394531
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1871558600,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 3446509222,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 3661141120,
+                    "Material": 1501095738,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 2949087691,
+            "ParentUUID": 1366611774,
+            "Name": "Cam02Raill061",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1723864288,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    272.01617431640627,
+                    9.728004455566407,
+                    -53.59874725341797
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 230825363,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 1578862937,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 3181510757,
+                    "Material": 2072420097,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 1784056750,
+            "ParentUUID": 1366611774,
+            "Name": "Cam02Raill062",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1353240678,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    273.9384765625,
+                    9.907548904418946,
+                    -54.492156982421878
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 495380966,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 3994052423,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 1678136088,
+                    "Material": 3415774262,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 152800227,
+            "ParentUUID": 1366611774,
+            "Name": "Cam02Raill063",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2568806000,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    275.87493896484377,
+                    10.095575332641602,
+                    -55.352760314941409
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1128283834,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 826331788,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 1619826240,
+                    "Material": 1043807149,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 4150919706,
+            "ParentUUID": 1366611774,
+            "Name": "Cam02Raill064",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 3887129053,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    277.8246154785156,
+                    10.291841506958008,
+                    -56.18104553222656
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1840265406,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 24394576,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 1680727954,
+                    "Material": 164897386,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 1933262946,
+            "ParentUUID": 1366611774,
+            "Name": "Cam02Raill065",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 855001064,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    279.7865905761719,
+                    10.496034622192383,
+                    -56.977806091308597
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 3075382229,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 3385737504,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 2943115677,
+                    "Material": 307004806,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 3684667994,
+            "ParentUUID": 1366611774,
+            "Name": "Cam02Raill066",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2382669749,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    281.7599792480469,
+                    10.707874298095704,
+                    -57.743743896484378
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1420620572,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 1470041057,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 3456794526,
+                    "Material": 1122202351,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 2335814777,
+            "ParentUUID": 1366611774,
+            "Name": "Cam02Raill067",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 476399889,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    283.7440185546875,
+                    10.92709732055664,
+                    -58.479515075683597
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1612626894,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 95900880,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 1792660954,
+                    "Material": 2152427645,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 75840777,
+            "ParentUUID": 1366611774,
+            "Name": "Cam02Raill068",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2542202709,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    285.7379455566406,
+                    11.153446197509766,
+                    -59.185829162597659
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 643144229,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 1752882803,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 3747629431,
+                    "Material": 2429676220,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 3887264526,
+            "ParentUUID": 1366611774,
+            "Name": "Cam02Raill069",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2711750822,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    287.74102783203127,
+                    11.386666297912598,
+                    -59.86335754394531
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 2234185895,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 3309889725,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 3763783632,
+                    "Material": 2199952054,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 3036996051,
+            "ParentUUID": 1366611774,
+            "Name": "Cam02Raill070",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 3495974892,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    289.75262451171877,
+                    11.626511573791504,
+                    -60.51280975341797
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 2792257843,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 3381756872,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 2827029620,
+                    "Material": 2173832106,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        }
+    ],
+    "Overwritable": true
+} 

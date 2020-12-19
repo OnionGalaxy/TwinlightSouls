@@ -1,0 +1,787 @@
+{
+    "GameObjects": [
+        {
+            "UUID": 1846624422,
+            "ParentUUID": 0,
+            "Name": "AvalancheZone",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 3399295478,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 639088964,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 3063045377,
+                    "ComponentType": 6,
+                    "Active": true,
+                    "ScriptName": "AvalancheZone"
+                }
+            ]
+        },
+        {
+            "UUID": 3003661438,
+            "ParentUUID": 1846624422,
+            "Name": "Start Point",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 4291989548,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    578.0466918945313,
+                    19.445575714111329,
+                    -195.20913696289063
+                ],
+                "Rotation": [
+                    -0.0,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1331898565,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": []
+        },
+        {
+            "UUID": 3769057685,
+            "ParentUUID": 1846624422,
+            "Name": "End Point",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 4291989548,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    476.1508483886719,
+                    11.87332820892334,
+                    -180.531982421875
+                ],
+                "Rotation": [
+                    -0.0,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1331898565,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": []
+        },
+        {
+            "UUID": 3214378962,
+            "ParentUUID": 1846624422,
+            "Name": "Rocks",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1225458315,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    10.678096771240235,
+                    0.0,
+                    -17.841617584228517
+                ],
+                "Rotation": [
+                    -0.0,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 684188834,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": []
+        },
+        {
+            "UUID": 55922217,
+            "ParentUUID": 1846624422,
+            "Name": "Destruction Point",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 4291989548,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    480.08203125,
+                    11.87332820892334,
+                    -177.8013916015625
+                ],
+                "Rotation": [
+                    -0.0,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1331898565,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": []
+        },
+        {
+            "UUID": 3734735857,
+            "ParentUUID": 3214378962,
+            "Name": "Sphere",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2948788387,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    560.34375,
+                    19.705801010131837,
+                    -180.13523864746095
+                ],
+                "Rotation": [
+                    -180.0,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    150.0,
+                    150.0,
+                    150.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 2643671733,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 2095908637,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 1590559201,
+                    "Material": 3447159694,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 3097607386,
+            "ParentUUID": 3214378962,
+            "Name": "Sphere",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2948788387,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    560.34375,
+                    19.705801010131837,
+                    -180.13523864746095
+                ],
+                "Rotation": [
+                    -180.0,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    150.0,
+                    150.0,
+                    150.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 2643671733,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 2095908637,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 1590559201,
+                    "Material": 3447159694,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 2004261500,
+            "ParentUUID": 3214378962,
+            "Name": "Sphere",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2948788387,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    560.34375,
+                    19.705801010131837,
+                    -180.13523864746095
+                ],
+                "Rotation": [
+                    -180.0,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    150.0,
+                    150.0,
+                    150.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 2643671733,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 2095908637,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 1590559201,
+                    "Material": 3447159694,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 2380359397,
+            "ParentUUID": 3214378962,
+            "Name": "Sphere",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2948788387,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    560.34375,
+                    19.705801010131837,
+                    -180.13523864746095
+                ],
+                "Rotation": [
+                    -180.0,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    150.0,
+                    150.0,
+                    150.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 2643671733,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 2095908637,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 1590559201,
+                    "Material": 3447159694,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 115320005,
+            "ParentUUID": 3214378962,
+            "Name": "Sphere",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2948788387,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    560.34375,
+                    19.705801010131837,
+                    -180.13523864746095
+                ],
+                "Rotation": [
+                    -180.0,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    150.0,
+                    150.0,
+                    150.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 2643671733,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 2095908637,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 1590559201,
+                    "Material": 3447159694,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 3723890870,
+            "ParentUUID": 3214378962,
+            "Name": "Sphere",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2948788387,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    560.34375,
+                    19.705801010131837,
+                    -180.13523864746095
+                ],
+                "Rotation": [
+                    -180.0,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    150.0,
+                    150.0,
+                    150.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 2643671733,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 2095908637,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 1590559201,
+                    "Material": 3447159694,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        }
+    ],
+    "Overwritable": true
+} 

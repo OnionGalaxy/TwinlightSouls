@@ -1,0 +1,1644 @@
+{
+    "GameObjects": [
+        {
+            "UUID": 205240037,
+            "ParentUUID": 1975647025,
+            "Name": "Player 1 Indicators",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 3217016244,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1552967042,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    51.0,
+                    -49.720001220703128
+                ],
+                "Rotation": [
+                    -0.0,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.0,
+                    1.0
+                ],
+                "MaxAnchor": [
+                    0.0,
+                    1.0
+                ],
+                "SizeDelta": [
+                    224.0,
+                    113.0
+                ],
+                "Pivot": [
+                    0.0,
+                    1.0
+                ]
+            },
+            "Transform2DEnabled": true,
+            "Components": [
+                {
+                    "UUID": 1880476791,
+                    "ComponentType": 12,
+                    "Active": false,
+                    "ImageColor": [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                    ],
+                    "TextureUUID": 1359729595,
+                    "PreserveAspectRatio": false
+                },
+                {
+                    "UUID": 3015693326,
+                    "ComponentType": 10,
+                    "Active": true
+                }
+            ]
+        },
+        {
+            "UUID": 3598775192,
+            "ParentUUID": 205240037,
+            "Name": "Player 1 Special Bar Mask",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2930738034,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1176108644,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    53.5,
+                    -8.75
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    12.600000381469727
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": true,
+            "Components": [
+                {
+                    "UUID": 3791566791,
+                    "ComponentType": 12,
+                    "Active": false,
+                    "ImageColor": [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                    ],
+                    "TextureUUID": 2748950033,
+                    "PreserveAspectRatio": false
+                },
+                {
+                    "UUID": 818030193,
+                    "ComponentType": 10,
+                    "Active": true
+                },
+                {
+                    "UUID": 2446438392,
+                    "ComponentType": 18,
+                    "Active": true,
+                    "RenderMask": false,
+                    "InvertedMask": false
+                }
+            ]
+        },
+        {
+            "UUID": 2964138514,
+            "ParentUUID": 205240037,
+            "Name": "Shield Bar GO",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1592479657,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 2716059381,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    14.968254089355469,
+                    -47.577392578125
+                ],
+                "Rotation": [
+                    -0.0,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    3.3399999141693117,
+                    1.2400000095367432,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.0,
+                    1.0
+                ],
+                "MaxAnchor": [
+                    0.0,
+                    1.0
+                ],
+                "SizeDelta": [
+                    14.100000381469727,
+                    98.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": true,
+            "Components": [
+                {
+                    "UUID": 633698406,
+                    "ComponentType": 12,
+                    "Active": true,
+                    "ImageColor": [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                    ],
+                    "TextureUUID": 4199492277,
+                    "PreserveAspectRatio": false
+                },
+                {
+                    "UUID": 3366801527,
+                    "ComponentType": 10,
+                    "Active": true
+                },
+                {
+                    "UUID": 4069657493,
+                    "ComponentType": 18,
+                    "Active": true,
+                    "RenderMask": true,
+                    "InvertedMask": false
+                }
+            ]
+        },
+        {
+            "UUID": 822086650,
+            "ParentUUID": 205240037,
+            "Name": "Player 1 Healthbar bg",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1003597032,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    -0.0,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1225772487,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    84.80381774902344,
+                    12.25921630859375
+                ],
+                "Rotation": [
+                    -0.0,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    1.0499999523162842,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    166.0,
+                    24.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": true,
+            "Components": [
+                {
+                    "UUID": 602591921,
+                    "ComponentType": 10,
+                    "Active": true
+                },
+                {
+                    "UUID": 2477691594,
+                    "ComponentType": 12,
+                    "Active": true,
+                    "ImageColor": [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                    ],
+                    "TextureUUID": 2931687637,
+                    "PreserveAspectRatio": false
+                }
+            ]
+        },
+        {
+            "UUID": 2881312913,
+            "ParentUUID": 205240037,
+            "Name": "Player 1 Icon",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 4192704522,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    -0.0,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 3944513136,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    -32.909393310546878,
+                    17.9876708984375
+                ],
+                "Rotation": [
+                    -0.0,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    101.0,
+                    120.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": true,
+            "Components": [
+                {
+                    "UUID": 1085264589,
+                    "ComponentType": 12,
+                    "Active": true,
+                    "ImageColor": [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                    ],
+                    "TextureUUID": 853238571,
+                    "PreserveAspectRatio": false
+                },
+                {
+                    "UUID": 600399617,
+                    "ComponentType": 10,
+                    "Active": true
+                }
+            ]
+        },
+        {
+            "UUID": 3293106146,
+            "ParentUUID": 205240037,
+            "Name": "Lightball Bar GO",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1592479657,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 2716059381,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    123.49114990234375,
+                    -98.415283203125
+                ],
+                "Rotation": [
+                    -0.0,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    1.3700000047683716,
+                    1.5099999904632569,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.0,
+                    1.0
+                ],
+                "MaxAnchor": [
+                    0.0,
+                    1.0
+                ],
+                "SizeDelta": [
+                    119.0999984741211,
+                    35.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": true,
+            "Components": [
+                {
+                    "UUID": 633698406,
+                    "ComponentType": 12,
+                    "Active": true,
+                    "ImageColor": [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                    ],
+                    "TextureUUID": 2970141713,
+                    "PreserveAspectRatio": false
+                },
+                {
+                    "UUID": 3366801527,
+                    "ComponentType": 10,
+                    "Active": true
+                },
+                {
+                    "UUID": 4069657493,
+                    "ComponentType": 18,
+                    "Active": true,
+                    "RenderMask": false,
+                    "InvertedMask": false
+                }
+            ]
+        },
+        {
+            "UUID": 3421812964,
+            "ParentUUID": 205240037,
+            "Name": "Lightball Ready Image",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 735107467,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    -0.0,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 3554997932,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    -24.62700080871582,
+                    -40.9370002746582
+                ],
+                "Rotation": [
+                    -0.0,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    96.0,
+                    61.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": true,
+            "Components": [
+                {
+                    "UUID": 87669745,
+                    "ComponentType": 12,
+                    "Active": true,
+                    "ImageColor": [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                    ],
+                    "TextureUUID": 3928731000,
+                    "PreserveAspectRatio": false
+                },
+                {
+                    "UUID": 2597353339,
+                    "ComponentType": 10,
+                    "Active": true
+                }
+            ]
+        },
+        {
+            "UUID": 1883945218,
+            "ParentUUID": 3598775192,
+            "Name": "Player 1 Special Bar",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 3854818638,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 411023353,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    -53.5,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.80000305175781,
+                    12.600000381469727
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": true,
+            "Components": [
+                {
+                    "UUID": 1040060522,
+                    "ComponentType": 6,
+                    "Active": true,
+                    "ScriptName": "SpecialProgressBar"
+                }
+            ]
+        },
+        {
+            "UUID": 4050734509,
+            "ParentUUID": 2964138514,
+            "Name": "Shield Bar bg",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1004781513,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    -0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1735426027,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.12176704406738281,
+                    -0.599853515625
+                ],
+                "Rotation": [
+                    -0.0,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    1.2599997520446778,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.0,
+                    0.0
+                ],
+                "MaxAnchor": [
+                    1.0,
+                    1.0
+                ],
+                "SizeDelta": [
+                    -1.9999160766601563,
+                    0.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": true,
+            "Components": [
+                {
+                    "UUID": 1807927481,
+                    "ComponentType": 12,
+                    "Active": true,
+                    "ImageColor": [
+                        1.0,
+                        0.9999899864196777,
+                        0.9999899864196777,
+                        1.0
+                    ],
+                    "TextureUUID": 4199492277,
+                    "PreserveAspectRatio": false
+                },
+                {
+                    "UUID": 2668869453,
+                    "ComponentType": 10,
+                    "Active": true
+                },
+                {
+                    "UUID": 2412780097,
+                    "ComponentType": 6,
+                    "Active": true,
+                    "ScriptName": "ProgressBar",
+                    "Inverted": false,
+                    "Vertical": true,
+                    "Shield": false
+                }
+            ]
+        },
+        {
+            "UUID": 1041584882,
+            "ParentUUID": 822086650,
+            "Name": "Player1 HealthBar Mask",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1592479657,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 2716059381,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    83.87307739257813,
+                    -12.25970458984375
+                ],
+                "Rotation": [
+                    -0.0,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    1.290000081062317,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.0,
+                    1.0
+                ],
+                "MaxAnchor": [
+                    0.0,
+                    1.0
+                ],
+                "SizeDelta": [
+                    120.0999984741211,
+                    16.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": true,
+            "Components": [
+                {
+                    "UUID": 633698406,
+                    "ComponentType": 12,
+                    "Active": true,
+                    "ImageColor": [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                    ],
+                    "TextureUUID": 2931687637,
+                    "PreserveAspectRatio": false
+                },
+                {
+                    "UUID": 3366801527,
+                    "ComponentType": 10,
+                    "Active": true
+                },
+                {
+                    "UUID": 704203077,
+                    "ComponentType": 18,
+                    "Active": true,
+                    "RenderMask": false,
+                    "InvertedMask": false
+                }
+            ]
+        },
+        {
+            "UUID": 1940675482,
+            "ParentUUID": 3293106146,
+            "Name": "Lightball Bar bg",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1004781513,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1735426027,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.19106292724609376,
+                    0.175872802734375
+                ],
+                "Rotation": [
+                    -0.0,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.0,
+                    0.0
+                ],
+                "MaxAnchor": [
+                    1.0,
+                    1.0
+                ],
+                "SizeDelta": [
+                    0.0,
+                    0.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": true,
+            "Components": [
+                {
+                    "UUID": 1807927481,
+                    "ComponentType": 12,
+                    "Active": true,
+                    "ImageColor": [
+                        1.0,
+                        0.9999899864196777,
+                        0.9999899864196777,
+                        1.0
+                    ],
+                    "TextureUUID": 2970141713,
+                    "PreserveAspectRatio": false
+                },
+                {
+                    "UUID": 2668869453,
+                    "ComponentType": 10,
+                    "Active": true
+                },
+                {
+                    "UUID": 2412780097,
+                    "ComponentType": 6,
+                    "Active": true,
+                    "ScriptName": "ProgressBar",
+                    "Inverted": true,
+                    "Vertical": false,
+                    "Shield": false
+                }
+            ]
+        },
+        {
+            "UUID": 2362723436,
+            "ParentUUID": 1883945218,
+            "Name": "P1 SB Orb 0",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 517935755,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 4177777262,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    10.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    55.0,
+                    55.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": true,
+            "Components": [
+                {
+                    "UUID": 3841525885,
+                    "ComponentType": 12,
+                    "Active": true,
+                    "ImageColor": [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                    ],
+                    "TextureUUID": 1020743482,
+                    "PreserveAspectRatio": false
+                },
+                {
+                    "UUID": 2696073757,
+                    "ComponentType": 10,
+                    "Active": true
+                }
+            ]
+        },
+        {
+            "UUID": 4115730332,
+            "ParentUUID": 1883945218,
+            "Name": "P1 SB Orb 1",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 499588807,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 3862439152,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    40.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    55.0,
+                    55.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": true,
+            "Components": [
+                {
+                    "UUID": 3291121810,
+                    "ComponentType": 12,
+                    "Active": true,
+                    "ImageColor": [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                    ],
+                    "TextureUUID": 1020743482,
+                    "PreserveAspectRatio": false
+                },
+                {
+                    "UUID": 2304354156,
+                    "ComponentType": 10,
+                    "Active": true
+                }
+            ]
+        },
+        {
+            "UUID": 3949794697,
+            "ParentUUID": 1883945218,
+            "Name": "P1 SB Orb 2",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2768171166,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1621579032,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    70.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    55.0,
+                    55.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": true,
+            "Components": [
+                {
+                    "UUID": 3788731512,
+                    "ComponentType": 12,
+                    "Active": true,
+                    "ImageColor": [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                    ],
+                    "TextureUUID": 1020743482,
+                    "PreserveAspectRatio": false
+                },
+                {
+                    "UUID": 3921033369,
+                    "ComponentType": 10,
+                    "Active": true
+                }
+            ]
+        },
+        {
+            "UUID": 2590593138,
+            "ParentUUID": 1883945218,
+            "Name": "P1 SB Orb 3",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2791199344,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 774748909,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    98.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    55.0,
+                    55.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": true,
+            "Components": [
+                {
+                    "UUID": 133178477,
+                    "ComponentType": 12,
+                    "Active": true,
+                    "ImageColor": [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                    ],
+                    "TextureUUID": 1020743482,
+                    "PreserveAspectRatio": false
+                },
+                {
+                    "UUID": 595736516,
+                    "ComponentType": 10,
+                    "Active": true
+                }
+            ]
+        },
+        {
+            "UUID": 2658054523,
+            "ParentUUID": 4050734509,
+            "Name": "Shield Bar fill",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1400962702,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    0.0,
+                    825.312255859375,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    0.9999999403953552,
+                    0.9999999403953552,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 602056501,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    -1.1211624145507813,
+                    1.47796630859375
+                ],
+                "Rotation": [
+                    -0.0,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    2.3299999237060549,
+                    1.0000064373016358,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    6.0,
+                    97.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": true,
+            "Components": [
+                {
+                    "UUID": 3692352736,
+                    "ComponentType": 12,
+                    "Active": true,
+                    "ImageColor": [
+                        0.9999939203262329,
+                        1.0,
+                        0.9999899864196777,
+                        1.0
+                    ],
+                    "TextureUUID": 4172536383,
+                    "PreserveAspectRatio": false
+                },
+                {
+                    "UUID": 1786814853,
+                    "ComponentType": 10,
+                    "Active": true
+                }
+            ]
+        },
+        {
+            "UUID": 1518932593,
+            "ParentUUID": 1041584882,
+            "Name": "Player 1 HealthBar",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1004781513,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1735426027,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    -1.6875,
+                    0.1446533203125
+                ],
+                "Rotation": [
+                    -0.0,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.9999998807907105,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.0,
+                    0.0
+                ],
+                "MaxAnchor": [
+                    1.0,
+                    1.0
+                ],
+                "SizeDelta": [
+                    0.0,
+                    0.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": true,
+            "Components": [
+                {
+                    "UUID": 1807927481,
+                    "ComponentType": 12,
+                    "Active": true,
+                    "ImageColor": [
+                        1.0,
+                        0.9999899864196777,
+                        0.9999899864196777,
+                        1.0
+                    ],
+                    "TextureUUID": 345966372,
+                    "PreserveAspectRatio": false
+                },
+                {
+                    "UUID": 2668869453,
+                    "ComponentType": 10,
+                    "Active": true
+                },
+                {
+                    "UUID": 2412780097,
+                    "ComponentType": 6,
+                    "Active": true,
+                    "ScriptName": "ProgressBar",
+                    "Inverted": false,
+                    "Vertical": false,
+                    "Shield": false
+                }
+            ]
+        },
+        {
+            "UUID": 626867410,
+            "ParentUUID": 1940675482,
+            "Name": "Lightball bar fill",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1400962702,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 602056501,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    1.1365203857421876,
+                    -0.339202880859375
+                ],
+                "Rotation": [
+                    -0.0,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    116.0,
+                    34.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": true,
+            "Components": [
+                {
+                    "UUID": 3692352736,
+                    "ComponentType": 12,
+                    "Active": true,
+                    "ImageColor": [
+                        0.9999939203262329,
+                        1.0,
+                        0.9999899864196777,
+                        1.0
+                    ],
+                    "TextureUUID": 782983781,
+                    "PreserveAspectRatio": false
+                },
+                {
+                    "UUID": 1786814853,
+                    "ComponentType": 10,
+                    "Active": true
+                }
+            ]
+        },
+        {
+            "UUID": 1709802245,
+            "ParentUUID": 1518932593,
+            "Name": "Player 1 FillBar",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1400962702,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 602056501,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    -0.0242919921875
+                ],
+                "Rotation": [
+                    -0.0,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.9999998807907105,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    121.0,
+                    18.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": true,
+            "Components": [
+                {
+                    "UUID": 3692352736,
+                    "ComponentType": 12,
+                    "Active": true,
+                    "ImageColor": [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                    ],
+                    "TextureUUID": 1026072568,
+                    "PreserveAspectRatio": false
+                },
+                {
+                    "UUID": 1786814853,
+                    "ComponentType": 10,
+                    "Active": true
+                }
+            ]
+        }
+    ],
+    "Overwritable": true
+} 

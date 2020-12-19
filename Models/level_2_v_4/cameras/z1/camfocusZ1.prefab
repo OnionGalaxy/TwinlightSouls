@@ -1,0 +1,3827 @@
+{
+    "GameObjects": [
+        {
+            "UUID": 1935852323,
+            "ParentUUID": 2717938735,
+            "Name": "camfocusZ1",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 4014443858,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 3801816935,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 3212841350,
+                    "ComponentType": 6,
+                    "Active": true,
+                    "ScriptName": "CameraLine"
+                }
+            ]
+        },
+        {
+            "UUID": 3262840297,
+            "ParentUUID": 1935852323,
+            "Name": "cam01focus001",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1467812603,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    113.49540710449219,
+                    4.480668067932129,
+                    30.7548828125
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 4262683831,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 2458883019,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 1420326313,
+                    "Material": 1142022591,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 4280155023,
+            "ParentUUID": 1935852323,
+            "Name": "cam01focus002",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 3458543536,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    115.05264282226563,
+                    4.438243865966797,
+                    30.53036117553711
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 687463115,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 3227951368,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 1621730017,
+                    "Material": 3994516796,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 1809104720,
+            "ParentUUID": 1935852323,
+            "Name": "cam01focus003",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 4176688960,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    116.60968017578125,
+                    4.395913600921631,
+                    30.304441452026368
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1750086030,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 2740444491,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 183272940,
+                    "Material": 2160780996,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 3742170237,
+            "ParentUUID": 1935852323,
+            "Name": "cam01focus004",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2509349646,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    118.16651153564453,
+                    4.353679180145264,
+                    30.077058792114259
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 489433086,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 1358792745,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 2506829646,
+                    "Material": 4026151561,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 362831953,
+            "ParentUUID": 1935852323,
+            "Name": "cam01focus005",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1875742257,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    119.7231216430664,
+                    4.31155252456665,
+                    29.848155975341798
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1240957721,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 3700697583,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 3456798114,
+                    "Material": 2221415890,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 1686129232,
+            "ParentUUID": 1935852323,
+            "Name": "cam01focus006",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1556665276,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    121.27949523925781,
+                    4.269527435302734,
+                    29.617664337158204
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 408463360,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 376135714,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 2290153204,
+                    "Material": 623317962,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 1829957544,
+            "ParentUUID": 1935852323,
+            "Name": "cam01focus007",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 3500388663,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    122.83563232421875,
+                    4.227611064910889,
+                    29.385560989379884
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 795572994,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 1117942358,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 641712369,
+                    "Material": 2188135989,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 913603403,
+            "ParentUUID": 1935852323,
+            "Name": "cam01focus008",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 4155801475,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    124.39152526855469,
+                    4.185811519622803,
+                    29.151718139648439
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 3124802434,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 1374609188,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 1500722409,
+                    "Material": 2295350679,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 3995161031,
+            "ParentUUID": 1935852323,
+            "Name": "cam01focus009",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 3399162874,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    125.9471435546875,
+                    4.14412784576416,
+                    28.9161319732666
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 4114041115,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 768540432,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 681895423,
+                    "Material": 3255959988,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 1699791273,
+            "ParentUUID": 1935852323,
+            "Name": "cam01focus010",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 4197348919,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    127.50248718261719,
+                    4.102572917938232,
+                    28.678653717041017
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1283019738,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 3477510720,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 292853053,
+                    "Material": 535424326,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 1500249437,
+            "ParentUUID": 1935852323,
+            "Name": "cam01focus011",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1441058910,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    129.05752563476563,
+                    4.061146259307861,
+                    28.439260482788087
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1402263654,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 3752396569,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 1270483769,
+                    "Material": 3004518974,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 2043905298,
+            "ParentUUID": 1935852323,
+            "Name": "cam01focus012",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1108961517,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    130.61227416992188,
+                    4.019853591918945,
+                    28.197853088378908
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 3146716822,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 849827150,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 1853063598,
+                    "Material": 1872430260,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 1784515568,
+            "ParentUUID": 1935852323,
+            "Name": "cam01focus013",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1412989594,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    132.16665649414063,
+                    3.978707790374756,
+                    27.954307556152345
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 462921192,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 1027700476,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 1643829699,
+                    "Material": 2174851814,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 1036784692,
+            "ParentUUID": 1935852323,
+            "Name": "cam01focus014",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2461546711,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    133.72073364257813,
+                    3.937708616256714,
+                    27.70855140686035
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 3333146085,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 2244071701,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 2326945616,
+                    "Material": 2995865652,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 30348163,
+            "ParentUUID": 1935852323,
+            "Name": "cam01focus015",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1866861885,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    135.2744598388672,
+                    3.8968656063079836,
+                    27.460460662841798
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 4074229580,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 1558602341,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 2071233678,
+                    "Material": 3367310446,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 3882901187,
+            "ParentUUID": 1935852323,
+            "Name": "cam01focus016",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1564896167,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    136.8277587890625,
+                    3.8561887741088869,
+                    27.209922790527345
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 2078603214,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 3536682205,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 3628095878,
+                    "Material": 3253332370,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 4161762485,
+            "ParentUUID": 1935852323,
+            "Name": "cam01focus017",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2845462105,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    138.38064575195313,
+                    3.8156847953796388,
+                    26.956798553466798
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 4029507625,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 1398235182,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 1806383674,
+                    "Material": 539222212,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 3993968388,
+            "ParentUUID": 1935852323,
+            "Name": "cam01focus018",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 489074813,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    139.93309020996095,
+                    3.7753686904907228,
+                    26.70094108581543
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1213014072,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 1912282656,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 2790722063,
+                    "Material": 2273206237,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 1557789683,
+            "ParentUUID": 1935852323,
+            "Name": "cam01focus019",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2197871823,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    141.485107421875,
+                    3.735240936279297,
+                    26.442203521728517
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 3806966153,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 1463121238,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 3982884894,
+                    "Material": 761856846,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 2011505332,
+            "ParentUUID": 1935852323,
+            "Name": "cam01focus020",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1549855770,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    143.03656005859376,
+                    3.6953253746032717,
+                    26.180419921875
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 913026271,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 1666080928,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 1085423290,
+                    "Material": 683108416,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 2277486827,
+            "ParentUUID": 1935852323,
+            "Name": "cam01focus021",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 3652373926,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    144.58749389648438,
+                    3.6556286811828615,
+                    25.91537857055664
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 3106235015,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 3653004992,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 1555656972,
+                    "Material": 610720847,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 108824195,
+            "ParentUUID": 1935852323,
+            "Name": "cam01focus022",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 141735595,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    146.13783264160157,
+                    3.61616849899292,
+                    25.646860122680665
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 2120282204,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 1863288977,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 605747883,
+                    "Material": 207507181,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 4210904237,
+            "ParentUUID": 1935852323,
+            "Name": "cam01focus023",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 3294331925,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    147.6875457763672,
+                    3.576955556869507,
+                    25.37467384338379
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 2186486488,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 435451600,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 1153818609,
+                    "Material": 116231309,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 2586907990,
+            "ParentUUID": 1935852323,
+            "Name": "cam01focus024",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 3576784866,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    149.23654174804688,
+                    3.5380144119262697,
+                    25.09850311279297
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 3290141027,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 2030876739,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 2169843244,
+                    "Material": 3491313184,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 1498531222,
+            "ParentUUID": 1935852323,
+            "Name": "cam01focus025",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 4225908101,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    150.78475952148438,
+                    3.4993627071380617,
+                    24.81808090209961
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1393712299,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 467431741,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 1116389326,
+                    "Material": 1308948113,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 4052400879,
+            "ParentUUID": 1935852323,
+            "Name": "cam01focus026",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 3683833704,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    152.33218383789063,
+                    3.4610238075256349,
+                    24.5330753326416
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 2475240656,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 252201335,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 3216910472,
+                    "Material": 3143498568,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 3664651166,
+            "ParentUUID": 1935852323,
+            "Name": "cam01focus027",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 225453870,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    153.87889099121095,
+                    3.4255597591400148,
+                    24.243873596191408
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 375817640,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 2397344662,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 3306638568,
+                    "Material": 1251977829,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 1757520295,
+            "ParentUUID": 1935852323,
+            "Name": "cam01focus028",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 3375013097,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    155.42593383789063,
+                    3.4084506034851076,
+                    23.95485496520996
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 28022989,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 1600368307,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 2684888644,
+                    "Material": 2810468637,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 2313213551,
+            "ParentUUID": 1935852323,
+            "Name": "cam01focus029",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 529836030,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    156.97312927246095,
+                    3.4113259315490724,
+                    23.665964126586915
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 2850427332,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 3754895623,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 3849107061,
+                    "Material": 2726344502,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 2314895705,
+            "ParentUUID": 1935852323,
+            "Name": "cam01focus030",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2417557979,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    158.5198974609375,
+                    3.432440996170044,
+                    23.375885009765626
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 3196174127,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 1707906819,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 2219048268,
+                    "Material": 2283347256,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 540782846,
+            "ParentUUID": 1935852323,
+            "Name": "cam01focus031",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 3702852801,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    160.0658721923828,
+                    3.4689483642578127,
+                    23.082977294921876
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1024970582,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 3170133996,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 3191382437,
+                    "Material": 1780617549,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 1472858048,
+            "ParentUUID": 1935852323,
+            "Name": "cam01focus032",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 3906605575,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    161.610595703125,
+                    3.517361640930176,
+                    22.78515625
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 3101658332,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 1480929311,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 3259940424,
+                    "Material": 3645257151,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 4263001014,
+            "ParentUUID": 1935852323,
+            "Name": "cam01focus033",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 3838401933,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    163.15359497070313,
+                    3.5729727745056154,
+                    22.479806900024415
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1709906477,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 2638655200,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 4163973728,
+                    "Material": 4211443791,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 3424817244,
+            "ParentUUID": 1935852323,
+            "Name": "cam01focus034",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 280200216,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    164.69436645507813,
+                    3.629549980163574,
+                    22.163511276245118
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 906145546,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 406409310,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 2271606313,
+                    "Material": 1913419267,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 1565935837,
+            "ParentUUID": 1935852323,
+            "Name": "cam01focus035",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 4104094492,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    166.23219299316407,
+                    3.6788291931152345,
+                    21.832111358642579
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 4127185126,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 2124677569,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 150178535,
+                    "Material": 27173921,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 152071706,
+            "ParentUUID": 1935852323,
+            "Name": "cam01focus036",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2175772711,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    167.7659454345703,
+                    3.7099316120147707,
+                    21.480297088623048
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 3735866856,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 4135526308,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 1443800553,
+                    "Material": 3609455704,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 3588675018,
+            "ParentUUID": 1935852323,
+            "Name": "cam01focus037",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2602438175,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    169.29345703125,
+                    3.7082552909851076,
+                    21.101360321044923
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 3360828974,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 1279564919,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 3522596269,
+                    "Material": 2974900741,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 1803747326,
+            "ParentUUID": 1935852323,
+            "Name": "cam01focus038",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 659216613,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    170.81088256835938,
+                    3.6550514698028566,
+                    20.68738555908203
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 2365434735,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 1553262147,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 3042316375,
+                    "Material": 3933163253,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 686007007,
+            "ParentUUID": 1935852323,
+            "Name": "cam01focus039",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1625200311,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    172.3107147216797,
+                    3.5258984565734865,
+                    20.22908592224121
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 2520223270,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 1438293179,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 3444478320,
+                    "Material": 1124151544,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 1495274783,
+            "ParentUUID": 1935852323,
+            "Name": "cam01focus040",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 3269311161,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    173.78001403808595,
+                    3.291966199874878,
+                    19.717309951782228
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 754683480,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 2382360242,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 1300573581,
+                    "Material": 3367828416,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 3973739453,
+            "ParentUUID": 1935852323,
+            "Name": "cam01focus041",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 830795407,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    175.1983184814453,
+                    2.9230399131774904,
+                    19.14535903930664
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 633011021,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 3698602607,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 713275726,
+                    "Material": 2613807181,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 2095026799,
+            "ParentUUID": 1935852323,
+            "Name": "cam01focus042",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1028814422,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    176.55355834960938,
+                    2.431342601776123,
+                    18.515155792236329
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 642182483,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 2158446391,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 1962242902,
+                    "Material": 101566204,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 3825589474,
+            "ParentUUID": 1935852323,
+            "Name": "cam01focus043",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 379704432,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    177.83245849609376,
+                    1.827150821685791,
+                    17.826417922973634
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 451555904,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 2173423843,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 42415165,
+                    "Material": 1508986135,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 3502067374,
+            "ParentUUID": 1935852323,
+            "Name": "cam01focus044",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1768561307,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    179.00775146484376,
+                    1.098212480545044,
+                    17.076961517333986
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1392732234,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 3146431895,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 3858483572,
+                    "Material": 773655408,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 1005439236,
+            "ParentUUID": 1935852323,
+            "Name": "cam01focus045",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 250592476,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    180.04690551757813,
+                    0.23732352256774903,
+                    16.269184112548829
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1782382678,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 1044890410,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 3794247729,
+                    "Material": 3173501031,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 3219759511,
+            "ParentUUID": 1935852323,
+            "Name": "cam01focus046",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 4127685649,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    180.91761779785157,
+                    -0.7527399063110352,
+                    15.412102699279786
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1740615812,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 3869766808,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 2126412272,
+                    "Material": 2400393180,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 2962532966,
+            "ParentUUID": 1935852323,
+            "Name": "cam01focus047",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 18476275,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    181.59425354003907,
+                    -1.8576850891113282,
+                    14.52098560333252
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 196117747,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 2300575705,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 3069788375,
+                    "Material": 527555514,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 1453673677,
+            "ParentUUID": 1935852323,
+            "Name": "cam01focus048",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 891801482,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    182.0666046142578,
+                    -3.052902936935425,
+                    13.614603996276856
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 4185650996,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 68076870,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 3851500800,
+                    "Material": 1433522193,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 970627598,
+            "ParentUUID": 1935852323,
+            "Name": "cam01focus049",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 467522737,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    182.34072875976563,
+                    -4.310361862182617,
+                    12.71041202545166
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 92871426,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 456483055,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 1833205173,
+                    "Material": 2692521752,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 966917123,
+            "ParentUUID": 1935852323,
+            "Name": "cam01focus050",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 3046781086,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    182.43516540527345,
+                    -5.604705810546875,
+                    11.821307182312012
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612
+                ]
+            },
+            "Transform2D": {
+                "UUID": 219751875,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 4055265408,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 342123677,
+                    "Material": 850238510,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        }
+    ],
+    "Overwritable": true
+} 

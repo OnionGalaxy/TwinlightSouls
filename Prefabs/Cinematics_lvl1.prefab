@@ -1,0 +1,3469 @@
+{
+    "GameObjects": [
+        {
+            "UUID": 45613290,
+            "ParentUUID": 0,
+            "Name": "Cinematics",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 73724346,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 3982866230,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": []
+        },
+        {
+            "UUID": 173199772,
+            "ParentUUID": 45613290,
+            "Name": "Intro",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 4247758202,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    -0.0,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 3211589712,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 1908452703,
+                    "ComponentType": 6,
+                    "Active": true,
+                    "ScriptName": "CameraLine"
+                }
+            ]
+        },
+        {
+            "UUID": 823491147,
+            "ParentUUID": 45613290,
+            "Name": "RuneTutorial",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2234624269,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    -0.0,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1058561416,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 3957473604,
+                    "ComponentType": 6,
+                    "Active": true,
+                    "ScriptName": "CameraLine"
+                }
+            ]
+        },
+        {
+            "UUID": 3933144117,
+            "ParentUUID": 45613290,
+            "Name": "Outro",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1292941823,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    -0.0,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1087241852,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": []
+        },
+        {
+            "UUID": 1761026887,
+            "ParentUUID": 45613290,
+            "Name": "Cinematic1",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2437052227,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    -70.11299896240235,
+                    5.0229997634887699,
+                    -173.52200317382813
+                ],
+                "Rotation": [
+                    -0.0,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 2411075979,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": []
+        },
+        {
+            "UUID": 3224339255,
+            "ParentUUID": 173199772,
+            "Name": "Fposition",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2900323389,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    80.3894271850586,
+                    26.20104217529297,
+                    87.97549438476563
+                ],
+                "Rotation": [
+                    -0.0,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 4105044895,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 4174565028,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 1805630054,
+                    "Material": 379383200,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 3670176068,
+            "ParentUUID": 173199772,
+            "Name": "Sposition",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2900323389,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    80.38941955566406,
+                    11.18231201171875,
+                    87.97549438476563
+                ],
+                "Rotation": [
+                    -0.0,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 4105044895,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 4174565028,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 1805630054,
+                    "Material": 379383200,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 1167037784,
+            "ParentUUID": 173199772,
+            "Name": "Tposition",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1874858518,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    82.65265655517578,
+                    5.032328128814697,
+                    73.91307067871094
+                ],
+                "Rotation": [
+                    179.99989318847657,
+                    -71.49971008300781,
+                    -161.46934509277345
+                ],
+                "Scale": [
+                    1.0000027418136597,
+                    0.9999994039535523,
+                    1.0000025033950806
+                ]
+            },
+            "Transform2D": {
+                "UUID": 2641139832,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 4174565028,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 1805630054,
+                    "Material": 379383200,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 4094956638,
+            "ParentUUID": 823491147,
+            "Name": "Fposition",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2900323389,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    83.72205352783203,
+                    4.849919319152832,
+                    77.7829360961914
+                ],
+                "Rotation": [
+                    179.9999542236328,
+                    74.84675598144531,
+                    179.9999542236328
+                ],
+                "Scale": [
+                    1.0000025033950806,
+                    1.0000005960464478,
+                    1.0000025033950806
+                ]
+            },
+            "Transform2D": {
+                "UUID": 4105044895,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 4174565028,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 1805630054,
+                    "Material": 379383200,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 3606879489,
+            "ParentUUID": 823491147,
+            "Name": "Runew",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2900323389,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    76.20928955078125,
+                    4.092662334442139,
+                    74.71575927734375
+                ],
+                "Rotation": [
+                    -0.0,
+                    -38.550743103027347,
+                    -0.0
+                ],
+                "Scale": [
+                    1.0000001192092896,
+                    1.0,
+                    1.0000001192092896
+                ]
+            },
+            "Transform2D": {
+                "UUID": 4105044895,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 4174565028,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 1805630054,
+                    "Material": 379383200,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 4028377889,
+            "ParentUUID": 823491147,
+            "Name": "RuneR",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2900323389,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    64.11483001708985,
+                    4.092662334442139,
+                    68.10298919677735
+                ],
+                "Rotation": [
+                    -0.0,
+                    -38.550743103027347,
+                    -0.0
+                ],
+                "Scale": [
+                    1.0000001192092896,
+                    1.0,
+                    1.0000001192092896
+                ]
+            },
+            "Transform2D": {
+                "UUID": 4105044895,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 4174565028,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 1805630054,
+                    "Material": 379383200,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 3663823546,
+            "ParentUUID": 823491147,
+            "Name": "FPR",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2900323389,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    88.5647964477539,
+                    4.092662334442139,
+                    61.98699951171875
+                ],
+                "Rotation": [
+                    -0.0,
+                    -38.550743103027347,
+                    -0.0
+                ],
+                "Scale": [
+                    1.0000001192092896,
+                    1.0,
+                    1.0000001192092896
+                ]
+            },
+            "Transform2D": {
+                "UUID": 4105044895,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 4174565028,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 1805630054,
+                    "Material": 379383200,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 420473402,
+            "ParentUUID": 3933144117,
+            "Name": "outro1",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 3813103735,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    -42.71200180053711,
+                    11.093000411987305,
+                    -137.55999755859376
+                ],
+                "Rotation": [
+                    161.54400634765626,
+                    -29.86400032043457,
+                    170.55799865722657
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1893228196,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": []
+        },
+        {
+            "UUID": 1961961790,
+            "ParentUUID": 3933144117,
+            "Name": "outro2",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 3813103735,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    -47.21541976928711,
+                    6.068302154541016,
+                    -145.00018310546876
+                ],
+                "Rotation": [
+                    166.7693328857422,
+                    -30.509443283081056,
+                    173.18678283691407
+                ],
+                "Scale": [
+                    1.0000063180923463,
+                    1.0,
+                    1.0000073909759522
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1893228196,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": []
+        },
+        {
+            "UUID": 3678150191,
+            "ParentUUID": 3933144117,
+            "Name": "single_player_pos",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1826156379,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    -53.23844528198242,
+                    2.494184732437134,
+                    -151.04393005371095
+                ],
+                "Rotation": [
+                    -0.0,
+                    37.70000076293945,
+                    -0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1153422001,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": []
+        },
+        {
+            "UUID": 2220767835,
+            "ParentUUID": 3933144117,
+            "Name": "single_player_pos_2",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1826156379,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    -53.23844528198242,
+                    2.494184732437134,
+                    -151.04393005371095
+                ],
+                "Rotation": [
+                    -0.0,
+                    -142.6999969482422,
+                    -0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1153422001,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": []
+        },
+        {
+            "UUID": 3467016116,
+            "ParentUUID": 3933144117,
+            "Name": "single_player_end",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1826156379,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    -63.05067443847656,
+                    2.494184732437134,
+                    -167.21902465820313
+                ],
+                "Rotation": [
+                    -180.0,
+                    -30.899999618530275,
+                    -180.0
+                ],
+                "Scale": [
+                    1.0000003576278687,
+                    1.0,
+                    1.0000003576278687
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1153422001,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": []
+        },
+        {
+            "UUID": 1205976611,
+            "ParentUUID": 3933144117,
+            "Name": "p1_pos",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1826156379,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    -50.87297821044922,
+                    2.494184732437134,
+                    -151.1539764404297
+                ],
+                "Rotation": [
+                    -0.0,
+                    30.200000762939454,
+                    -0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1153422001,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": []
+        },
+        {
+            "UUID": 3441994987,
+            "ParentUUID": 3933144117,
+            "Name": "p2_pos",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1826156379,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    -54.17113494873047,
+                    2.494184732437134,
+                    -148.7303924560547
+                ],
+                "Rotation": [
+                    -0.0,
+                    36.435001373291019,
+                    -0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1153422001,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": []
+        },
+        {
+            "UUID": 1999089345,
+            "ParentUUID": 3933144117,
+            "Name": "p1_pos_2",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1826156379,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    -50.776607513427737,
+                    2.494184732437134,
+                    -150.98011779785157
+                ],
+                "Rotation": [
+                    -0.0,
+                    -143.1999969482422,
+                    -0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1153422001,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": []
+        },
+        {
+            "UUID": 1138635408,
+            "ParentUUID": 3933144117,
+            "Name": "p2_pos_2",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1826156379,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    -54.17113494873047,
+                    2.494184732437134,
+                    -148.7303924560547
+                ],
+                "Rotation": [
+                    -0.0,
+                    -152.0,
+                    -0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1153422001,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": []
+        },
+        {
+            "UUID": 2972389501,
+            "ParentUUID": 3933144117,
+            "Name": "p1_end",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1826156379,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    -58.31049728393555,
+                    2.494184732437134,
+                    -162.8274383544922
+                ],
+                "Rotation": [
+                    -180.0,
+                    -35.400001525878909,
+                    -180.0
+                ],
+                "Scale": [
+                    1.0000004768371583,
+                    1.0,
+                    1.0000004768371583
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1153422001,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": []
+        },
+        {
+            "UUID": 1593982889,
+            "ParentUUID": 3933144117,
+            "Name": "p2_end",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1826156379,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    -61.89411163330078,
+                    2.494184732437134,
+                    -160.87771606445313
+                ],
+                "Rotation": [
+                    -0.0,
+                    29.434999465942384,
+                    -0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1153422001,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": []
+        },
+        {
+            "UUID": 1837896181,
+            "ParentUUID": 3933144117,
+            "Name": "LB_pos",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1955799220,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    -51.6891975402832,
+                    3.599972724914551,
+                    -149.54176330566407
+                ],
+                "Rotation": [
+                    -0.0,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1700633473,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": []
+        },
+        {
+            "UUID": 1759819276,
+            "ParentUUID": 1761026887,
+            "Name": "intro1",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2831812262,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    0.0,
+                    3.6570000648498537,
+                    0.0
+                ],
+                "Rotation": [
+                    25.69213104248047,
+                    36.996917724609378,
+                    -16.146333694458009
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 2525650469,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": []
+        },
+        {
+            "UUID": 791888896,
+            "ParentUUID": 1761026887,
+            "Name": "intro2",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2831812262,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    11.503177642822266,
+                    5.943943023681641,
+                    11.173095703125
+                ],
+                "Rotation": [
+                    34.13296890258789,
+                    27.80392074584961,
+                    -17.546947479248048
+                ],
+                "Scale": [
+                    0.9999997615814209,
+                    1.0,
+                    1.0000001192092896
+                ]
+            },
+            "Transform2D": {
+                "UUID": 2525650469,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": []
+        },
+        {
+            "UUID": 2697693714,
+            "ParentUUID": 1761026887,
+            "Name": "intro2_2",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2831812262,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    16.081844329833986,
+                    7.0,
+                    22.85809326171875
+                ],
+                "Rotation": [
+                    37.471927642822269,
+                    27.892337799072267,
+                    -19.727813720703126
+                ],
+                "Scale": [
+                    1.0,
+                    1.0000001192092896,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 2525650469,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": []
+        },
+        {
+            "UUID": 2309295298,
+            "ParentUUID": 1761026887,
+            "Name": "intro3",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2831812262,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    23.651615142822267,
+                    7.0,
+                    32.26029968261719
+                ],
+                "Rotation": [
+                    40.60077667236328,
+                    33.147438049316409,
+                    -25.111181259155275
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 2525650469,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": []
+        },
+        {
+            "UUID": 2458905168,
+            "ParentUUID": 1761026887,
+            "Name": "intro4",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2831812262,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    36.58652877807617,
+                    7.0,
+                    43.483917236328128
+                ],
+                "Rotation": [
+                    39.41590881347656,
+                    39.1492919921875,
+                    -27.424091339111329
+                ],
+                "Scale": [
+                    0.9999999403953552,
+                    0.9999998211860657,
+                    0.9999998807907105
+                ]
+            },
+            "Transform2D": {
+                "UUID": 2525650469,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": []
+        },
+        {
+            "UUID": 3453108106,
+            "ParentUUID": 1761026887,
+            "Name": "intro5",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2831812262,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    45.2659912109375,
+                    7.0,
+                    47.170867919921878
+                ],
+                "Rotation": [
+                    39.45260238647461,
+                    44.69575500488281,
+                    -30.060890197753908
+                ],
+                "Scale": [
+                    1.0000001192092896,
+                    1.0,
+                    1.0000004768371583
+                ]
+            },
+            "Transform2D": {
+                "UUID": 2525650469,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": []
+        },
+        {
+            "UUID": 1199661652,
+            "ParentUUID": 1761026887,
+            "Name": "intro6",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2831812262,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    54.88581848144531,
+                    7.0,
+                    53.02930450439453
+                ],
+                "Rotation": [
+                    40.370941162109378,
+                    35.400230407714847,
+                    -26.220388412475587
+                ],
+                "Scale": [
+                    1.0,
+                    1.0000001192092896,
+                    0.9999999403953552
+                ]
+            },
+            "Transform2D": {
+                "UUID": 2525650469,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": []
+        },
+        {
+            "UUID": 3822309525,
+            "ParentUUID": 1761026887,
+            "Name": "intro7",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2831812262,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    62.52560043334961,
+                    7.0,
+                    60.772544860839847
+                ],
+                "Rotation": [
+                    40.42531204223633,
+                    26.59857177734375,
+                    -20.87657356262207
+                ],
+                "Scale": [
+                    1.0,
+                    1.0000052452087403,
+                    1.0000046491622925
+                ]
+            },
+            "Transform2D": {
+                "UUID": 2525650469,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": []
+        },
+        {
+            "UUID": 783934351,
+            "ParentUUID": 1761026887,
+            "Name": "intro9",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2831812262,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    81.84886169433594,
+                    7.0,
+                    81.71165466308594
+                ],
+                "Rotation": [
+                    37.6826057434082,
+                    30.536312103271486,
+                    -21.427305221557618
+                ],
+                "Scale": [
+                    1.0,
+                    0.9999998211860657,
+                    0.9999998807907105
+                ]
+            },
+            "Transform2D": {
+                "UUID": 2525650469,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": []
+        },
+        {
+            "UUID": 2257465847,
+            "ParentUUID": 1761026887,
+            "Name": "intro10",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2831812262,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    91.25277709960938,
+                    7.0,
+                    92.52711486816406
+                ],
+                "Rotation": [
+                    34.49444580078125,
+                    30.173574447631837,
+                    -19.053375244140626
+                ],
+                "Scale": [
+                    0.9999998807907105,
+                    1.0,
+                    0.9999997615814209
+                ]
+            },
+            "Transform2D": {
+                "UUID": 2525650469,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": []
+        },
+        {
+            "UUID": 1080746296,
+            "ParentUUID": 1761026887,
+            "Name": "intro11",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2831812262,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    103.34352111816406,
+                    10.0,
+                    107.4459457397461
+                ],
+                "Rotation": [
+                    31.183162689208986,
+                    18.71245574951172,
+                    -10.988158226013184
+                ],
+                "Scale": [
+                    0.9999997615814209,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 2525650469,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": []
+        },
+        {
+            "UUID": 767154535,
+            "ParentUUID": 1761026887,
+            "Name": "intro12",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2831812262,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    110.34583282470703,
+                    20.0,
+                    124.51763153076172
+                ],
+                "Rotation": [
+                    31.052644729614259,
+                    9.800596237182618,
+                    -5.851868629455566
+                ],
+                "Scale": [
+                    0.9999984502792358,
+                    1.0000001192092896,
+                    0.9999997615814209
+                ]
+            },
+            "Transform2D": {
+                "UUID": 2525650469,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": []
+        },
+        {
+            "UUID": 3872942514,
+            "ParentUUID": 1761026887,
+            "Name": "intro13",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2831812262,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    113.68232727050781,
+                    15.0,
+                    138.546875
+                ],
+                "Rotation": [
+                    30.556745529174806,
+                    15.454975128173829,
+                    -8.940749168395996
+                ],
+                "Scale": [
+                    0.9999980926513672,
+                    1.0000001192092896,
+                    0.9999988079071045
+                ]
+            },
+            "Transform2D": {
+                "UUID": 2525650469,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": []
+        },
+        {
+            "UUID": 3654373664,
+            "ParentUUID": 1761026887,
+            "Name": "intro14",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2831812262,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    116.53636169433594,
+                    7.0,
+                    156.36505126953126
+                ],
+                "Rotation": [
+                    33.396202087402347,
+                    17.162487030029298,
+                    -11.008950233459473
+                ],
+                "Scale": [
+                    0.9999986886978149,
+                    1.0,
+                    0.9999995231628418
+                ]
+            },
+            "Transform2D": {
+                "UUID": 2525650469,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": []
+        },
+        {
+            "UUID": 3396644575,
+            "ParentUUID": 1761026887,
+            "Name": "intro15",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2831812262,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    121.38359069824219,
+                    7.0,
+                    169.1255645751953
+                ],
+                "Rotation": [
+                    33.28718185424805,
+                    20.59035873413086,
+                    -13.001741409301758
+                ],
+                "Scale": [
+                    0.9999988079071045,
+                    1.0,
+                    0.9999988079071045
+                ]
+            },
+            "Transform2D": {
+                "UUID": 2525650469,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": []
+        },
+        {
+            "UUID": 1954659896,
+            "ParentUUID": 1761026887,
+            "Name": "intro16",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2831812262,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    130.09152221679688,
+                    7.0,
+                    182.81089782714845
+                ],
+                "Rotation": [
+                    33.53275680541992,
+                    24.35116195678711,
+                    -15.283149719238282
+                ],
+                "Scale": [
+                    0.9999984502792358,
+                    0.9999997615814209,
+                    0.9999978542327881
+                ]
+            },
+            "Transform2D": {
+                "UUID": 2525650469,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": []
+        },
+        {
+            "UUID": 2858842312,
+            "ParentUUID": 1761026887,
+            "Name": "intro17",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2831812262,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    138.36572265625,
+                    7.0,
+                    197.87557983398438
+                ],
+                "Rotation": [
+                    33.66413879394531,
+                    16.163623809814454,
+                    -10.503681182861329
+                ],
+                "Scale": [
+                    0.9999984502792358,
+                    1.0,
+                    0.9999983310699463
+                ]
+            },
+            "Transform2D": {
+                "UUID": 2525650469,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": []
+        },
+        {
+            "UUID": 2432046584,
+            "ParentUUID": 1761026887,
+            "Name": "intro18",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2831812262,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    143.452880859375,
+                    7.0,
+                    213.7900390625
+                ],
+                "Rotation": [
+                    30.42194366455078,
+                    13.712915420532227,
+                    -7.924793243408203
+                ],
+                "Scale": [
+                    0.999997615814209,
+                    1.0,
+                    0.9999978542327881
+                ]
+            },
+            "Transform2D": {
+                "UUID": 2525650469,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": []
+        },
+        {
+            "UUID": 4127807414,
+            "ParentUUID": 1761026887,
+            "Name": "intro19",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2831812262,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    147.21133422851563,
+                    7.0,
+                    223.54527282714845
+                ],
+                "Rotation": [
+                    31.24543571472168,
+                    8.917792320251465,
+                    -5.372849464416504
+                ],
+                "Scale": [
+                    0.9999983310699463,
+                    1.0,
+                    0.9999986886978149
+                ]
+            },
+            "Transform2D": {
+                "UUID": 2525650469,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": []
+        },
+        {
+            "UUID": 2657830827,
+            "ParentUUID": 1761026887,
+            "Name": "intro20",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2831812262,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    146.30551147460938,
+                    7.0,
+                    238.31576538085938
+                ],
+                "Rotation": [
+                    39.9756965637207,
+                    44.157447814941409,
+                    -29.16716766357422
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 2525650469,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": []
+        },
+        {
+            "UUID": 2791795406,
+            "ParentUUID": 1761026887,
+            "Name": "intro21",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2831812262,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    140.557373046875,
+                    2.506999969482422,
+                    249.08380126953126
+                ],
+                "Rotation": [
+                    105.68383026123047,
+                    67.49293518066406,
+                    -107.9500503540039
+                ],
+                "Scale": [
+                    1.00002920627594,
+                    0.9999815225601196,
+                    1.000023603439331
+                ]
+            },
+            "Transform2D": {
+                "UUID": 2525650469,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": []
+        },
+        {
+            "UUID": 2441647905,
+            "ParentUUID": 1761026887,
+            "Name": "intro22",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2831812262,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    154.35671997070313,
+                    -1.1212964057922364,
+                    249.58770751953126
+                ],
+                "Rotation": [
+                    0.8539999723434448,
+                    -179.1999969482422,
+                    94.5479965209961
+                ],
+                "Scale": [
+                    1.0000547170639039,
+                    1.0,
+                    1.0000454187393189
+                ]
+            },
+            "Transform2D": {
+                "UUID": 2525650469,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": []
+        },
+        {
+            "UUID": 4065239223,
+            "ParentUUID": 1761026887,
+            "Name": "intro8",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2831812262,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    71.97052764892578,
+                    7.0,
+                    69.76404571533203
+                ],
+                "Rotation": [
+                    37.81324768066406,
+                    27.458688735961915,
+                    -19.68935203552246
+                ],
+                "Scale": [
+                    1.0,
+                    1.0000048875808716,
+                    1.0000041723251343
+                ]
+            },
+            "Transform2D": {
+                "UUID": 2525650469,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": []
+        },
+        {
+            "UUID": 3424795612,
+            "ParentUUID": 1761026887,
+            "Name": "Players positions",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2815881348,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    70.11299896240235,
+                    -5.0229997634887699,
+                    173.52200317382813
+                ],
+                "Rotation": [
+                    -0.0,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 2850562080,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": []
+        },
+        {
+            "UUID": 3960776274,
+            "ParentUUID": 3424795612,
+            "Name": "p1_begin",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1097978622,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    83.5738525390625,
+                    2.831000328063965,
+                    83.25419616699219
+                ],
+                "Rotation": [
+                    179.99993896484376,
+                    3.311999797821045,
+                    179.99993896484376
+                ],
+                "Scale": [
+                    1.0000001192092896,
+                    1.0,
+                    1.0000001192092896
+                ]
+            },
+            "Transform2D": {
+                "UUID": 2663260569,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": []
+        },
+        {
+            "UUID": 3612762776,
+            "ParentUUID": 3424795612,
+            "Name": "p2_begin",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 3938575839,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    77.09344482421875,
+                    2.8519978523254396,
+                    79.24121856689453
+                ],
+                "Rotation": [
+                    179.9999542236328,
+                    36.79999923706055,
+                    179.9999542236328
+                ],
+                "Scale": [
+                    1.0000165700912476,
+                    1.0,
+                    1.0000165700912476
+                ]
+            },
+            "Transform2D": {
+                "UUID": 953562254,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": []
+        },
+        {
+            "UUID": 2438742632,
+            "ParentUUID": 3424795612,
+            "Name": "p1_end",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1097978622,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    82.16167449951172,
+                    2.2990000247955324,
+                    75.91067504882813
+                ],
+                "Rotation": [
+                    179.99989318847657,
+                    28.00000762939453,
+                    179.99989318847657
+                ],
+                "Scale": [
+                    1.0000172853469849,
+                    1.0,
+                    1.0000172853469849
+                ]
+            },
+            "Transform2D": {
+                "UUID": 2663260569,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": []
+        },
+        {
+            "UUID": 1089849890,
+            "ParentUUID": 3424795612,
+            "Name": "p2_end",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 3938575839,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    80.28192901611328,
+                    2.178999900817871,
+                    74.41140747070313
+                ],
+                "Rotation": [
+                    179.99990844726563,
+                    43.69999694824219,
+                    179.99990844726563
+                ],
+                "Scale": [
+                    1.0000004768371583,
+                    1.0,
+                    1.0000004768371583
+                ]
+            },
+            "Transform2D": {
+                "UUID": 953562254,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": []
+        }
+    ],
+    "Overwritable": true
+} 

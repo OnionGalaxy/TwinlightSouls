@@ -1,0 +1,548 @@
+{
+    "Clips": [
+        {
+            "AnimationUUID": 2018861108,
+            "Name": "Character_Mushdoom_NEW_animation_groundburst_Take 001.anim",
+            "Loop": false
+        },
+        {
+            "AnimationUUID": 2678436191,
+            "Name": "Character_Mushdoom_NEW_animation_runcycle_Take 001.anim",
+            "Loop": true
+        },
+        {
+            "AnimationUUID": 247473722,
+            "Name": "Character_Mushdoom_NEW_animation_idle_Take 001.anim",
+            "Loop": false
+        },
+        {
+            "AnimationUUID": 2662163339,
+            "Name": "Character_Mushdoom_NEW_animation_attack_spinloop_Take 001.anim",
+            "Loop": false
+        },
+        {
+            "AnimationUUID": 2079983364,
+            "Name": "Character_Mushdoom_NEW_animation_punchreaction_rightside_Take 001.anim",
+            "Loop": false
+        },
+        {
+            "AnimationUUID": 3548961099,
+            "Name": "Character_Mushdoom_NEW_animation_death_Take 001.anim",
+            "Loop": false
+        },
+        {
+            "AnimationUUID": 4019314362,
+            "Name": "Character_Mushdoom_NEW_animation_throw_Take 001.anim",
+            "Loop": false
+        },
+        {
+            "AnimationUUID": 1730431507,
+            "Name": "Character_Mushdoom_NEW_animation_battlecry_Take 001.anim",
+            "Loop": false
+        }
+    ],
+    "States": [
+        {
+            "Name": "Idle",
+            "ClipName": "Character_Mushdoom_NEW_animation_idle_Take 001.anim",
+            "Speed": 1.0,
+            "XPosition": 17.0,
+            "YPosition": -104.0
+        },
+        {
+            "Name": "Pursue",
+            "ClipName": "Character_Mushdoom_NEW_animation_runcycle_Take 001.anim",
+            "Speed": 1.0,
+            "XPosition": 164.0,
+            "YPosition": 136.0
+        },
+        {
+            "Name": "Attack",
+            "ClipName": "Character_Mushdoom_NEW_animation_attack_spinloop_Take 001.anim",
+            "Speed": 1.0,
+            "XPosition": -476.0,
+            "YPosition": 24.0
+        },
+        {
+            "Name": "Die",
+            "ClipName": "Character_Mushdoom_NEW_animation_death_Take 001.anim",
+            "Speed": 1.0,
+            "XPosition": -684.0,
+            "YPosition": -392.0
+        },
+        {
+            "Name": "Scream",
+            "ClipName": "Character_Mushdoom_NEW_animation_battlecry_Take 001.anim",
+            "Speed": 0.800000011920929,
+            "XPosition": -44.0,
+            "YPosition": -456.0
+        },
+        {
+            "Name": "Hit",
+            "ClipName": "Character_Mushdoom_NEW_animation_punchreaction_rightside_Take 001.anim",
+            "Speed": 1.0,
+            "XPosition": -476.0,
+            "YPosition": -248.0
+        },
+        {
+            "Name": "Throw",
+            "ClipName": "Character_Mushdoom_NEW_animation_throw_Take 001.anim",
+            "Speed": 1.0,
+            "XPosition": 241.0,
+            "YPosition": -376.0
+        },
+        {
+            "Name": "Ground",
+            "ClipName": "Character_Mushdoom_NEW_animation_groundburst_Take 001.anim",
+            "Speed": 1.0,
+            "XPosition": -174.0,
+            "YPosition": 280.0
+        }
+    ],
+    "Transitions": [
+        {
+            "Source": 473105327,
+            "Target": 2343121693,
+            "Trigger": "attack",
+            "Interpolation": 100,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": []
+        },
+        {
+            "Source": 2343121693,
+            "Target": 473105327,
+            "Trigger": "pursue",
+            "Interpolation": 100,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": []
+        },
+        {
+            "Source": 2343121693,
+            "Target": 1030302321,
+            "Trigger": "die",
+            "Interpolation": 100,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": []
+        },
+        {
+            "Source": 473105327,
+            "Target": 1030302321,
+            "Trigger": "die",
+            "Interpolation": 100,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": []
+        },
+        {
+            "Source": 2343121693,
+            "Target": 0,
+            "Trigger": "hit",
+            "Interpolation": 100,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": []
+        },
+        {
+            "Source": 1168775091,
+            "Target": 3100534396,
+            "Trigger": "scream",
+            "Interpolation": 100,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": []
+        },
+        {
+            "Source": 473105327,
+            "Target": 1700614218,
+            "Trigger": "hity",
+            "Interpolation": 100,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": []
+        },
+        {
+            "Source": 2343121693,
+            "Target": 1700614218,
+            "Trigger": "hity",
+            "Interpolation": 100,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": []
+        },
+        {
+            "Source": 1700614218,
+            "Target": 473105327,
+            "Trigger": "pursue",
+            "Interpolation": 100,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": []
+        },
+        {
+            "Source": 1030302321,
+            "Target": 1168775091,
+            "Trigger": "idle",
+            "Interpolation": 100,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": []
+        },
+        {
+            "Source": 473105327,
+            "Target": 1168775091,
+            "Trigger": "idle",
+            "Interpolation": 100,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": []
+        },
+        {
+            "Source": 2343121693,
+            "Target": 1168775091,
+            "Trigger": "idle",
+            "Interpolation": 100,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": []
+        },
+        {
+            "Source": 473105327,
+            "Target": 540272591,
+            "Trigger": "throw",
+            "Interpolation": 100,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": []
+        },
+        {
+            "Source": 540272591,
+            "Target": 1030302321,
+            "Trigger": "die",
+            "Interpolation": 100,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": []
+        },
+        {
+            "Source": 540272591,
+            "Target": 1700614218,
+            "Trigger": "hity",
+            "Interpolation": 100,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": []
+        },
+        {
+            "Source": 1168775091,
+            "Target": 473105327,
+            "Trigger": "pursue",
+            "Interpolation": 100,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": []
+        },
+        {
+            "Source": 1168775091,
+            "Target": 540272591,
+            "Trigger": "throw",
+            "Interpolation": 100,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": []
+        },
+        {
+            "Source": 540272591,
+            "Target": 1168775091,
+            "Trigger": "idle",
+            "Interpolation": 100,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": []
+        },
+        {
+            "Source": 1168775091,
+            "Target": 1700614218,
+            "Trigger": "hity",
+            "Interpolation": 100,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": []
+        },
+        {
+            "Source": 3100534396,
+            "Target": 540272591,
+            "Trigger": "throw",
+            "Interpolation": 100,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": []
+        },
+        {
+            "Source": 473105327,
+            "Target": 540272591,
+            "Trigger": "",
+            "Interpolation": 100,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": []
+        },
+        {
+            "Source": 3100534396,
+            "Target": 1700614218,
+            "Trigger": "hity",
+            "Interpolation": 100,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": []
+        },
+        {
+            "Source": 540272591,
+            "Target": 1700614218,
+            "Trigger": "",
+            "Interpolation": 100,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": []
+        },
+        {
+            "Source": 3100534396,
+            "Target": 1030302321,
+            "Trigger": "die",
+            "Interpolation": 100,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": []
+        },
+        {
+            "Source": 540272591,
+            "Target": 1030302321,
+            "Trigger": "",
+            "Interpolation": 100,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": []
+        },
+        {
+            "Source": 1168775091,
+            "Target": 1030302321,
+            "Trigger": "die",
+            "Interpolation": 100,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": []
+        },
+        {
+            "Source": 3803529630,
+            "Target": 473105327,
+            "Trigger": "",
+            "Interpolation": 100,
+            "Automatic": true,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": []
+        },
+        {
+            "Source": 473105327,
+            "Target": 3803529630,
+            "Trigger": "ground",
+            "Interpolation": 100,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": []
+        },
+        {
+            "Source": 473105327,
+            "Target": 3100534396,
+            "Trigger": "scream",
+            "Interpolation": 100,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": []
+        },
+        {
+            "Source": 1168775091,
+            "Target": 3100534396,
+            "Trigger": "",
+            "Interpolation": 100,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": []
+        },
+        {
+            "Source": 1700614218,
+            "Target": 1030302321,
+            "Trigger": "die",
+            "Interpolation": 100,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": []
+        },
+        {
+            "Source": 540272591,
+            "Target": 473105327,
+            "Trigger": "pursue",
+            "Interpolation": 100,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": []
+        },
+        {
+            "Source": 1030302321,
+            "Target": 1168775091,
+            "Trigger": "",
+            "Interpolation": 100,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": []
+        },
+        {
+            "Source": 3100534396,
+            "Target": 1168775091,
+            "Trigger": "idle",
+            "Interpolation": 100,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": []
+        },
+        {
+            "Source": 540272591,
+            "Target": 1168775091,
+            "Trigger": "",
+            "Interpolation": 100,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": []
+        },
+        {
+            "Source": 473105327,
+            "Target": 1168775091,
+            "Trigger": "",
+            "Interpolation": 100,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": []
+        },
+        {
+            "Source": 3803529630,
+            "Target": 1168775091,
+            "Trigger": "idle",
+            "Interpolation": 100,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": []
+        },
+        {
+            "Source": 0,
+            "Target": 1168775091,
+            "Trigger": "idle",
+            "Interpolation": 100,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": []
+        },
+        {
+            "Source": 0,
+            "Target": 1168775091,
+            "Trigger": "idle",
+            "Interpolation": 100,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": []
+        },
+        {
+            "Source": 1030302321,
+            "Target": 1168775091,
+            "Trigger": "",
+            "Interpolation": 100,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": []
+        }
+    ],
+    "FloatVariables": [],
+    "IntVariables": [],
+    "BoolVariables": [],
+    "Default": 1168775091
+} 

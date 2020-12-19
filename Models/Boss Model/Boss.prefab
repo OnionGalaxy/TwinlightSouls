@@ -1,0 +1,2347 @@
+{
+    "GameObjects": [
+        {
+            "UUID": 1861731105,
+            "ParentUUID": 0,
+            "Name": "Boss",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 888154317,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    -2.3531112670898439,
+                    3.0354421138763429,
+                    -7.166088104248047
+                ],
+                "Rotation": [
+                    -0.0,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 3540836844,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 1850092414,
+                    "ComponentType": 6,
+                    "Active": true,
+                    "ScriptName": "BossController"
+                },
+                {
+                    "UUID": 1596480587,
+                    "ComponentType": 8,
+                    "Active": true,
+                    "StateMachineResource": 2395295743
+                }
+            ]
+        },
+        {
+            "UUID": 2207448333,
+            "ParentUUID": 1861731105,
+            "Name": "Boss1",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2064714174,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    0.0,
+                    1.556373119354248,
+                    0.0
+                ],
+                "Rotation": [
+                    -0.0,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 4150441481,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 2934234884,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 3189066240,
+                    "Material": 3414607186,
+                    "Skeleton": 1981468534,
+                    "ShadowCaster": false,
+                    "ShadowReceiver": false
+                }
+            ]
+        },
+        {
+            "UUID": 1743891638,
+            "ParentUUID": 1861731105,
+            "Name": "Crystals",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1414762855,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    -0.0,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 2212232369,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": []
+        },
+        {
+            "UUID": 3457753145,
+            "ParentUUID": 1861731105,
+            "Name": "Rocks",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2499451038,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    -0.0,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 3674052504,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": []
+        },
+        {
+            "UUID": 4121095780,
+            "ParentUUID": 1861731105,
+            "Name": "Shockwave_Mesh",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2184395539,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    0.0,
+                    1.649999976158142,
+                    0.0
+                ],
+                "Rotation": [
+                    -0.0,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 2708018082,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 57557212,
+                    "ComponentType": 8,
+                    "Active": true,
+                    "StateMachineResource": 2781585742
+                }
+            ]
+        },
+        {
+            "UUID": 2725119228,
+            "ParentUUID": 2207448333,
+            "Name": "Hand_Left",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 327268590,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    -0.0,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 2644216296,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": []
+        },
+        {
+            "UUID": 165347402,
+            "ParentUUID": 2207448333,
+            "Name": "Hand_Right",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 3479086881,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    -0.0,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 3108853353,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 3684876391,
+                    "ComponentType": 14,
+                    "Active": true,
+                    "Volume": 1.0,
+                    "SoundBank": 588876204,
+                    "3DSound": true,
+                    "PlayOnAwake": false,
+                    "SelectedEventIndex": -1
+                }
+            ]
+        },
+        {
+            "UUID": 66314833,
+            "ParentUUID": 2207448333,
+            "Name": "Finger_1_1__Right",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 4022017583,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    -0.0,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 3362308979,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": []
+        },
+        {
+            "UUID": 260166383,
+            "ParentUUID": 2207448333,
+            "Name": "Finger_1_1_Left",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 4022017583,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    -0.0,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 3362308979,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": []
+        },
+        {
+            "UUID": 3020596449,
+            "ParentUUID": 2207448333,
+            "Name": "Head",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2898648453,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    -0.0,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1954588593,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": []
+        },
+        {
+            "UUID": 117747367,
+            "ParentUUID": 2207448333,
+            "Name": "Finger_2_1_Right",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 206100431,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    -0.0,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 834093429,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": []
+        },
+        {
+            "UUID": 4263172106,
+            "ParentUUID": 2207448333,
+            "Name": "Chest",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 515718342,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    -0.0,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 223192002,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": []
+        },
+        {
+            "UUID": 3964024259,
+            "ParentUUID": 1743891638,
+            "Name": "Rock Type 1",
+            "Tag": "EnvironmentCollider",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1165483698,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    -12.819000244140625,
+                    3.247690439224243,
+                    14.145511627197266
+                ],
+                "Rotation": [
+                    -1.0177876949310303,
+                    29.934900283813478,
+                    -1.9270777702331544
+                ],
+                "Scale": [
+                    27.050188064575197,
+                    40.200172424316409,
+                    29.65949249267578
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1807574521,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 1735350966,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 2252457701,
+                    "Material": 3818040861,
+                    "Skeleton": 0,
+                    "ShadowCaster": false,
+                    "ShadowReceiver": false
+                }
+            ]
+        },
+        {
+            "UUID": 4225604962,
+            "ParentUUID": 1743891638,
+            "Name": "Rock Type 1",
+            "Tag": "EnvironmentCollider",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1165483698,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    -12.849031448364258,
+                    3.247690439224243,
+                    14.145511627197266
+                ],
+                "Rotation": [
+                    -1.0177876949310303,
+                    29.934900283813478,
+                    -1.9270777702331544
+                ],
+                "Scale": [
+                    27.050188064575197,
+                    40.200172424316409,
+                    29.65949249267578
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1807574521,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 1735350966,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 2252457701,
+                    "Material": 3818040861,
+                    "Skeleton": 0,
+                    "ShadowCaster": false,
+                    "ShadowReceiver": false
+                }
+            ]
+        },
+        {
+            "UUID": 4047554957,
+            "ParentUUID": 1743891638,
+            "Name": "Rock Type 1",
+            "Tag": "EnvironmentCollider",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1165483698,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    -12.849031448364258,
+                    3.247690439224243,
+                    14.145511627197266
+                ],
+                "Rotation": [
+                    -1.0177876949310303,
+                    29.934900283813478,
+                    -1.9270777702331544
+                ],
+                "Scale": [
+                    27.050188064575197,
+                    40.200172424316409,
+                    29.65949249267578
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1807574521,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 1735350966,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 2252457701,
+                    "Material": 3818040861,
+                    "Skeleton": 0,
+                    "ShadowCaster": false,
+                    "ShadowReceiver": false
+                }
+            ]
+        },
+        {
+            "UUID": 2113876840,
+            "ParentUUID": 1743891638,
+            "Name": "Rock Type 1",
+            "Tag": "EnvironmentCollider",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1165483698,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    -12.849031448364258,
+                    3.247690439224243,
+                    14.145511627197266
+                ],
+                "Rotation": [
+                    -1.0177876949310303,
+                    29.934900283813478,
+                    -1.9270777702331544
+                ],
+                "Scale": [
+                    27.050188064575197,
+                    40.200172424316409,
+                    29.65949249267578
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1807574521,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 1735350966,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 2252457701,
+                    "Material": 3818040861,
+                    "Skeleton": 0,
+                    "ShadowCaster": false,
+                    "ShadowReceiver": false
+                }
+            ]
+        },
+        {
+            "UUID": 504074222,
+            "ParentUUID": 1743891638,
+            "Name": "Rock Type 1",
+            "Tag": "EnvironmentCollider",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1165483698,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    -12.849031448364258,
+                    3.247690439224243,
+                    14.145511627197266
+                ],
+                "Rotation": [
+                    -1.0177876949310303,
+                    29.934900283813478,
+                    -1.9270777702331544
+                ],
+                "Scale": [
+                    27.050188064575197,
+                    40.200172424316409,
+                    29.65949249267578
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1807574521,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 1735350966,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 2252457701,
+                    "Material": 3818040861,
+                    "Skeleton": 0,
+                    "ShadowCaster": false,
+                    "ShadowReceiver": false
+                }
+            ]
+        },
+        {
+            "UUID": 1423454985,
+            "ParentUUID": 1743891638,
+            "Name": "Rock Type 1",
+            "Tag": "EnvironmentCollider",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1165483698,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    -12.849031448364258,
+                    3.247690439224243,
+                    14.145511627197266
+                ],
+                "Rotation": [
+                    -1.0177876949310303,
+                    29.934900283813478,
+                    -1.9270777702331544
+                ],
+                "Scale": [
+                    27.050188064575197,
+                    40.200172424316409,
+                    29.65949249267578
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1807574521,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 1735350966,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 2252457701,
+                    "Material": 3818040861,
+                    "Skeleton": 0,
+                    "ShadowCaster": false,
+                    "ShadowReceiver": false
+                }
+            ]
+        },
+        {
+            "UUID": 3991778208,
+            "ParentUUID": 1743891638,
+            "Name": "Rock Type 1",
+            "Tag": "EnvironmentCollider",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1165483698,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    -12.849031448364258,
+                    3.247690439224243,
+                    14.145511627197266
+                ],
+                "Rotation": [
+                    -1.0177876949310303,
+                    29.934900283813478,
+                    -1.9270777702331544
+                ],
+                "Scale": [
+                    27.050188064575197,
+                    40.200172424316409,
+                    29.65949249267578
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1807574521,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 1735350966,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 2252457701,
+                    "Material": 3818040861,
+                    "Skeleton": 0,
+                    "ShadowCaster": false,
+                    "ShadowReceiver": false
+                }
+            ]
+        },
+        {
+            "UUID": 1038875661,
+            "ParentUUID": 1743891638,
+            "Name": "Rock Type 1",
+            "Tag": "EnvironmentCollider",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1165483698,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    -12.849031448364258,
+                    3.247690439224243,
+                    14.145511627197266
+                ],
+                "Rotation": [
+                    -1.0177876949310303,
+                    29.934900283813478,
+                    -1.9270777702331544
+                ],
+                "Scale": [
+                    27.050188064575197,
+                    40.200172424316409,
+                    29.65949249267578
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1807574521,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 1735350966,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 2252457701,
+                    "Material": 3818040861,
+                    "Skeleton": 0,
+                    "ShadowCaster": false,
+                    "ShadowReceiver": false
+                }
+            ]
+        },
+        {
+            "UUID": 1030728216,
+            "ParentUUID": 1743891638,
+            "Name": "Rock Type 1",
+            "Tag": "EnvironmentCollider",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1165483698,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    -12.849031448364258,
+                    3.247690439224243,
+                    14.145511627197266
+                ],
+                "Rotation": [
+                    -1.0177876949310303,
+                    29.934900283813478,
+                    -1.9270777702331544
+                ],
+                "Scale": [
+                    27.050188064575197,
+                    40.200172424316409,
+                    29.65949249267578
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1807574521,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 1735350966,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 2252457701,
+                    "Material": 3818040861,
+                    "Skeleton": 0,
+                    "ShadowCaster": false,
+                    "ShadowReceiver": false
+                }
+            ]
+        },
+        {
+            "UUID": 155178054,
+            "ParentUUID": 1743891638,
+            "Name": "Rock Type 1",
+            "Tag": "EnvironmentCollider",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1165483698,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    -12.849031448364258,
+                    3.247690439224243,
+                    14.145511627197266
+                ],
+                "Rotation": [
+                    -1.0177876949310303,
+                    29.934900283813478,
+                    -1.9270777702331544
+                ],
+                "Scale": [
+                    27.050188064575197,
+                    40.200172424316409,
+                    29.65949249267578
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1807574521,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 1735350966,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 2252457701,
+                    "Material": 3818040861,
+                    "Skeleton": 0,
+                    "ShadowCaster": false,
+                    "ShadowReceiver": false
+                }
+            ]
+        },
+        {
+            "UUID": 615645988,
+            "ParentUUID": 1743891638,
+            "Name": "Rock Type 1",
+            "Tag": "EnvironmentCollider",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1165483698,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    -12.849031448364258,
+                    3.247690439224243,
+                    14.145511627197266
+                ],
+                "Rotation": [
+                    -1.0177876949310303,
+                    29.934900283813478,
+                    -1.9270777702331544
+                ],
+                "Scale": [
+                    27.050188064575197,
+                    40.200172424316409,
+                    29.65949249267578
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1807574521,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 1735350966,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 2252457701,
+                    "Material": 3818040861,
+                    "Skeleton": 0,
+                    "ShadowCaster": false,
+                    "ShadowReceiver": false
+                }
+            ]
+        },
+        {
+            "UUID": 2202151769,
+            "ParentUUID": 1743891638,
+            "Name": "Rock Type 1",
+            "Tag": "EnvironmentCollider",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1165483698,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    -12.849031448364258,
+                    3.247690439224243,
+                    14.145511627197266
+                ],
+                "Rotation": [
+                    -1.0177876949310303,
+                    29.934900283813478,
+                    -1.9270777702331544
+                ],
+                "Scale": [
+                    27.050188064575197,
+                    40.200172424316409,
+                    29.65949249267578
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1807574521,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 1735350966,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 2252457701,
+                    "Material": 3818040861,
+                    "Skeleton": 0,
+                    "ShadowCaster": false,
+                    "ShadowReceiver": false
+                }
+            ]
+        },
+        {
+            "UUID": 1005943477,
+            "ParentUUID": 3457753145,
+            "Name": "Rock Type 1",
+            "Tag": "EnvironmentCollider",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1165483698,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    -12.849031448364258,
+                    3.247690439224243,
+                    14.145511627197266
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    -180.0
+                ],
+                "Scale": [
+                    27.050188064575197,
+                    40.200172424316409,
+                    29.65949249267578
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1807574521,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 1735350966,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 2252457701,
+                    "Material": 3818040861,
+                    "Skeleton": 0,
+                    "ShadowCaster": false,
+                    "ShadowReceiver": false
+                }
+            ]
+        },
+        {
+            "UUID": 3627882669,
+            "ParentUUID": 4121095780,
+            "Name": "Shockwave",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 857089993,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 269805539,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 2326786179,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 1870186934,
+                    "Material": 78806283,
+                    "Skeleton": 2474668712,
+                    "ShadowCaster": false,
+                    "ShadowReceiver": false
+                }
+            ]
+        },
+        {
+            "UUID": 99509856,
+            "ParentUUID": 2725119228,
+            "Name": "Cube",
+            "Tag": "Obstacle",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 3851042881,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    -90.00000762939453,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    211.07200622558595,
+                    146.47299194335938,
+                    353.0679626464844
+                ]
+            },
+            "Transform2D": {
+                "UUID": 557831010,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 976054215,
+                    "ComponentType": 2,
+                    "Active": false,
+                    "Mesh": 334654052,
+                    "Material": 4178449714,
+                    "Skeleton": 0,
+                    "ShadowCaster": false,
+                    "ShadowReceiver": false
+                }
+            ]
+        },
+        {
+            "UUID": 108790575,
+            "ParentUUID": 165347402,
+            "Name": "Cube",
+            "Tag": "Obstacle",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 3851042881,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    1.152999997138977,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    -90.00000762939453,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    343.4429931640625,
+                    146.47300720214845,
+                    353.0679931640625
+                ]
+            },
+            "Transform2D": {
+                "UUID": 557831010,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 976054215,
+                    "ComponentType": 2,
+                    "Active": false,
+                    "Mesh": 334654052,
+                    "Material": 4178449714,
+                    "Skeleton": 0,
+                    "ShadowCaster": false,
+                    "ShadowReceiver": false
+                }
+            ]
+        },
+        {
+            "UUID": 1232300639,
+            "ParentUUID": 66314833,
+            "Name": "Cube",
+            "Tag": "Obstacle",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 3851042881,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    -90.00000762939453,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    175.3280029296875,
+                    128.6699981689453,
+                    162.92799377441407
+                ]
+            },
+            "Transform2D": {
+                "UUID": 557831010,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 976054215,
+                    "ComponentType": 2,
+                    "Active": false,
+                    "Mesh": 334654052,
+                    "Material": 4178449714,
+                    "Skeleton": 0,
+                    "ShadowCaster": false,
+                    "ShadowReceiver": false
+                }
+            ]
+        },
+        {
+            "UUID": 316547777,
+            "ParentUUID": 260166383,
+            "Name": "Cube",
+            "Tag": "Obstacle",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 3851042881,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    -90.00000762939453,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    175.3280029296875,
+                    128.6699981689453,
+                    162.92799377441407
+                ]
+            },
+            "Transform2D": {
+                "UUID": 557831010,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 976054215,
+                    "ComponentType": 2,
+                    "Active": false,
+                    "Mesh": 334654052,
+                    "Material": 4178449714,
+                    "Skeleton": 0,
+                    "ShadowCaster": false,
+                    "ShadowReceiver": false
+                }
+            ]
+        },
+        {
+            "UUID": 71913311,
+            "ParentUUID": 3020596449,
+            "Name": "Cube",
+            "Tag": "Obstacle",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 3851042881,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    -90.00000762939453,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    200.0,
+                    232.6999969482422,
+                    141.66099548339845
+                ]
+            },
+            "Transform2D": {
+                "UUID": 557831010,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 976054215,
+                    "ComponentType": 2,
+                    "Active": false,
+                    "Mesh": 334654052,
+                    "Material": 4178449714,
+                    "Skeleton": 0,
+                    "ShadowCaster": false,
+                    "ShadowReceiver": false
+                }
+            ]
+        },
+        {
+            "UUID": 503066567,
+            "ParentUUID": 4263172106,
+            "Name": "Cube",
+            "Tag": "Obstacle",
+            "IsStatic": false,
+            "Active": false,
+            "Transform": {
+                "UUID": 3851042881,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    -89.43399810791016,
+                    0.8019999861717224,
+                    -28.555999755859376
+                ],
+                "Scale": [
+                    448.96600341796877,
+                    349.9169921875,
+                    393.0469970703125
+                ]
+            },
+            "Transform2D": {
+                "UUID": 557831010,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 976054215,
+                    "ComponentType": 2,
+                    "Active": false,
+                    "Mesh": 334654052,
+                    "Material": 4178449714,
+                    "Skeleton": 0,
+                    "ShadowCaster": false,
+                    "ShadowReceiver": false
+                }
+            ]
+        }
+    ],
+    "Overwritable": true
+} 

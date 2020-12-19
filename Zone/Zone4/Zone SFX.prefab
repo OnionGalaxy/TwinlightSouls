@@ -1,0 +1,305 @@
+{
+    "GameObjects": [
+        {
+            "UUID": 1726146646,
+            "ParentUUID": 882621002,
+            "Name": "Zone SFX",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 389970698,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    -0.0,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 174094411,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 1978866532,
+                    "ComponentType": 6,
+                    "Active": true,
+                    "ScriptName": "EnvironmentSFX"
+                }
+            ]
+        },
+        {
+            "UUID": 789284188,
+            "ParentUUID": 1726146646,
+            "Name": "ambient_zone_4_1",
+            "Tag": "3DAudio",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 483585405,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    411.2709655761719,
+                    8.532240867614746,
+                    -171.4144744873047
+                ],
+                "Rotation": [
+                    -0.0,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1964018718,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 2695118255,
+                    "ComponentType": 14,
+                    "Active": true,
+                    "Volume": 1.0299999713897706,
+                    "SoundBank": 1231806483,
+                    "3DSound": true,
+                    "PlayOnAwake": true,
+                    "SelectedEventIndex": 2
+                }
+            ]
+        },
+        {
+            "UUID": 3335757516,
+            "ParentUUID": 1726146646,
+            "Name": "crystals_zone_4_2",
+            "Tag": "3DAudio",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 483585405,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    509.2163391113281,
+                    8.532243728637696,
+                    -197.71783447265626
+                ],
+                "Rotation": [
+                    -0.0,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1964018718,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 2695118255,
+                    "ComponentType": 14,
+                    "Active": true,
+                    "Volume": 1.0299999713897706,
+                    "SoundBank": 1231806483,
+                    "3DSound": true,
+                    "PlayOnAwake": true,
+                    "SelectedEventIndex": 3
+                }
+            ]
+        },
+        {
+            "UUID": 344160727,
+            "ParentUUID": 1726146646,
+            "Name": "crystals_zone_4_1",
+            "Tag": "3DAudio",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 483585405,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    427.3379211425781,
+                    8.532244682312012,
+                    -179.24789428710938
+                ],
+                "Rotation": [
+                    -0.0,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1964018718,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 2695118255,
+                    "ComponentType": 14,
+                    "Active": true,
+                    "Volume": 1.0299999713897706,
+                    "SoundBank": 1231806483,
+                    "3DSound": true,
+                    "PlayOnAwake": true,
+                    "SelectedEventIndex": 3
+                }
+            ]
+        }
+    ],
+    "Overwritable": true
+} 

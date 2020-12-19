@@ -1,0 +1,2845 @@
+{
+    "GameObjects": [
+        {
+            "UUID": 1924414409,
+            "ParentUUID": 0,
+            "Name": "Camera points 3 Rail",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 308401032,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 538130383,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": []
+        },
+        {
+            "UUID": 3516250677,
+            "ParentUUID": 1924414409,
+            "Name": "Camera 3 rail 001",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2799059972,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    33.760982513427737,
+                    16.757959365844728,
+                    -85.00752258300781
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.5458369851112366,
+                    0.5458369851112366,
+                    0.5458369851112366
+                ]
+            },
+            "Transform2D": {
+                "UUID": 452429706,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 3580826180,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 4193183601,
+                    "Material": 3825972661,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 3729792887,
+            "ParentUUID": 1924414409,
+            "Name": "Camera 3 rail 002",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 672558104,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    31.826501846313478,
+                    16.24737548828125,
+                    -84.99293518066406
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.5458369851112366,
+                    0.5458369851112366,
+                    0.5458369851112366
+                ]
+            },
+            "Transform2D": {
+                "UUID": 4194431202,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 223768291,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 1537444362,
+                    "Material": 78166924,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 4276555147,
+            "ParentUUID": 1924414409,
+            "Name": "Camera 3 rail 003",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 4000855103,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    29.889869689941408,
+                    15.757673263549805,
+                    -85.10533905029297
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.5458369851112366,
+                    0.5458369851112366,
+                    0.5458369851112366
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1413279552,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 1292895632,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 3469274421,
+                    "Material": 1014475177,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 4253079988,
+            "ParentUUID": 1924414409,
+            "Name": "Camera 3 rail 004",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 947963026,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    27.959497451782228,
+                    15.29182243347168,
+                    -85.34935760498047
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.5458369851112366,
+                    0.5458369851112366,
+                    0.5458369851112366
+                ]
+            },
+            "Transform2D": {
+                "UUID": 2009205372,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 1638500494,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 638291617,
+                    "Material": 3706490970,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 1172172031,
+            "ParentUUID": 1924414409,
+            "Name": "Camera 3 rail 005",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1245035141,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    26.04453468322754,
+                    14.852649688720704,
+                    -85.7273178100586
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.5458369851112366,
+                    0.5458369851112366,
+                    0.5458369851112366
+                ]
+            },
+            "Transform2D": {
+                "UUID": 2210271930,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 1970312904,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 1094363086,
+                    "Material": 838252640,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 2778291925,
+            "ParentUUID": 1924414409,
+            "Name": "Camera 3 rail 006",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1439685628,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    24.154333114624025,
+                    14.442546844482422,
+                    -86.2389144897461
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.5458369851112366,
+                    0.5458369851112366,
+                    0.5458369851112366
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1342023294,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 1612739202,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 1134094441,
+                    "Material": 3328589774,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 3432833158,
+            "ParentUUID": 1924414409,
+            "Name": "Camera 3 rail 007",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1782679866,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    22.29791259765625,
+                    14.063425064086914,
+                    -86.88140869140625
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.5458369851112366,
+                    0.5458369851112366,
+                    0.5458369851112366
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1222352422,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 558952854,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 1551706086,
+                    "Material": 4250137453,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 1984975863,
+            "ParentUUID": 1924414409,
+            "Name": "Camera 3 rail 008",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1938693785,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    20.483442306518556,
+                    13.716564178466797,
+                    -87.64969635009766
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.5458369851112366,
+                    0.5458369851112366,
+                    0.5458369851112366
+                ]
+            },
+            "Transform2D": {
+                "UUID": 275780608,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 4240593909,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 2585179764,
+                    "Material": 934808171,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 1785253739,
+            "ParentUUID": 1924414409,
+            "Name": "Camera 3 rail 009",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 722336120,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    18.717763900756837,
+                    13.402568817138672,
+                    -88.53670501708985
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.5458369851112366,
+                    0.5458369851112366,
+                    0.5458369851112366
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1966264599,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 622816007,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 3640665708,
+                    "Material": 1369459669,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 3741918079,
+            "ParentUUID": 1924414409,
+            "Name": "Camera 3 rail 010",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 3365477161,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    17.006141662597658,
+                    13.121378898620606,
+                    -89.53390502929688
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.5458369851112366,
+                    0.5458369851112366,
+                    0.5458369851112366
+                ]
+            },
+            "Transform2D": {
+                "UUID": 2941221769,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 3442416720,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 947233501,
+                    "Material": 1022273497,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 501712691,
+            "ParentUUID": 1924414409,
+            "Name": "Camera 3 rail 011",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2319088229,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    15.352119445800782,
+                    12.872336387634278,
+                    -90.63186645507813
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.5458369851112366,
+                    0.5458369851112366,
+                    0.5458369851112366
+                ]
+            },
+            "Transform2D": {
+                "UUID": 2494459863,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 3281586770,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 431538810,
+                    "Material": 1481583064,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 3112444330,
+            "ParentUUID": 1924414409,
+            "Name": "Camera 3 rail 012",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 422971921,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    13.757728576660157,
+                    12.65433120727539,
+                    -91.82088470458985
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.5458369851112366,
+                    0.5458369851112366,
+                    0.5458369851112366
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1806569146,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 2867753679,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 581841272,
+                    "Material": 1397078464,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 2602298963,
+            "ParentUUID": 1924414409,
+            "Name": "Camera 3 rail 013",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 8397383,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    12.242907524108887,
+                    12.46671199798584,
+                    -93.114013671875
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.5458369851112366,
+                    0.5458369851112366,
+                    0.5458369851112366
+                ]
+            },
+            "Transform2D": {
+                "UUID": 2958902646,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 393722129,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 2329466942,
+                    "Material": 2140325766,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 1940054292,
+            "ParentUUID": 1924414409,
+            "Name": "Camera 3 rail 014",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1149393504,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    10.824909210205079,
+                    12.306923866271973,
+                    -94.51644134521485
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.5458369851112366,
+                    0.5458369851112366,
+                    0.5458369851112366
+                ]
+            },
+            "Transform2D": {
+                "UUID": 3430458897,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 2243932232,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 1244797585,
+                    "Material": 1996424246,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 2113912071,
+            "ParentUUID": 1924414409,
+            "Name": "Camera 3 rail 015",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 3920991986,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    9.483562469482422,
+                    12.17069149017334,
+                    -95.99491119384766
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.5458369851112366,
+                    0.5458369851112366,
+                    0.5458369851112366
+                ]
+            },
+            "Transform2D": {
+                "UUID": 693721531,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 804888899,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 1456878278,
+                    "Material": 1085951278,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 77925120,
+            "ParentUUID": 1924414409,
+            "Name": "Camera 3 rail 016",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2890199345,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    8.203849792480469,
+                    12.05532169342041,
+                    -97.52886199951172
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.5458369851112366,
+                    0.5458369851112366,
+                    0.5458369851112366
+                ]
+            },
+            "Transform2D": {
+                "UUID": 3793073545,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 3414229806,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 1971884452,
+                    "Material": 1074073163,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 1610319151,
+            "ParentUUID": 1924414409,
+            "Name": "Camera 3 rail 017",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1418749786,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    6.973960876464844,
+                    11.95897102355957,
+                    -99.10437774658203
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.5458369851112366,
+                    0.5458369851112366,
+                    0.5458369851112366
+                ]
+            },
+            "Transform2D": {
+                "UUID": 416746095,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 4292078673,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 2335313289,
+                    "Material": 3182956582,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 481314199,
+            "ParentUUID": 1924414409,
+            "Name": "Camera 3 rail 018",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 32233178,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    5.784618854522705,
+                    11.88051700592041,
+                    -100.71170043945313
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.5458369851112366,
+                    0.5458369851112366,
+                    0.5458369851112366
+                ]
+            },
+            "Transform2D": {
+                "UUID": 2042061674,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 958049870,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 1601729543,
+                    "Material": 3948783396,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 2090817441,
+            "ParentUUID": 1924414409,
+            "Name": "Camera 3 rail 019",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 4017175986,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    4.628422260284424,
+                    11.819490432739258,
+                    -102.34381103515625
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.5458369851112366,
+                    0.5458369851112366,
+                    0.5458369851112366
+                ]
+            },
+            "Transform2D": {
+                "UUID": 699049735,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 2504031936,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 1143811580,
+                    "Material": 3955746287,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 1164993532,
+            "ParentUUID": 1924414409,
+            "Name": "Camera 3 rail 020",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 3347238348,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    3.499356508255005,
+                    11.77602767944336,
+                    -103.99536895751953
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.5458369851112366,
+                    0.5458369851112366,
+                    0.5458369851112366
+                ]
+            },
+            "Transform2D": {
+                "UUID": 421190165,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 3290132716,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 2734518715,
+                    "Material": 2190566570,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 121191903,
+            "ParentUUID": 1924414409,
+            "Name": "Camera 3 rail 021",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1046581602,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    2.3918237686157228,
+                    11.750543594360352,
+                    -105.66181182861328
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.5458369851112366,
+                    0.5458369851112366,
+                    0.5458369851112366
+                ]
+            },
+            "Transform2D": {
+                "UUID": 141491377,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 3534912430,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 1932670682,
+                    "Material": 4009261831,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 2529859617,
+            "ParentUUID": 1924414409,
+            "Name": "Camera 3 rail 022",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2552773904,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    1.3010444641113282,
+                    11.744399070739746,
+                    -107.3394775390625
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.5458369851112366,
+                    0.5458369851112366,
+                    0.5458369851112366
+                ]
+            },
+            "Transform2D": {
+                "UUID": 3487912398,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 3410620775,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 910191210,
+                    "Material": 3357461377,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 413309081,
+            "ParentUUID": 1924414409,
+            "Name": "Camera 3 rail 023",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 3302431576,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    0.2220137119293213,
+                    11.759298324584961,
+                    -109.02466583251953
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.5458369851112366,
+                    0.5458369851112366,
+                    0.5458369851112366
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1550974734,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 107809033,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 1344622902,
+                    "Material": 2162055292,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 648431164,
+            "ParentUUID": 1924414409,
+            "Name": "Camera 3 rail 024",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2925015386,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    -0.8503817319869995,
+                    11.798188209533692,
+                    -110.71369934082031
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.5458369851112366,
+                    0.5458369851112366,
+                    0.5458369851112366
+                ]
+            },
+            "Transform2D": {
+                "UUID": 2998925482,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 1856717757,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 3137042920,
+                    "Material": 1741227692,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 2189868900,
+            "ParentUUID": 1924414409,
+            "Name": "Camera 3 rail 025",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 3113872574,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    -1.922056794166565,
+                    11.865424156188965,
+                    -112.40229797363281
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.5458369851112366,
+                    0.5458369851112366,
+                    0.5458369851112366
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1541001578,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 3284027059,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 970771749,
+                    "Material": 877670941,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 477904151,
+            "ParentUUID": 1924414409,
+            "Name": "Camera 3 rail 026",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1693840991,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    -3.000617504119873,
+                    11.967890739440918,
+                    -114.0846939086914
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.5458369851112366,
+                    0.5458369851112366,
+                    0.5458369851112366
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1336467195,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 1544823080,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 1471196459,
+                    "Material": 1213464273,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 1902187216,
+            "ParentUUID": 1924414409,
+            "Name": "Camera 3 rail 027",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 671189868,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    -4.086267471313477,
+                    12.112431526184082,
+                    -115.75942993164063
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.5458369851112366,
+                    0.5458369851112366,
+                    0.5458369851112366
+                ]
+            },
+            "Transform2D": {
+                "UUID": 3412919611,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 158861319,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 1466316048,
+                    "Material": 2418341554,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 4219784996,
+            "ParentUUID": 1924414409,
+            "Name": "Camera 3 rail 028",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1379116017,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    -5.151447772979736,
+                    12.294354438781739,
+                    -117.44363403320313
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.5458369851112366,
+                    0.5458369851112366,
+                    0.5458369851112366
+                ]
+            },
+            "Transform2D": {
+                "UUID": 2147390398,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 2905865834,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 2186171523,
+                    "Material": 3374095371,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 2394544039,
+            "ParentUUID": 1924414409,
+            "Name": "Camera 3 rail 029",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 3352312837,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    -6.1912126541137699,
+                    12.515864372253418,
+                    -119.13893127441406
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.5458369851112366,
+                    0.5458369851112366,
+                    0.5458369851112366
+                ]
+            },
+            "Transform2D": {
+                "UUID": 3789158929,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 2651278771,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 1011050590,
+                    "Material": 4128980491,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 3645646090,
+            "ParentUUID": 1924414409,
+            "Name": "Camera 3 rail 030",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 553890634,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    -7.202840805053711,
+                    12.780044555664063,
+                    -120.84510040283203
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.5458369851112366,
+                    0.5458369851112366,
+                    0.5458369851112366
+                ]
+            },
+            "Transform2D": {
+                "UUID": 3092058135,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 2289348068,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 876413325,
+                    "Material": 499903450,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 3170397636,
+            "ParentUUID": 1924414409,
+            "Name": "Camera 3 rail 031",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 3085653043,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    -8.183082580566407,
+                    13.090438842773438,
+                    -122.56177520751953
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.5458369851112366,
+                    0.5458369851112366,
+                    0.5458369851112366
+                ]
+            },
+            "Transform2D": {
+                "UUID": 3982958612,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 1395677154,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 2255900646,
+                    "Material": 2675820099,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 2371336863,
+            "ParentUUID": 1924414409,
+            "Name": "Camera 3 rail 032",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1443030566,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    -9.12808895111084,
+                    13.451050758361817,
+                    -124.28831481933594
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.5458369851112366,
+                    0.5458369851112366,
+                    0.5458369851112366
+                ]
+            },
+            "Transform2D": {
+                "UUID": 3243272951,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 1925505522,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 139984299,
+                    "Material": 1091204964,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 2066551622,
+            "ParentUUID": 1924414409,
+            "Name": "Camera 3 rail 033",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2727119821,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    -10.033675193786621,
+                    13.866019248962403,
+                    -126.02374267578125
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.5458369851112366,
+                    0.5458369851112366,
+                    0.5458369851112366
+                ]
+            },
+            "Transform2D": {
+                "UUID": 3095496627,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 2980523520,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 59759062,
+                    "Material": 1787402348,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 2711368919,
+            "ParentUUID": 1924414409,
+            "Name": "Camera 3 rail 034",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 291829416,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    -10.89479923248291,
+                    14.340068817138672,
+                    -127.76663208007813
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.5458369851112366,
+                    0.5458369851112366,
+                    0.5458369851112366
+                ]
+            },
+            "Transform2D": {
+                "UUID": 2342580124,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 3829850500,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 2690685776,
+                    "Material": 1687912308,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 2982127915,
+            "ParentUUID": 1924414409,
+            "Name": "Camera 3 rail 035",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2151631131,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    -11.705824851989746,
+                    14.878114700317383,
+                    -129.5149383544922
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.5458369851112366,
+                    0.5458369851112366,
+                    0.5458369851112366
+                ]
+            },
+            "Transform2D": {
+                "UUID": 3945080192,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 2106609247,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 619554999,
+                    "Material": 1939074595,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 2557767344,
+            "ParentUUID": 1924414409,
+            "Name": "Camera 3 rail 036",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1491857380,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    -12.460394859313965,
+                    15.485313415527344,
+                    -131.2658233642578
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.5458369851112366,
+                    0.5458369851112366,
+                    0.5458369851112366
+                ]
+            },
+            "Transform2D": {
+                "UUID": 4055404957,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 2537344839,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 3090292441,
+                    "Material": 3284270237,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 1893405857,
+            "ParentUUID": 1924414409,
+            "Name": "Camera 3 rail 037",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1178968235,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    -13.012552261352539,
+                    16.018043518066408,
+                    -132.65017700195313
+                ],
+                "Rotation": [
+                    -89.99998474121094,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    0.5458369851112366,
+                    0.5458369851112366,
+                    0.5458369851112366
+                ]
+            },
+            "Transform2D": {
+                "UUID": 3215061568,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 3100339990,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 472475015,
+                    "Material": 2709401967,
+                    "Skeleton": 0,
+                    "Properties": 1
+                }
+            ]
+        }
+    ],
+    "Overwritable": true
+} 

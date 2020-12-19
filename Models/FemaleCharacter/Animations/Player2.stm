@@ -1,0 +1,3043 @@
+{
+    "Clips": [
+        {
+            "AnimationUUID": 767253999,
+            "Name": "Maincharacter_female_stun_Take 001.anim",
+            "Loop": true
+        },
+        {
+            "AnimationUUID": 3267544468,
+            "Name": "Maincharacter_female_idle_Take 001.anim",
+            "Loop": true
+        },
+        {
+            "AnimationUUID": 1878809800,
+            "Name": "Maincharacter_female_punch-left_Take 001.anim",
+            "Loop": false
+        },
+        {
+            "AnimationUUID": 604458650,
+            "Name": "Maincharacter_female_light-kick_Take 001.anim",
+            "Loop": false
+        },
+        {
+            "AnimationUUID": 3385860634,
+            "Name": "Maincharacter_female_punch-right_Take 001.anim",
+            "Loop": false
+        },
+        {
+            "AnimationUUID": 2848016489,
+            "Name": "Maincharacter_female_heavy-attack-02_Take 001.anim",
+            "Loop": false
+        },
+        {
+            "AnimationUUID": 2883466881,
+            "Name": "Maincharacter_female_heavy-attack-01_Take 001.anim",
+            "Loop": false
+        },
+        {
+            "AnimationUUID": 1943183532,
+            "Name": "Maincharacter_female_run_Take 001.anim",
+            "Loop": true
+        },
+        {
+            "AnimationUUID": 2052617996,
+            "Name": "Maincharacter_female_death_Take 001.anim",
+            "Loop": false
+        },
+        {
+            "AnimationUUID": 587981839,
+            "Name": "Maincharacter_female_shield-break_Take 001.anim",
+            "Loop": false
+        },
+        {
+            "AnimationUUID": 4207040704,
+            "Name": "Maincharacter_female_shield-cast_Take 001.anim",
+            "Loop": false
+        },
+        {
+            "AnimationUUID": 3550474301,
+            "Name": "Maincharacter_female_shield-idle_Take 001.anim",
+            "Loop": true
+        },
+        {
+            "AnimationUUID": 4106492899,
+            "Name": "Maincharacter_female_shield-run_Take 001.anim",
+            "Loop": true
+        },
+        {
+            "AnimationUUID": 1621235997,
+            "Name": "Maincharacter_female_jump-fall_Take 001.anim",
+            "Loop": true
+        },
+        {
+            "AnimationUUID": 1396563263,
+            "Name": "Maincharacter_female_knockup_Take 001.anim",
+            "Loop": false
+        },
+        {
+            "AnimationUUID": 2965981393,
+            "Name": "Maincharacter_female_lightorb_Take 001.anim",
+            "Loop": false
+        },
+        {
+            "AnimationUUID": 3533250948,
+            "Name": "Maincharacter_female_jump_Take 001.anim",
+            "Loop": false
+        },
+        {
+            "AnimationUUID": 1943183532,
+            "Name": "Maincharacter_female_run_Take 001.anim",
+            "Loop": false
+        },
+        {
+            "AnimationUUID": 1260168602,
+            "Name": "Maincharacter_female_revive_Take 001.anim",
+            "Loop": false
+        },
+        {
+            "AnimationUUID": 1360603015,
+            "Name": "Maincharacter_female_aerial-light_Take 001.anim",
+            "Loop": false
+        },
+        {
+            "AnimationUUID": 3333217998,
+            "Name": "Maincharacter_female_aerial-heavy_Take 001.anim",
+            "Loop": false
+        }
+    ],
+    "States": [
+        {
+            "Name": "Idle",
+            "ClipName": "Maincharacter_female_idle_Take 001.anim",
+            "Speed": 1.0,
+            "XPosition": -1564.0,
+            "YPosition": 232.0
+        },
+        {
+            "Name": "Run",
+            "ClipName": "Maincharacter_female_run_Take 001.anim",
+            "Speed": 2.000000238418579,
+            "XPosition": 913.0,
+            "YPosition": 120.0
+        },
+        {
+            "Name": "Die",
+            "ClipName": "Maincharacter_female_death_Take 001.anim",
+            "Speed": 1.0,
+            "XPosition": 852.0,
+            "YPosition": 744.0
+        },
+        {
+            "Name": "Jump",
+            "ClipName": "Maincharacter_female_jump_Take 001.anim",
+            "Speed": 1.0,
+            "XPosition": 1476.0,
+            "YPosition": 168.0
+        },
+        {
+            "Name": "Falling",
+            "ClipName": "Maincharacter_female_jump-fall_Take 001.anim",
+            "Speed": 0.2999999225139618,
+            "XPosition": 36.0,
+            "YPosition": 1112.0
+        },
+        {
+            "Name": "LightOne",
+            "ClipName": "Maincharacter_female_punch-left_Take 001.anim",
+            "Speed": 1.0,
+            "XPosition": -1052.0,
+            "YPosition": -376.0
+        },
+        {
+            "Name": "LightTwo",
+            "ClipName": "Maincharacter_female_punch-right_Take 001.anim",
+            "Speed": 1.0,
+            "XPosition": -446.0,
+            "YPosition": -200.0
+        },
+        {
+            "Name": "LightThree",
+            "ClipName": "Maincharacter_female_light-kick_Take 001.anim",
+            "Speed": 1.0,
+            "XPosition": -814.0,
+            "YPosition": -8.0
+        },
+        {
+            "Name": "ThrowingBall",
+            "ClipName": "Maincharacter_female_lightorb_Take 001.anim",
+            "Speed": 1.3000000715255738,
+            "XPosition": 625.0,
+            "YPosition": -312.0
+        },
+        {
+            "Name": "Reviving",
+            "ClipName": "Maincharacter_female_revive_Take 001.anim",
+            "Speed": 1.0,
+            "XPosition": 257.0,
+            "YPosition": -376.0
+        },
+        {
+            "Name": "Dash",
+            "ClipName": "Maincharacter_female_run_Take 001.anim",
+            "Speed": 1.0,
+            "XPosition": -1164.0,
+            "YPosition": -88.0
+        },
+        {
+            "Name": "DownTailSmash",
+            "ClipName": "Maincharacter_female_aerial-heavy_Take 001.anim",
+            "Speed": 0.5999999046325684,
+            "XPosition": 913.0,
+            "YPosition": -360.0
+        },
+        {
+            "Name": "HeavyOne",
+            "ClipName": "Maincharacter_female_heavy-attack-01_Take 001.anim",
+            "Speed": 1.100000023841858,
+            "XPosition": -686.0,
+            "YPosition": 632.0
+        },
+        {
+            "Name": "HeavyTwo",
+            "ClipName": "Maincharacter_female_heavy-attack-02_Take 001.anim",
+            "Speed": 1.0,
+            "XPosition": -700.0,
+            "YPosition": 152.0
+        },
+        {
+            "Name": "HeavyThree",
+            "Speed": 1.0,
+            "XPosition": -540.0,
+            "YPosition": 296.0
+        },
+        {
+            "Name": "CastShield",
+            "ClipName": "Maincharacter_female_shield-cast_Take 001.anim",
+            "Speed": 1.0,
+            "XPosition": 452.0,
+            "YPosition": 888.0
+        },
+        {
+            "Name": "ShieldIdle",
+            "ClipName": "Maincharacter_female_shield-idle_Take 001.anim",
+            "Speed": 1.0,
+            "XPosition": 644.0,
+            "YPosition": 1096.0
+        },
+        {
+            "Name": "ShieldBreak",
+            "ClipName": "Maincharacter_female_shield-break_Take 001.anim",
+            "Speed": 1.0,
+            "XPosition": 1233.0,
+            "YPosition": 1048.0
+        },
+        {
+            "Name": "Stunned",
+            "ClipName": "Maincharacter_female_stun_Take 001.anim",
+            "Speed": 1.0,
+            "XPosition": -1836.0,
+            "YPosition": 232.0
+        },
+        {
+            "Name": "ShieldRun",
+            "ClipName": "Maincharacter_female_shield-run_Take 001.anim",
+            "Speed": 1.0,
+            "XPosition": 1297.0,
+            "YPosition": 632.0
+        },
+        {
+            "Name": "Knocked",
+            "ClipName": "Maincharacter_female_knockup_Take 001.anim",
+            "Speed": 1.0,
+            "XPosition": -1756.0,
+            "YPosition": 696.0
+        },
+        {
+            "Name": "LightJumpAttack",
+            "ClipName": "Maincharacter_female_aerial-light_Take 001.anim",
+            "Speed": 1.0,
+            "XPosition": 1233.0,
+            "YPosition": -360.0
+        }
+    ],
+    "Transitions": [
+        {
+            "Source": 3969982685,
+            "Target": 1594296151,
+            "Trigger": "light_two",
+            "Interpolation": 25,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": []
+        },
+        {
+            "Source": 1594296151,
+            "Target": 3453651917,
+            "Trigger": "light_three",
+            "Interpolation": 75,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": []
+        },
+        {
+            "Source": 3453651917,
+            "Target": 3969982685,
+            "Trigger": "light_one",
+            "Interpolation": 25,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": []
+        },
+        {
+            "Source": 3969982685,
+            "Target": 2204904292,
+            "Trigger": "heavy_one",
+            "Interpolation": 25,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": []
+        },
+        {
+            "Source": 1594296151,
+            "Target": 2204904292,
+            "Trigger": "heavy_one",
+            "Interpolation": 25,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": []
+        },
+        {
+            "Source": 3453651917,
+            "Target": 2204904292,
+            "Trigger": "heavy_one",
+            "Interpolation": 25,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": []
+        },
+        {
+            "Source": 2204904292,
+            "Target": 3195782778,
+            "Trigger": "heavy_two",
+            "Interpolation": 25,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": []
+        },
+        {
+            "Source": 3195782778,
+            "Target": 335156200,
+            "Trigger": "heavy_three",
+            "Interpolation": 25,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": []
+        },
+        {
+            "Source": 1168775091,
+            "Target": 2371348074,
+            "Trigger": "",
+            "Interpolation": 250,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [
+                {
+                    "VariableNameHash": 3323480969,
+                    "Comparator": 0,
+                    "Value": 0.009999999776482582
+                }
+            ],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 1265902975,
+                    "Comparator": 2,
+                    "Value": true
+                },
+                {
+                    "VariableNameHash": 2036423722,
+                    "Comparator": 2,
+                    "Value": false
+                },
+                {
+                    "VariableNameHash": 1848342854,
+                    "Comparator": 2,
+                    "Value": false
+                },
+                {
+                    "VariableNameHash": 3536061738,
+                    "Comparator": 2,
+                    "Value": false
+                }
+            ]
+        },
+        {
+            "Source": 2371348074,
+            "Target": 1168775091,
+            "Trigger": "",
+            "Interpolation": 250,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [
+                {
+                    "VariableNameHash": 3323480969,
+                    "Comparator": 1,
+                    "Value": 0.009999999776482582
+                }
+            ],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 1265902975,
+                    "Comparator": 2,
+                    "Value": true
+                },
+                {
+                    "VariableNameHash": 2036423722,
+                    "Comparator": 2,
+                    "Value": false
+                },
+                {
+                    "VariableNameHash": 1848342854,
+                    "Comparator": 2,
+                    "Value": false
+                }
+            ]
+        },
+        {
+            "Source": 1168775091,
+            "Target": 236909357,
+            "Trigger": "",
+            "Interpolation": 100,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [
+                {
+                    "VariableNameHash": 4275108519,
+                    "Comparator": 0,
+                    "Value": 0.009999999776482582
+                }
+            ],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 2036423722,
+                    "Comparator": 2,
+                    "Value": true
+                },
+                {
+                    "VariableNameHash": 1265902975,
+                    "Comparator": 2,
+                    "Value": false
+                }
+            ]
+        },
+        {
+            "Source": 2371348074,
+            "Target": 236909357,
+            "Trigger": "",
+            "Interpolation": 100,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [
+                {
+                    "VariableNameHash": 4275108519,
+                    "Comparator": 0,
+                    "Value": 0.009999999776482582
+                }
+            ],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 2036423722,
+                    "Comparator": 2,
+                    "Value": true
+                },
+                {
+                    "VariableNameHash": 1265902975,
+                    "Comparator": 2,
+                    "Value": false
+                }
+            ]
+        },
+        {
+            "Source": 236909357,
+            "Target": 692469512,
+            "Trigger": "",
+            "Interpolation": 200,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [
+                {
+                    "VariableNameHash": 4275108519,
+                    "Comparator": 1,
+                    "Value": 0.009999999776482582
+                }
+            ],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 2036423722,
+                    "Comparator": 2,
+                    "Value": false
+                },
+                {
+                    "VariableNameHash": 1265902975,
+                    "Comparator": 2,
+                    "Value": false
+                },
+                {
+                    "VariableNameHash": 2820674733,
+                    "Comparator": 2,
+                    "Value": true
+                }
+            ]
+        },
+        {
+            "Source": 1168775091,
+            "Target": 692469512,
+            "Trigger": "",
+            "Interpolation": 25,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [
+                {
+                    "VariableNameHash": 4275108519,
+                    "Comparator": 1,
+                    "Value": 0.009999999776482582
+                }
+            ],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 1265902975,
+                    "Comparator": 2,
+                    "Value": false
+                },
+                {
+                    "VariableNameHash": 2036423722,
+                    "Comparator": 2,
+                    "Value": false
+                }
+            ]
+        },
+        {
+            "Source": 2371348074,
+            "Target": 692469512,
+            "Trigger": "",
+            "Interpolation": 25,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [
+                {
+                    "VariableNameHash": 4275108519,
+                    "Comparator": 1,
+                    "Value": 0.009999999776482582
+                }
+            ],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 1265902975,
+                    "Comparator": 2,
+                    "Value": false
+                },
+                {
+                    "VariableNameHash": 2036423722,
+                    "Comparator": 2,
+                    "Value": false
+                }
+            ]
+        },
+        {
+            "Source": 692469512,
+            "Target": 1168775091,
+            "Trigger": "",
+            "Interpolation": 250,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [
+                {
+                    "VariableNameHash": 3323480969,
+                    "Comparator": 1,
+                    "Value": 0.009999999776482582
+                },
+                {
+                    "VariableNameHash": 4275108519,
+                    "Comparator": 1,
+                    "Value": 0.009999999776482582
+                }
+            ],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 1265902975,
+                    "Comparator": 2,
+                    "Value": true
+                },
+                {
+                    "VariableNameHash": 2036423722,
+                    "Comparator": 2,
+                    "Value": false
+                }
+            ]
+        },
+        {
+            "Source": 692469512,
+            "Target": 2371348074,
+            "Trigger": "",
+            "Interpolation": 200,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [
+                {
+                    "VariableNameHash": 3323480969,
+                    "Comparator": 0,
+                    "Value": 0.009999999776482582
+                },
+                {
+                    "VariableNameHash": 4275108519,
+                    "Comparator": 1,
+                    "Value": 0.009999999776482582
+                }
+            ],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 1265902975,
+                    "Comparator": 2,
+                    "Value": true
+                },
+                {
+                    "VariableNameHash": 2820674733,
+                    "Comparator": 2,
+                    "Value": false
+                }
+            ]
+        },
+        {
+            "Source": 1168775091,
+            "Target": 1030302321,
+            "Trigger": "",
+            "Interpolation": 100,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 1428008407,
+                    "Comparator": 2,
+                    "Value": false
+                }
+            ]
+        },
+        {
+            "Source": 1030302321,
+            "Target": 1168775091,
+            "Trigger": "",
+            "Interpolation": 100,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 1428008407,
+                    "Comparator": 2,
+                    "Value": true
+                },
+                {
+                    "VariableNameHash": 1265902975,
+                    "Comparator": 2,
+                    "Value": true
+                }
+            ]
+        },
+        {
+            "Source": 1168775091,
+            "Target": 3907977003,
+            "Trigger": "",
+            "Interpolation": 100,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 1265902975,
+                    "Comparator": 2,
+                    "Value": true
+                },
+                {
+                    "VariableNameHash": 574517116,
+                    "Comparator": 2,
+                    "Value": true
+                }
+            ]
+        },
+        {
+            "Source": 3907977003,
+            "Target": 1168775091,
+            "Trigger": "",
+            "Interpolation": 100,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 1265902975,
+                    "Comparator": 2,
+                    "Value": true
+                },
+                {
+                    "VariableNameHash": 574517116,
+                    "Comparator": 2,
+                    "Value": false
+                }
+            ]
+        },
+        {
+            "Source": 1168775091,
+            "Target": 1750693397,
+            "Trigger": "",
+            "Interpolation": 25,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [
+                {
+                    "VariableNameHash": 3323480969,
+                    "Comparator": 0,
+                    "Value": 0.009999999776482582
+                }
+            ],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 3536061738,
+                    "Comparator": 2,
+                    "Value": true
+                }
+            ]
+        },
+        {
+            "Source": 1750693397,
+            "Target": 1168775091,
+            "Trigger": "",
+            "Interpolation": 25,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [
+                {
+                    "VariableNameHash": 3323480969,
+                    "Comparator": 1,
+                    "Value": 0.009999999776482582
+                }
+            ],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 3536061738,
+                    "Comparator": 2,
+                    "Value": false
+                },
+                {
+                    "VariableNameHash": 1265902975,
+                    "Comparator": 2,
+                    "Value": true
+                }
+            ]
+        },
+        {
+            "Source": 1750693397,
+            "Target": 2371348074,
+            "Trigger": "",
+            "Interpolation": 25,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [
+                {
+                    "VariableNameHash": 3323480969,
+                    "Comparator": 0,
+                    "Value": 0.009999999776482582
+                }
+            ],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 3536061738,
+                    "Comparator": 2,
+                    "Value": false
+                },
+                {
+                    "VariableNameHash": 1265902975,
+                    "Comparator": 2,
+                    "Value": true
+                }
+            ]
+        },
+        {
+            "Source": 2371348074,
+            "Target": 1750693397,
+            "Trigger": "",
+            "Interpolation": 25,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 3536061738,
+                    "Comparator": 2,
+                    "Value": true
+                }
+            ]
+        },
+        {
+            "Source": 1750693397,
+            "Target": 692469512,
+            "Trigger": "",
+            "Interpolation": 25,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [
+                {
+                    "VariableNameHash": 4275108519,
+                    "Comparator": 1,
+                    "Value": 0.009999999776482582
+                }
+            ],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 3536061738,
+                    "Comparator": 2,
+                    "Value": false
+                },
+                {
+                    "VariableNameHash": 1265902975,
+                    "Comparator": 2,
+                    "Value": false
+                }
+            ]
+        },
+        {
+            "Source": 1168775091,
+            "Target": 2246388328,
+            "Trigger": "",
+            "Interpolation": 100,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 1247171176,
+                    "Comparator": 2,
+                    "Value": true
+                }
+            ]
+        },
+        {
+            "Source": 236909357,
+            "Target": 2246388328,
+            "Trigger": "",
+            "Interpolation": 100,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 1247171176,
+                    "Comparator": 2,
+                    "Value": true
+                }
+            ]
+        },
+        {
+            "Source": 2371348074,
+            "Target": 2246388328,
+            "Trigger": "",
+            "Interpolation": 100,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 1247171176,
+                    "Comparator": 2,
+                    "Value": true
+                }
+            ]
+        },
+        {
+            "Source": 692469512,
+            "Target": 2246388328,
+            "Trigger": "",
+            "Interpolation": 100,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 1247171176,
+                    "Comparator": 2,
+                    "Value": true
+                }
+            ]
+        },
+        {
+            "Source": 2246388328,
+            "Target": 1168775091,
+            "Trigger": "",
+            "Interpolation": 150,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [
+                {
+                    "VariableNameHash": 3323480969,
+                    "Comparator": 1,
+                    "Value": 0.009999999776482582
+                }
+            ],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 1265902975,
+                    "Comparator": 2,
+                    "Value": true
+                },
+                {
+                    "VariableNameHash": 1247171176,
+                    "Comparator": 2,
+                    "Value": false
+                }
+            ]
+        },
+        {
+            "Source": 2246388328,
+            "Target": 692469512,
+            "Trigger": "",
+            "Interpolation": 150,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [
+                {
+                    "VariableNameHash": 4275108519,
+                    "Comparator": 1,
+                    "Value": 0.009999999776482582
+                }
+            ],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 1265902975,
+                    "Comparator": 2,
+                    "Value": false
+                },
+                {
+                    "VariableNameHash": 1247171176,
+                    "Comparator": 2,
+                    "Value": false
+                }
+            ]
+        },
+        {
+            "Source": 2246388328,
+            "Target": 2371348074,
+            "Trigger": "",
+            "Interpolation": 150,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [
+                {
+                    "VariableNameHash": 3323480969,
+                    "Comparator": 0,
+                    "Value": 0.009999999776482582
+                }
+            ],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 1265902975,
+                    "Comparator": 2,
+                    "Value": true
+                },
+                {
+                    "VariableNameHash": 1247171176,
+                    "Comparator": 2,
+                    "Value": false
+                }
+            ]
+        },
+        {
+            "Source": 1168775091,
+            "Target": 3969982685,
+            "Trigger": "light_one",
+            "Interpolation": 25,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 1848342854,
+                    "Comparator": 2,
+                    "Value": true
+                },
+                {
+                    "VariableNameHash": 1063173484,
+                    "Comparator": 2,
+                    "Value": true
+                },
+                {
+                    "VariableNameHash": 1265902975,
+                    "Comparator": 2,
+                    "Value": true
+                }
+            ]
+        },
+        {
+            "Source": 2371348074,
+            "Target": 3969982685,
+            "Trigger": "light_one",
+            "Interpolation": 25,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 1848342854,
+                    "Comparator": 2,
+                    "Value": true
+                },
+                {
+                    "VariableNameHash": 1063173484,
+                    "Comparator": 2,
+                    "Value": true
+                },
+                {
+                    "VariableNameHash": 1265902975,
+                    "Comparator": 2,
+                    "Value": true
+                }
+            ]
+        },
+        {
+            "Source": 3969982685,
+            "Target": 1168775091,
+            "Trigger": "",
+            "Interpolation": 25,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [
+                {
+                    "VariableNameHash": 3323480969,
+                    "Comparator": 1,
+                    "Value": 0.009999999776482582
+                }
+            ],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 1265902975,
+                    "Comparator": 2,
+                    "Value": true
+                },
+                {
+                    "VariableNameHash": 1848342854,
+                    "Comparator": 2,
+                    "Value": false
+                }
+            ]
+        },
+        {
+            "Source": 3969982685,
+            "Target": 2371348074,
+            "Trigger": "",
+            "Interpolation": 25,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [
+                {
+                    "VariableNameHash": 3323480969,
+                    "Comparator": 0,
+                    "Value": 0.009999999776482582
+                }
+            ],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 1265902975,
+                    "Comparator": 2,
+                    "Value": true
+                },
+                {
+                    "VariableNameHash": 1848342854,
+                    "Comparator": 2,
+                    "Value": false
+                }
+            ]
+        },
+        {
+            "Source": 1594296151,
+            "Target": 1168775091,
+            "Trigger": "",
+            "Interpolation": 25,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [
+                {
+                    "VariableNameHash": 3323480969,
+                    "Comparator": 1,
+                    "Value": 0.009999999776482582
+                }
+            ],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 1265902975,
+                    "Comparator": 2,
+                    "Value": true
+                },
+                {
+                    "VariableNameHash": 1848342854,
+                    "Comparator": 2,
+                    "Value": false
+                }
+            ]
+        },
+        {
+            "Source": 1594296151,
+            "Target": 2371348074,
+            "Trigger": "",
+            "Interpolation": 25,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [
+                {
+                    "VariableNameHash": 3323480969,
+                    "Comparator": 0,
+                    "Value": 0.009999999776482582
+                }
+            ],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 1265902975,
+                    "Comparator": 2,
+                    "Value": true
+                },
+                {
+                    "VariableNameHash": 1848342854,
+                    "Comparator": 2,
+                    "Value": false
+                }
+            ]
+        },
+        {
+            "Source": 1594296151,
+            "Target": 692469512,
+            "Trigger": "",
+            "Interpolation": 25,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [
+                {
+                    "VariableNameHash": 4275108519,
+                    "Comparator": 1,
+                    "Value": 0.009999999776482582
+                }
+            ],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 1265902975,
+                    "Comparator": 2,
+                    "Value": false
+                },
+                {
+                    "VariableNameHash": 1848342854,
+                    "Comparator": 2,
+                    "Value": false
+                }
+            ]
+        },
+        {
+            "Source": 3969982685,
+            "Target": 692469512,
+            "Trigger": "",
+            "Interpolation": 25,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [
+                {
+                    "VariableNameHash": 4275108519,
+                    "Comparator": 1,
+                    "Value": 0.009999999776482582
+                }
+            ],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 1265902975,
+                    "Comparator": 2,
+                    "Value": false
+                },
+                {
+                    "VariableNameHash": 1848342854,
+                    "Comparator": 2,
+                    "Value": false
+                }
+            ]
+        },
+        {
+            "Source": 3453651917,
+            "Target": 1168775091,
+            "Trigger": "",
+            "Interpolation": 25,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [
+                {
+                    "VariableNameHash": 3323480969,
+                    "Comparator": 1,
+                    "Value": 0.009999999776482582
+                }
+            ],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 1265902975,
+                    "Comparator": 2,
+                    "Value": true
+                },
+                {
+                    "VariableNameHash": 1848342854,
+                    "Comparator": 2,
+                    "Value": false
+                }
+            ]
+        },
+        {
+            "Source": 3453651917,
+            "Target": 2371348074,
+            "Trigger": "",
+            "Interpolation": 25,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [
+                {
+                    "VariableNameHash": 3323480969,
+                    "Comparator": 0,
+                    "Value": 0.009999999776482582
+                }
+            ],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 1265902975,
+                    "Comparator": 2,
+                    "Value": true
+                },
+                {
+                    "VariableNameHash": 1848342854,
+                    "Comparator": 2,
+                    "Value": false
+                }
+            ]
+        },
+        {
+            "Source": 3453651917,
+            "Target": 692469512,
+            "Trigger": "",
+            "Interpolation": 25,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [
+                {
+                    "VariableNameHash": 4275108519,
+                    "Comparator": 1,
+                    "Value": 0.009999999776482582
+                }
+            ],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 1265902975,
+                    "Comparator": 2,
+                    "Value": false
+                },
+                {
+                    "VariableNameHash": 1848342854,
+                    "Comparator": 2,
+                    "Value": false
+                }
+            ]
+        },
+        {
+            "Source": 2204904292,
+            "Target": 1168775091,
+            "Trigger": "",
+            "Interpolation": 25,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [
+                {
+                    "VariableNameHash": 3323480969,
+                    "Comparator": 1,
+                    "Value": 0.009999999776482582
+                }
+            ],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 1848342854,
+                    "Comparator": 2,
+                    "Value": false
+                },
+                {
+                    "VariableNameHash": 1265902975,
+                    "Comparator": 2,
+                    "Value": true
+                }
+            ]
+        },
+        {
+            "Source": 2204904292,
+            "Target": 2371348074,
+            "Trigger": "",
+            "Interpolation": 25,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [
+                {
+                    "VariableNameHash": 3323480969,
+                    "Comparator": 0,
+                    "Value": 0.009999999776482582
+                }
+            ],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 1848342854,
+                    "Comparator": 2,
+                    "Value": false
+                },
+                {
+                    "VariableNameHash": 1265902975,
+                    "Comparator": 2,
+                    "Value": true
+                }
+            ]
+        },
+        {
+            "Source": 2204904292,
+            "Target": 692469512,
+            "Trigger": "",
+            "Interpolation": 25,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [
+                {
+                    "VariableNameHash": 4275108519,
+                    "Comparator": 1,
+                    "Value": 0.009999999776482582
+                }
+            ],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 1265902975,
+                    "Comparator": 2,
+                    "Value": false
+                },
+                {
+                    "VariableNameHash": 1848342854,
+                    "Comparator": 2,
+                    "Value": false
+                }
+            ]
+        },
+        {
+            "Source": 2371348074,
+            "Target": 2204904292,
+            "Trigger": "heavy_one",
+            "Interpolation": 25,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 1848342854,
+                    "Comparator": 2,
+                    "Value": true
+                },
+                {
+                    "VariableNameHash": 3993817653,
+                    "Comparator": 2,
+                    "Value": true
+                },
+                {
+                    "VariableNameHash": 1265902975,
+                    "Comparator": 2,
+                    "Value": true
+                }
+            ]
+        },
+        {
+            "Source": 1168775091,
+            "Target": 2204904292,
+            "Trigger": "heavy_one",
+            "Interpolation": 25,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 1848342854,
+                    "Comparator": 2,
+                    "Value": true
+                },
+                {
+                    "VariableNameHash": 3993817653,
+                    "Comparator": 2,
+                    "Value": true
+                },
+                {
+                    "VariableNameHash": 1265902975,
+                    "Comparator": 2,
+                    "Value": true
+                }
+            ]
+        },
+        {
+            "Source": 335156200,
+            "Target": 1168775091,
+            "Trigger": "",
+            "Interpolation": 25,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [
+                {
+                    "VariableNameHash": 3323480969,
+                    "Comparator": 1,
+                    "Value": 0.009999999776482582
+                }
+            ],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 1848342854,
+                    "Comparator": 2,
+                    "Value": false
+                },
+                {
+                    "VariableNameHash": 1265902975,
+                    "Comparator": 2,
+                    "Value": true
+                }
+            ]
+        },
+        {
+            "Source": 335156200,
+            "Target": 2371348074,
+            "Trigger": "",
+            "Interpolation": 100,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [
+                {
+                    "VariableNameHash": 3323480969,
+                    "Comparator": 0,
+                    "Value": 0.009999999776482582
+                }
+            ],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 1848342854,
+                    "Comparator": 2,
+                    "Value": false
+                },
+                {
+                    "VariableNameHash": 1265902975,
+                    "Comparator": 2,
+                    "Value": true
+                }
+            ]
+        },
+        {
+            "Source": 335156200,
+            "Target": 692469512,
+            "Trigger": "",
+            "Interpolation": 25,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [
+                {
+                    "VariableNameHash": 4275108519,
+                    "Comparator": 1,
+                    "Value": 0.009999999776482582
+                }
+            ],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 1848342854,
+                    "Comparator": 2,
+                    "Value": false
+                },
+                {
+                    "VariableNameHash": 1265902975,
+                    "Comparator": 2,
+                    "Value": false
+                }
+            ]
+        },
+        {
+            "Source": 3195782778,
+            "Target": 1168775091,
+            "Trigger": "",
+            "Interpolation": 25,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [
+                {
+                    "VariableNameHash": 3323480969,
+                    "Comparator": 1,
+                    "Value": 0.009999999776482582
+                }
+            ],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 1848342854,
+                    "Comparator": 2,
+                    "Value": false
+                },
+                {
+                    "VariableNameHash": 1265902975,
+                    "Comparator": 2,
+                    "Value": true
+                }
+            ]
+        },
+        {
+            "Source": 3195782778,
+            "Target": 2371348074,
+            "Trigger": "",
+            "Interpolation": 25,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [
+                {
+                    "VariableNameHash": 3323480969,
+                    "Comparator": 0,
+                    "Value": 0.009999999776482582
+                }
+            ],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 1848342854,
+                    "Comparator": 2,
+                    "Value": false
+                },
+                {
+                    "VariableNameHash": 1265902975,
+                    "Comparator": 2,
+                    "Value": true
+                }
+            ]
+        },
+        {
+            "Source": 3195782778,
+            "Target": 692469512,
+            "Trigger": "",
+            "Interpolation": 25,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [
+                {
+                    "VariableNameHash": 4275108519,
+                    "Comparator": 1,
+                    "Value": 0.009999999776482582
+                }
+            ],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 1848342854,
+                    "Comparator": 2,
+                    "Value": false
+                },
+                {
+                    "VariableNameHash": 1265902975,
+                    "Comparator": 2,
+                    "Value": false
+                }
+            ]
+        },
+        {
+            "Source": 692469512,
+            "Target": 655716945,
+            "Trigger": "down_tail_smash",
+            "Interpolation": 25,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 1848342854,
+                    "Comparator": 2,
+                    "Value": true
+                },
+                {
+                    "VariableNameHash": 1265902975,
+                    "Comparator": 2,
+                    "Value": false
+                }
+            ]
+        },
+        {
+            "Source": 236909357,
+            "Target": 655716945,
+            "Trigger": "down_tail_smash",
+            "Interpolation": 25,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 1848342854,
+                    "Comparator": 2,
+                    "Value": true
+                },
+                {
+                    "VariableNameHash": 1265902975,
+                    "Comparator": 2,
+                    "Value": false
+                },
+                {
+                    "VariableNameHash": 3993817653,
+                    "Comparator": 2,
+                    "Value": true
+                }
+            ]
+        },
+        {
+            "Source": 655716945,
+            "Target": 1168775091,
+            "Trigger": "",
+            "Interpolation": 100,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [
+                {
+                    "VariableNameHash": 3323480969,
+                    "Comparator": 1,
+                    "Value": 0.009999999776482582
+                },
+                {
+                    "VariableNameHash": 4275108519,
+                    "Comparator": 1,
+                    "Value": 0.009999999776482582
+                }
+            ],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 1848342854,
+                    "Comparator": 2,
+                    "Value": false
+                },
+                {
+                    "VariableNameHash": 1265902975,
+                    "Comparator": 2,
+                    "Value": true
+                }
+            ]
+        },
+        {
+            "Source": 655716945,
+            "Target": 2371348074,
+            "Trigger": "",
+            "Interpolation": 100,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [
+                {
+                    "VariableNameHash": 3323480969,
+                    "Comparator": 0,
+                    "Value": 0.009999999776482582
+                },
+                {
+                    "VariableNameHash": 4275108519,
+                    "Comparator": 1,
+                    "Value": 0.009999999776482582
+                }
+            ],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 1848342854,
+                    "Comparator": 2,
+                    "Value": false
+                },
+                {
+                    "VariableNameHash": 1265902975,
+                    "Comparator": 2,
+                    "Value": true
+                }
+            ]
+        },
+        {
+            "Source": 1594296151,
+            "Target": 1030302321,
+            "Trigger": "",
+            "Interpolation": 100,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 1428008407,
+                    "Comparator": 2,
+                    "Value": false
+                }
+            ]
+        },
+        {
+            "Source": 3453651917,
+            "Target": 1030302321,
+            "Trigger": "",
+            "Interpolation": 100,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 1428008407,
+                    "Comparator": 2,
+                    "Value": false
+                }
+            ]
+        },
+        {
+            "Source": 3195782778,
+            "Target": 1030302321,
+            "Trigger": "",
+            "Interpolation": 100,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 1428008407,
+                    "Comparator": 2,
+                    "Value": false
+                }
+            ]
+        },
+        {
+            "Source": 335156200,
+            "Target": 1030302321,
+            "Trigger": "",
+            "Interpolation": 100,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 1428008407,
+                    "Comparator": 2,
+                    "Value": false
+                }
+            ]
+        },
+        {
+            "Source": 2204904292,
+            "Target": 1030302321,
+            "Trigger": "",
+            "Interpolation": 100,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 1428008407,
+                    "Comparator": 2,
+                    "Value": false
+                }
+            ]
+        },
+        {
+            "Source": 3969982685,
+            "Target": 1030302321,
+            "Trigger": "",
+            "Interpolation": 100,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 1428008407,
+                    "Comparator": 2,
+                    "Value": false
+                }
+            ]
+        },
+        {
+            "Source": 2371348074,
+            "Target": 1030302321,
+            "Trigger": "",
+            "Interpolation": 100,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 1428008407,
+                    "Comparator": 2,
+                    "Value": false
+                }
+            ]
+        },
+        {
+            "Source": 692469512,
+            "Target": 1030302321,
+            "Trigger": "",
+            "Interpolation": 100,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 1428008407,
+                    "Comparator": 2,
+                    "Value": false
+                }
+            ]
+        },
+        {
+            "Source": 655716945,
+            "Target": 1030302321,
+            "Trigger": "",
+            "Interpolation": 100,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 1428008407,
+                    "Comparator": 2,
+                    "Value": false
+                }
+            ]
+        },
+        {
+            "Source": 2246388328,
+            "Target": 1030302321,
+            "Trigger": "",
+            "Interpolation": 100,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 1428008407,
+                    "Comparator": 2,
+                    "Value": false
+                }
+            ]
+        },
+        {
+            "Source": 3907977003,
+            "Target": 1030302321,
+            "Trigger": "",
+            "Interpolation": 100,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 1428008407,
+                    "Comparator": 2,
+                    "Value": false
+                }
+            ]
+        },
+        {
+            "Source": 236909357,
+            "Target": 1030302321,
+            "Trigger": "",
+            "Interpolation": 100,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 1428008407,
+                    "Comparator": 2,
+                    "Value": false
+                }
+            ]
+        },
+        {
+            "Source": 1616230563,
+            "Target": 2112748930,
+            "Trigger": "",
+            "Interpolation": 100,
+            "Automatic": true,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": []
+        },
+        {
+            "Source": 2112748930,
+            "Target": 565813199,
+            "Trigger": "",
+            "Interpolation": 100,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 1739075748,
+                    "Comparator": 2,
+                    "Value": true
+                }
+            ]
+        },
+        {
+            "Source": 565813199,
+            "Target": 2555448388,
+            "Trigger": "",
+            "Interpolation": 25,
+            "Automatic": true,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": []
+        },
+        {
+            "Source": 1168775091,
+            "Target": 1616230563,
+            "Trigger": "",
+            "Interpolation": 25,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 863312304,
+                    "Comparator": 2,
+                    "Value": true
+                }
+            ]
+        },
+        {
+            "Source": 2112748930,
+            "Target": 1168775091,
+            "Trigger": "",
+            "Interpolation": 100,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [
+                {
+                    "VariableNameHash": 4275108519,
+                    "Comparator": 1,
+                    "Value": 0.009999999776482582
+                }
+            ],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 863312304,
+                    "Comparator": 2,
+                    "Value": false
+                },
+                {
+                    "VariableNameHash": 1265902975,
+                    "Comparator": 2,
+                    "Value": true
+                }
+            ]
+        },
+        {
+            "Source": 2112748930,
+            "Target": 692469512,
+            "Trigger": "",
+            "Interpolation": 25,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [
+                {
+                    "VariableNameHash": 4275108519,
+                    "Comparator": 1,
+                    "Value": 0.009999999776482582
+                }
+            ],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 1265902975,
+                    "Comparator": 2,
+                    "Value": false
+                },
+                {
+                    "VariableNameHash": 863312304,
+                    "Comparator": 2,
+                    "Value": false
+                }
+            ]
+        },
+        {
+            "Source": 692469512,
+            "Target": 1616230563,
+            "Trigger": "",
+            "Interpolation": 25,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 863312304,
+                    "Comparator": 2,
+                    "Value": true
+                }
+            ]
+        },
+        {
+            "Source": 2555448388,
+            "Target": 1168775091,
+            "Trigger": "",
+            "Interpolation": 100,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [
+                {
+                    "VariableNameHash": 4275108519,
+                    "Comparator": 1,
+                    "Value": 0.009999999776482582
+                }
+            ],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 1739075748,
+                    "Comparator": 2,
+                    "Value": false
+                },
+                {
+                    "VariableNameHash": 1265902975,
+                    "Comparator": 2,
+                    "Value": true
+                }
+            ]
+        },
+        {
+            "Source": 3195782778,
+            "Target": 2555448388,
+            "Trigger": "",
+            "Interpolation": 25,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 1739075748,
+                    "Comparator": 2,
+                    "Value": true
+                }
+            ]
+        },
+        {
+            "Source": 3453651917,
+            "Target": 2555448388,
+            "Trigger": "",
+            "Interpolation": 25,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 1739075748,
+                    "Comparator": 2,
+                    "Value": true
+                }
+            ]
+        },
+        {
+            "Source": 1594296151,
+            "Target": 2555448388,
+            "Trigger": "",
+            "Interpolation": 25,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 1739075748,
+                    "Comparator": 2,
+                    "Value": true
+                }
+            ]
+        },
+        {
+            "Source": 3969982685,
+            "Target": 2555448388,
+            "Trigger": "",
+            "Interpolation": 25,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 1739075748,
+                    "Comparator": 2,
+                    "Value": true
+                }
+            ]
+        },
+        {
+            "Source": 1750693397,
+            "Target": 2555448388,
+            "Trigger": "",
+            "Interpolation": 25,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 1739075748,
+                    "Comparator": 2,
+                    "Value": true
+                }
+            ]
+        },
+        {
+            "Source": 335156200,
+            "Target": 2555448388,
+            "Trigger": "",
+            "Interpolation": 25,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 1739075748,
+                    "Comparator": 2,
+                    "Value": true
+                }
+            ]
+        },
+        {
+            "Source": 2204904292,
+            "Target": 2555448388,
+            "Trigger": "",
+            "Interpolation": 25,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 1739075748,
+                    "Comparator": 2,
+                    "Value": true
+                }
+            ]
+        },
+        {
+            "Source": 3907977003,
+            "Target": 2555448388,
+            "Trigger": "",
+            "Interpolation": 25,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 1739075748,
+                    "Comparator": 2,
+                    "Value": true
+                }
+            ]
+        },
+        {
+            "Source": 2246388328,
+            "Target": 2555448388,
+            "Trigger": "",
+            "Interpolation": 25,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 1739075748,
+                    "Comparator": 2,
+                    "Value": true
+                }
+            ]
+        },
+        {
+            "Source": 2371348074,
+            "Target": 2555448388,
+            "Trigger": "",
+            "Interpolation": 25,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 1739075748,
+                    "Comparator": 2,
+                    "Value": true
+                }
+            ]
+        },
+        {
+            "Source": 655716945,
+            "Target": 2555448388,
+            "Trigger": "",
+            "Interpolation": 100,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 1739075748,
+                    "Comparator": 2,
+                    "Value": true
+                }
+            ]
+        },
+        {
+            "Source": 236909357,
+            "Target": 2555448388,
+            "Trigger": "",
+            "Interpolation": 25,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 1739075748,
+                    "Comparator": 2,
+                    "Value": true
+                }
+            ]
+        },
+        {
+            "Source": 1168775091,
+            "Target": 2555448388,
+            "Trigger": "",
+            "Interpolation": 100,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 1739075748,
+                    "Comparator": 2,
+                    "Value": true
+                }
+            ]
+        },
+        {
+            "Source": 2555448388,
+            "Target": 692469512,
+            "Trigger": "",
+            "Interpolation": 100,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [
+                {
+                    "VariableNameHash": 4275108519,
+                    "Comparator": 1,
+                    "Value": 0.009999999776482582
+                }
+            ],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 1739075748,
+                    "Comparator": 2,
+                    "Value": false
+                },
+                {
+                    "VariableNameHash": 1265902975,
+                    "Comparator": 2,
+                    "Value": false
+                }
+            ]
+        },
+        {
+            "Source": 2371348074,
+            "Target": 362930629,
+            "Trigger": "",
+            "Interpolation": 100,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 863312304,
+                    "Comparator": 2,
+                    "Value": true
+                }
+            ]
+        },
+        {
+            "Source": 362930629,
+            "Target": 565813199,
+            "Trigger": "",
+            "Interpolation": 25,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 1739075748,
+                    "Comparator": 2,
+                    "Value": true
+                }
+            ]
+        },
+        {
+            "Source": 362930629,
+            "Target": 2371348074,
+            "Trigger": "",
+            "Interpolation": 100,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [
+                {
+                    "VariableNameHash": 3323480969,
+                    "Comparator": 0,
+                    "Value": 0.009999999776482582
+                },
+                {
+                    "VariableNameHash": 4275108519,
+                    "Comparator": 1,
+                    "Value": 0.009999999776482582
+                }
+            ],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 1265902975,
+                    "Comparator": 2,
+                    "Value": true
+                },
+                {
+                    "VariableNameHash": 863312304,
+                    "Comparator": 2,
+                    "Value": false
+                }
+            ]
+        },
+        {
+            "Source": 362930629,
+            "Target": 1168775091,
+            "Trigger": "",
+            "Interpolation": 100,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [
+                {
+                    "VariableNameHash": 3323480969,
+                    "Comparator": 1,
+                    "Value": 0.009999999776482582
+                },
+                {
+                    "VariableNameHash": 4275108519,
+                    "Comparator": 1,
+                    "Value": 0.009999999776482582
+                }
+            ],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 1265902975,
+                    "Comparator": 2,
+                    "Value": false
+                }
+            ]
+        },
+        {
+            "Source": 362930629,
+            "Target": 692469512,
+            "Trigger": "",
+            "Interpolation": 100,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [
+                {
+                    "VariableNameHash": 4275108519,
+                    "Comparator": 1,
+                    "Value": 0.009999999776482582
+                }
+            ],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 1265902975,
+                    "Comparator": 2,
+                    "Value": false
+                }
+            ]
+        },
+        {
+            "Source": 2112748930,
+            "Target": 362930629,
+            "Trigger": "",
+            "Interpolation": 100,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [
+                {
+                    "VariableNameHash": 3323480969,
+                    "Comparator": 0,
+                    "Value": 0.009999999776482582
+                }
+            ],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 863312304,
+                    "Comparator": 2,
+                    "Value": true
+                }
+            ]
+        },
+        {
+            "Source": 362930629,
+            "Target": 2112748930,
+            "Trigger": "",
+            "Interpolation": 100,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [
+                {
+                    "VariableNameHash": 3323480969,
+                    "Comparator": 1,
+                    "Value": 0.009999999776482582
+                }
+            ],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 863312304,
+                    "Comparator": 2,
+                    "Value": true
+                }
+            ]
+        },
+        {
+            "Source": 1168775091,
+            "Target": 2663420382,
+            "Trigger": "",
+            "Interpolation": 25,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 363053374,
+                    "Comparator": 2,
+                    "Value": true
+                }
+            ]
+        },
+        {
+            "Source": 2555448388,
+            "Target": 2663420382,
+            "Trigger": "",
+            "Interpolation": 25,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 363053374,
+                    "Comparator": 2,
+                    "Value": true
+                }
+            ]
+        },
+        {
+            "Source": 1750693397,
+            "Target": 2663420382,
+            "Trigger": "",
+            "Interpolation": 25,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 363053374,
+                    "Comparator": 2,
+                    "Value": true
+                }
+            ]
+        },
+        {
+            "Source": 3969982685,
+            "Target": 2663420382,
+            "Trigger": "",
+            "Interpolation": 25,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 363053374,
+                    "Comparator": 2,
+                    "Value": true
+                }
+            ]
+        },
+        {
+            "Source": 3453651917,
+            "Target": 2663420382,
+            "Trigger": "",
+            "Interpolation": 25,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 363053374,
+                    "Comparator": 2,
+                    "Value": true
+                }
+            ]
+        },
+        {
+            "Source": 3195782778,
+            "Target": 2663420382,
+            "Trigger": "",
+            "Interpolation": 25,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 363053374,
+                    "Comparator": 2,
+                    "Value": true
+                }
+            ]
+        },
+        {
+            "Source": 335156200,
+            "Target": 2663420382,
+            "Trigger": "",
+            "Interpolation": 25,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 363053374,
+                    "Comparator": 2,
+                    "Value": true
+                }
+            ]
+        },
+        {
+            "Source": 2204904292,
+            "Target": 2663420382,
+            "Trigger": "",
+            "Interpolation": 25,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 363053374,
+                    "Comparator": 2,
+                    "Value": true
+                }
+            ]
+        },
+        {
+            "Source": 1594296151,
+            "Target": 2663420382,
+            "Trigger": "",
+            "Interpolation": 25,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 363053374,
+                    "Comparator": 2,
+                    "Value": true
+                }
+            ]
+        },
+        {
+            "Source": 3907977003,
+            "Target": 2663420382,
+            "Trigger": "",
+            "Interpolation": 25,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 363053374,
+                    "Comparator": 2,
+                    "Value": true
+                }
+            ]
+        },
+        {
+            "Source": 692469512,
+            "Target": 2663420382,
+            "Trigger": "",
+            "Interpolation": 25,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 363053374,
+                    "Comparator": 2,
+                    "Value": true
+                }
+            ]
+        },
+        {
+            "Source": 2246388328,
+            "Target": 2663420382,
+            "Trigger": "",
+            "Interpolation": 25,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 363053374,
+                    "Comparator": 2,
+                    "Value": true
+                }
+            ]
+        },
+        {
+            "Source": 655716945,
+            "Target": 2663420382,
+            "Trigger": "",
+            "Interpolation": 25,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 363053374,
+                    "Comparator": 2,
+                    "Value": true
+                }
+            ]
+        },
+        {
+            "Source": 2371348074,
+            "Target": 2663420382,
+            "Trigger": "",
+            "Interpolation": 25,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 363053374,
+                    "Comparator": 2,
+                    "Value": true
+                }
+            ]
+        },
+        {
+            "Source": 1616230563,
+            "Target": 2663420382,
+            "Trigger": "",
+            "Interpolation": 25,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 363053374,
+                    "Comparator": 2,
+                    "Value": true
+                }
+            ]
+        },
+        {
+            "Source": 2112748930,
+            "Target": 2663420382,
+            "Trigger": "",
+            "Interpolation": 25,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 363053374,
+                    "Comparator": 2,
+                    "Value": true
+                }
+            ]
+        },
+        {
+            "Source": 236909357,
+            "Target": 2663420382,
+            "Trigger": "",
+            "Interpolation": 25,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 363053374,
+                    "Comparator": 2,
+                    "Value": true
+                }
+            ]
+        },
+        {
+            "Source": 2663420382,
+            "Target": 692469512,
+            "Trigger": "",
+            "Interpolation": 25,
+            "Automatic": true,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": []
+        },
+        {
+            "Source": 236909357,
+            "Target": 736397571,
+            "Trigger": "light_jump_attack",
+            "Interpolation": 100,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 1848342854,
+                    "Comparator": 2,
+                    "Value": true
+                },
+                {
+                    "VariableNameHash": 1265902975,
+                    "Comparator": 2,
+                    "Value": false
+                },
+                {
+                    "VariableNameHash": 1063173484,
+                    "Comparator": 2,
+                    "Value": true
+                }
+            ]
+        },
+        {
+            "Source": 692469512,
+            "Target": 736397571,
+            "Trigger": "",
+            "Interpolation": 100,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 1848342854,
+                    "Comparator": 2,
+                    "Value": true
+                },
+                {
+                    "VariableNameHash": 1265902975,
+                    "Comparator": 2,
+                    "Value": false
+                }
+            ]
+        },
+        {
+            "Source": 736397571,
+            "Target": 2555448388,
+            "Trigger": "",
+            "Interpolation": 100,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 1739075748,
+                    "Comparator": 2,
+                    "Value": true
+                }
+            ]
+        },
+        {
+            "Source": 736397571,
+            "Target": 1168775091,
+            "Trigger": "",
+            "Interpolation": 100,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [
+                {
+                    "VariableNameHash": 3323480969,
+                    "Comparator": 1,
+                    "Value": 0.10000000149011612
+                },
+                {
+                    "VariableNameHash": 4275108519,
+                    "Comparator": 1,
+                    "Value": 0.10000000149011612
+                }
+            ],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 1848342854,
+                    "Comparator": 2,
+                    "Value": false
+                },
+                {
+                    "VariableNameHash": 1265902975,
+                    "Comparator": 2,
+                    "Value": true
+                }
+            ]
+        },
+        {
+            "Source": 736397571,
+            "Target": 2663420382,
+            "Trigger": "",
+            "Interpolation": 25,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 363053374,
+                    "Comparator": 2,
+                    "Value": true
+                }
+            ]
+        },
+        {
+            "Source": 736397571,
+            "Target": 2371348074,
+            "Trigger": "",
+            "Interpolation": 100,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [
+                {
+                    "VariableNameHash": 3323480969,
+                    "Comparator": 0,
+                    "Value": 0.10000000149011612
+                },
+                {
+                    "VariableNameHash": 4275108519,
+                    "Comparator": 1,
+                    "Value": 0.10000000149011612
+                }
+            ],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 1848342854,
+                    "Comparator": 2,
+                    "Value": false
+                },
+                {
+                    "VariableNameHash": 1265902975,
+                    "Comparator": 2,
+                    "Value": true
+                }
+            ]
+        },
+        {
+            "Source": 736397571,
+            "Target": 1030302321,
+            "Trigger": "",
+            "Interpolation": 100,
+            "Automatic": false,
+            "Priority": 0,
+            "FloatConditions": [],
+            "IntConditions": [],
+            "BoolConditions": [
+                {
+                    "VariableNameHash": 1428008407,
+                    "Comparator": 2,
+                    "Value": false
+                }
+            ]
+        }
+    ],
+    "FloatVariables": [
+        {
+            "FloatNameHash": 3323480969,
+            "FloatValue": 0.0,
+            "FloatName": "horizontal_velocity"
+        },
+        {
+            "FloatNameHash": 4275108519,
+            "FloatValue": 0.0,
+            "FloatName": "vertical_velocity"
+        }
+    ],
+    "IntVariables": [],
+    "BoolVariables": [
+        {
+            "BoolNameHash": 2036423722,
+            "BoolValue": false,
+            "BoolName": "is_jumping"
+        },
+        {
+            "BoolNameHash": 1848342854,
+            "BoolValue": false,
+            "BoolName": "is_attacking"
+        },
+        {
+            "BoolNameHash": 1265902975,
+            "BoolValue": false,
+            "BoolName": "grounded"
+        },
+        {
+            "BoolNameHash": 574517116,
+            "BoolValue": false,
+            "BoolName": "is_reviving"
+        },
+        {
+            "BoolNameHash": 2820674733,
+            "BoolValue": false,
+            "BoolName": "is_falling"
+        },
+        {
+            "BoolNameHash": 1247171176,
+            "BoolValue": false,
+            "BoolName": "throwingball"
+        },
+        {
+            "BoolNameHash": 1428008407,
+            "BoolValue": false,
+            "BoolName": "is_alive"
+        },
+        {
+            "BoolNameHash": 3536061738,
+            "BoolValue": false,
+            "BoolName": "is_dashing"
+        },
+        {
+            "BoolNameHash": 3993817653,
+            "BoolValue": false,
+            "BoolName": "heavy_attack"
+        },
+        {
+            "BoolNameHash": 1063173484,
+            "BoolValue": false,
+            "BoolName": "light_attack"
+        },
+        {
+            "BoolNameHash": 863312304,
+            "BoolValue": false,
+            "BoolName": "shield"
+        },
+        {
+            "BoolNameHash": 1739075748,
+            "BoolValue": false,
+            "BoolName": "stunned"
+        },
+        {
+            "BoolNameHash": 363053374,
+            "BoolValue": false,
+            "BoolName": "knocked"
+        }
+    ],
+    "Default": 1168775091
+} 

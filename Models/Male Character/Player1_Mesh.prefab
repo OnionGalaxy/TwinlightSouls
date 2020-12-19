@@ -1,0 +1,631 @@
+{
+    "GameObjects": [
+        {
+            "UUID": 165173107,
+            "ParentUUID": 521044214,
+            "Name": "Player1_Mesh",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 717339636,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    -90.04212951660156,
+                    -2.5,
+                    -71.71683502197266
+                ],
+                "Rotation": [
+                    -0.0,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 2395047332,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 1732334285,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 2842137865,
+                    "Material": 4182933607,
+                    "Skeleton": 4207365629,
+                    "ShadowCaster": false,
+                    "ShadowReceiver": false
+                }
+            ]
+        },
+        {
+            "UUID": 393807652,
+            "ParentUUID": 165173107,
+            "Name": "CATRigRArmDigit21",
+            "Tag": "AttackVFX",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 3938777621,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    -0.0,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 3200572151,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 3415495716,
+                    "ComponentType": 19,
+                    "Active": true,
+                    "Width": 0.19999992847442628,
+                    "Duration": 1000.0,
+                    "Min_Distance": 0.10000000149011612,
+                    "TextureUUID": 3233643689,
+                    "Color": [
+                        0.4852941036224365,
+                        0.48528924584388735,
+                        0.48528924584388735,
+                        1.0
+                    ],
+                    "Bloom_Intensity": 1.0
+                },
+                {
+                    "UUID": 702285422,
+                    "ComponentType": 16,
+                    "Active": true,
+                    "TextureUUID": 1748395978,
+                    "TextureEmissiveUUID": 0,
+                    "Width": 1.0,
+                    "Height": 1.0,
+                    "Pulse": false,
+                    "Loop": false,
+                    "BillboardType": 1,
+                    "AnimationTime": 500,
+                    "IsSpriteSheet": true,
+                    "Rows": 6,
+                    "Columns": 6,
+                    "Color": [
+                        0.0,
+                        0.8214483261108398,
+                        1.0,
+                        1.0
+                    ],
+                    "ColorEmissive": [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                    ]
+                },
+                {
+                    "UUID": 2226355544,
+                    "ComponentType": 16,
+                    "Active": true,
+                    "TextureUUID": 1748395978,
+                    "TextureEmissiveUUID": 1748395978,
+                    "Width": 2.0,
+                    "Height": 2.0,
+                    "Pulse": false,
+                    "Loop": false,
+                    "BillboardType": 1,
+                    "AnimationTime": 500,
+                    "IsSpriteSheet": true,
+                    "Rows": 6,
+                    "Columns": 6,
+                    "Color": [
+                        0.0,
+                        0.9702446460723877,
+                        1.0,
+                        1.0
+                    ],
+                    "ColorEmissive": [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                    ]
+                }
+            ]
+        },
+        {
+            "UUID": 2821175439,
+            "ParentUUID": 165173107,
+            "Name": "CATRigLArmDigit21",
+            "Tag": "AttackVFX",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 3939223204,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    -0.0,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1241791195,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 2330213271,
+                    "ComponentType": 19,
+                    "Active": true,
+                    "Width": 0.19999992847442628,
+                    "Duration": 1000.0,
+                    "Min_Distance": 0.10000000149011612,
+                    "TextureUUID": 3233643689,
+                    "Color": [
+                        0.7598038911819458,
+                        0.7597962617874146,
+                        0.7597962617874146,
+                        1.0
+                    ],
+                    "Bloom_Intensity": 1.5
+                },
+                {
+                    "UUID": 2360249704,
+                    "ComponentType": 16,
+                    "Active": true,
+                    "TextureUUID": 1748395978,
+                    "TextureEmissiveUUID": 0,
+                    "Width": 2.0,
+                    "Height": 2.0,
+                    "Pulse": false,
+                    "Loop": false,
+                    "BillboardType": 1,
+                    "AnimationTime": 500,
+                    "IsSpriteSheet": true,
+                    "Rows": 6,
+                    "Columns": 6,
+                    "Color": [
+                        0.0,
+                        1.0,
+                        1.0,
+                        1.0
+                    ],
+                    "ColorEmissive": [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                    ]
+                }
+            ]
+        },
+        {
+            "UUID": 449663008,
+            "ParentUUID": 165173107,
+            "Name": "CATRigRLegAnkle",
+            "Tag": "AttackVFX",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2115544215,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    -0.0,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 4112271694,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 2111147533,
+                    "ComponentType": 19,
+                    "Active": true,
+                    "Width": 0.20000000298023225,
+                    "Duration": 1000.0,
+                    "Min_Distance": 0.10000000149011612,
+                    "TextureUUID": 3233643689,
+                    "Color": [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                    ],
+                    "Bloom_Intensity": 1.5
+                },
+                {
+                    "UUID": 2626889410,
+                    "ComponentType": 16,
+                    "Active": true,
+                    "TextureUUID": 1748395978,
+                    "TextureEmissiveUUID": 0,
+                    "Width": 2.0,
+                    "Height": 2.0,
+                    "Pulse": false,
+                    "Loop": false,
+                    "BillboardType": 1,
+                    "AnimationTime": 500,
+                    "IsSpriteSheet": true,
+                    "Rows": 6,
+                    "Columns": 6,
+                    "Color": [
+                        0.0,
+                        0.7916772365570068,
+                        1.0,
+                        1.0
+                    ],
+                    "ColorEmissive": [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                    ]
+                }
+            ]
+        },
+        {
+            "UUID": 2641111376,
+            "ParentUUID": 165173107,
+            "Name": "CATRigTailBottom5",
+            "Tag": "AttackVFX",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2322652968,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    -0.0,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 3467990878,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 4219620163,
+                    "ComponentType": 19,
+                    "Active": true,
+                    "Width": 0.20000000298023225,
+                    "Duration": 1000.0,
+                    "Min_Distance": 0.10000000149011612,
+                    "TextureUUID": 3233643689,
+                    "Color": [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                    ],
+                    "Bloom_Intensity": 1.5
+                },
+                {
+                    "UUID": 3932390500,
+                    "ComponentType": 16,
+                    "Active": true,
+                    "TextureUUID": 1748395978,
+                    "TextureEmissiveUUID": 0,
+                    "Width": 2.0,
+                    "Height": 2.0,
+                    "Pulse": false,
+                    "Loop": false,
+                    "BillboardType": 1,
+                    "AnimationTime": 500,
+                    "IsSpriteSheet": true,
+                    "Rows": 6,
+                    "Columns": 6,
+                    "Color": [
+                        0.0,
+                        0.8809614181518555,
+                        1.0,
+                        1.0
+                    ],
+                    "ColorEmissive": [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                    ]
+                }
+            ]
+        },
+        {
+            "UUID": 1213186785,
+            "ParentUUID": 165173107,
+            "Name": "CATRigLLegAnkle",
+            "Tag": "AttackVFX",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2923695226,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    -0.0,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 4260374625,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 1734176219,
+                    "ComponentType": 19,
+                    "Active": true,
+                    "Width": 0.20000000298023225,
+                    "Duration": 1000.0,
+                    "Min_Distance": 0.10000000149011612,
+                    "TextureUUID": 3233643689,
+                    "Color": [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                    ],
+                    "Bloom_Intensity": 1.5
+                }
+            ]
+        }
+    ],
+    "Overwritable": true
+} 

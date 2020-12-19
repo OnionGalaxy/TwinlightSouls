@@ -1,0 +1,1575 @@
+{
+    "GameObjects": [
+        {
+            "UUID": 631415956,
+            "ParentUUID": 0,
+            "Name": "Enemy Drops",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 3221174443,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    100.0,
+                    100.0,
+                    100.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    10.0,
+                    10.0,
+                    10.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1672559145,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 98834284,
+                    "ComponentType": 6,
+                    "Active": true,
+                    "ScriptName": "EnemyDropManager"
+                }
+            ]
+        },
+        {
+            "UUID": 568127961,
+            "ParentUUID": 631415956,
+            "Name": "Light Orb",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 3396005281,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    -0.0,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 3756042680,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 3748397815,
+                    "ComponentType": 6,
+                    "Active": true,
+                    "ScriptName": "LightOrb",
+                    "Spread": 2.5,
+                    "SpawningTime": 700.0,
+                    "StillTime": 7500.0,
+                    "OscillationSpeed": 0.00800000037997961,
+                    "OscillationHeight": 0.20000000298023225,
+                    "TravelTime": 300.0,
+                    "AttractingRadio": 3.5,
+                    "HealingValue": 15.0,
+                    "SpecialValue": 0.5
+                },
+                {
+                    "UUID": 2833152502,
+                    "ComponentType": 14,
+                    "Active": true,
+                    "Volume": 1.0,
+                    "SoundBank": 596289744,
+                    "3DSound": true,
+                    "PlayOnAwake": false,
+                    "SelectedEventIndex": -1
+                }
+            ]
+        },
+        {
+            "UUID": 1696618771,
+            "ParentUUID": 631415956,
+            "Name": "PowerUp",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 3285372294,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    -0.0,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 683564093,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 3748397815,
+                    "ComponentType": 6,
+                    "Active": true,
+                    "ScriptName": "PowerUp",
+                    "Spread": 2.5,
+                    "SpawningTime": 700.0,
+                    "StillTime": 7500.0,
+                    "OscillationSpeed": 0.00800000037997961,
+                    "OscillationHeight": 0.20000000298023225,
+                    "TravelTime": 300.0,
+                    "AttractingRadio": 3.5,
+                    "AttackPowerupDuration": 15,
+                    "AttackPowerupBonus": 0.30000001192092898,
+                    "AttackPowerupChance": 0.5,
+                    "InvulnerablePowerupDuration": 10,
+                    "InvulnerablePowerupChance": 0.5
+                },
+                {
+                    "UUID": 2833152502,
+                    "ComponentType": 14,
+                    "Active": true,
+                    "Volume": 1.0,
+                    "SoundBank": 596289744,
+                    "3DSound": true,
+                    "PlayOnAwake": false,
+                    "SelectedEventIndex": -1
+                }
+            ]
+        },
+        {
+            "UUID": 2346013928,
+            "ParentUUID": 568127961,
+            "Name": "Mesh",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 4265508645,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    -0.0,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    10.0,
+                    10.0,
+                    10.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1853269429,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 3460292037,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 334654052,
+                    "Material": 4178449714,
+                    "Skeleton": 16777215,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 1376163778,
+            "ParentUUID": 568127961,
+            "Name": "small_texture_light_orb_VFX",
+            "Tag": "small_texture_light_orb_VFX",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1577401959,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    -0.0,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 599899485,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 2870630304,
+                    "ComponentType": 16,
+                    "Active": true,
+                    "TextureUUID": 1164342119,
+                    "TextureEmissiveUUID": 0,
+                    "Width": 0.5,
+                    "Height": 0.5,
+                    "Pulse": false,
+                    "Loop": false,
+                    "BillboardType": 1,
+                    "AnimationTime": 500,
+                    "IsSpriteSheet": true,
+                    "Rows": 8,
+                    "Columns": 6,
+                    "Color": [
+                        0.1715686321258545,
+                        1.0,
+                        0.7583739161491394,
+                        1.0
+                    ],
+                    "ColorEmissive": [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                    ],
+                    "Emissive Intensity": 1.0,
+                    "Playing Once": false
+                }
+            ]
+        },
+        {
+            "UUID": 2437015984,
+            "ParentUUID": 568127961,
+            "Name": "exterior_texture_light_orb_VFX",
+            "Tag": "exterior_texture_light_orb_VFX",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1073208141,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    -0.0,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 2957063667,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 1004976767,
+                    "ComponentType": 16,
+                    "Active": true,
+                    "TextureUUID": 2669028227,
+                    "TextureEmissiveUUID": 0,
+                    "Width": 1.0,
+                    "Height": 1.0,
+                    "Pulse": false,
+                    "Loop": false,
+                    "BillboardType": 1,
+                    "AnimationTime": 500,
+                    "IsSpriteSheet": true,
+                    "Rows": 6,
+                    "Columns": 6,
+                    "Color": [
+                        0.453125,
+                        0.9950980544090271,
+                        0.39999040961265566,
+                        1.0
+                    ],
+                    "ColorEmissive": [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                    ],
+                    "Emissive Intensity": 1.0,
+                    "Playing Once": false
+                }
+            ]
+        },
+        {
+            "UUID": 3261383395,
+            "ParentUUID": 568127961,
+            "Name": "shine_texture_light_orb_VFX",
+            "Tag": "shine_texture_light_orb_VFX",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1384291691,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    -0.0,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 264147811,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 852655075,
+                    "ComponentType": 16,
+                    "Active": true,
+                    "TextureUUID": 2669028227,
+                    "TextureEmissiveUUID": 2669028227,
+                    "Width": 1.0,
+                    "Height": 1.0,
+                    "Pulse": false,
+                    "Loop": false,
+                    "BillboardType": 1,
+                    "AnimationTime": 1000,
+                    "IsSpriteSheet": true,
+                    "Rows": 6,
+                    "Columns": 6,
+                    "Color": [
+                        0.15294118225574494,
+                        1.0,
+                        0.45098039507865908,
+                        0.6901960968971252
+                    ],
+                    "ColorEmissive": [
+                        0.14509804546833039,
+                        0.9960784316062927,
+                        0.32156863808631899,
+                        0.5372549295425415
+                    ],
+                    "Emissive Intensity": 1.0,
+                    "Playing Once": false
+                }
+            ]
+        },
+        {
+            "UUID": 92365005,
+            "ParentUUID": 568127961,
+            "Name": "trail_light_orb_VFX",
+            "Tag": "trail_light_orb_VFX",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 337399988,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    -0.0,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1712112238,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 4032795169,
+                    "ComponentType": 19,
+                    "Active": true,
+                    "Width": 0.5,
+                    "Duration": 1000.0,
+                    "TextureUUID": 3233643689,
+                    "Color": [
+                        0.42352941632270815,
+                        1.0,
+                        0.729411780834198,
+                        0.6901960968971252
+                    ],
+                    "Emissive Intensity": 1.0,
+                    "Curve Points": 5,
+                    "Texture Mode": 0,
+                    "Rows": 1,
+                    "Columns": 1,
+                    "Color Blend": false,
+                    "Color To Blend": [
+                        0.42352941632270815,
+                        1.0,
+                        0.729411780834198,
+                        0.6901960968971252
+                    ],
+                    "Portion Color 2": 0.5,
+                    "Smoothening Step": 0.30000001192092898
+                }
+            ]
+        },
+        {
+            "UUID": 136306543,
+            "ParentUUID": 1696618771,
+            "Name": "PowerUp Attack",
+            "Tag": "Powerup_attack",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 3396005281,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    -0.0,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 3756042680,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": []
+        },
+        {
+            "UUID": 2203601508,
+            "ParentUUID": 1696618771,
+            "Name": "PowerUp Invulnerability",
+            "Tag": "Powerup_invulnerability",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 3396005281,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    -0.0,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 3756042680,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": []
+        },
+        {
+            "UUID": 2836842361,
+            "ParentUUID": 136306543,
+            "Name": "Mesh",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 4265508645,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    -0.0,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    10.0,
+                    10.0,
+                    10.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1853269429,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 3460292037,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 334654052,
+                    "Material": 4178449714,
+                    "Skeleton": 16777215,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 1072066502,
+            "ParentUUID": 136306543,
+            "Name": "small_texture_light_orb_VFX",
+            "Tag": "small_texture_light_orb_VFX",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1577401959,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    -0.0,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 599899485,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 2870630304,
+                    "ComponentType": 16,
+                    "Active": true,
+                    "TextureUUID": 1164342119,
+                    "TextureEmissiveUUID": 0,
+                    "Width": 0.5,
+                    "Height": 0.5,
+                    "Pulse": false,
+                    "Loop": true,
+                    "BillboardType": 1,
+                    "AnimationTime": 500,
+                    "IsSpriteSheet": true,
+                    "Rows": 8,
+                    "Columns": 6,
+                    "Color": [
+                        0.8284313678741455,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "ColorEmissive": [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                    ],
+                    "Emissive Intensity": 1.0,
+                    "Playing Once": false
+                }
+            ]
+        },
+        {
+            "UUID": 3256436797,
+            "ParentUUID": 136306543,
+            "Name": "exterior_texture_light_orb_VFX",
+            "Tag": "exterior_texture_light_orb_VFX",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1073208141,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    -0.0,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 2957063667,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 1004976767,
+                    "ComponentType": 16,
+                    "Active": true,
+                    "TextureUUID": 2669028227,
+                    "TextureEmissiveUUID": 0,
+                    "Width": 1.0,
+                    "Height": 1.0,
+                    "Pulse": false,
+                    "Loop": true,
+                    "BillboardType": 1,
+                    "AnimationTime": 500,
+                    "IsSpriteSheet": true,
+                    "Rows": 6,
+                    "Columns": 6,
+                    "Color": [
+                        0.10784316062927246,
+                        0.0010572890751063824,
+                        0.0010572890751063824,
+                        1.0
+                    ],
+                    "ColorEmissive": [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                    ],
+                    "Emissive Intensity": 1.0,
+                    "Playing Once": false
+                }
+            ]
+        },
+        {
+            "UUID": 712277581,
+            "ParentUUID": 136306543,
+            "Name": "shine_texture_light_orb_VFX",
+            "Tag": "shine_texture_light_orb_VFX",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1384291691,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    -0.0,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 264147811,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 852655075,
+                    "ComponentType": 16,
+                    "Active": true,
+                    "TextureUUID": 2669028227,
+                    "TextureEmissiveUUID": 2669028227,
+                    "Width": 1.0,
+                    "Height": 1.0,
+                    "Pulse": false,
+                    "Loop": true,
+                    "BillboardType": 1,
+                    "AnimationTime": 1000,
+                    "IsSpriteSheet": true,
+                    "Rows": 6,
+                    "Columns": 6,
+                    "Color": [
+                        0.9803921580314636,
+                        0.10092270374298096,
+                        0.10092270374298096,
+                        0.6901960968971252
+                    ],
+                    "ColorEmissive": [
+                        0.15686273574829102,
+                        0.014609766192734242,
+                        0.014609766192734242,
+                        0.5372549295425415
+                    ],
+                    "Emissive Intensity": 1.0,
+                    "Playing Once": false
+                }
+            ]
+        },
+        {
+            "UUID": 1386083243,
+            "ParentUUID": 2203601508,
+            "Name": "Mesh",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 4265508645,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    -0.0,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    10.0,
+                    10.0,
+                    10.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1853269429,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 3460292037,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 334654052,
+                    "Material": 4178449714,
+                    "Skeleton": 16777215,
+                    "Properties": 1
+                }
+            ]
+        },
+        {
+            "UUID": 745318165,
+            "ParentUUID": 2203601508,
+            "Name": "small_texture_light_orb_VFX",
+            "Tag": "small_texture_light_orb_VFX",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1577401959,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    -0.0,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 599899485,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 2870630304,
+                    "ComponentType": 16,
+                    "Active": true,
+                    "TextureUUID": 1164342119,
+                    "TextureEmissiveUUID": 0,
+                    "Width": 0.5,
+                    "Height": 0.5,
+                    "Pulse": false,
+                    "Loop": true,
+                    "BillboardType": 1,
+                    "AnimationTime": 500,
+                    "IsSpriteSheet": true,
+                    "Rows": 8,
+                    "Columns": 6,
+                    "Color": [
+                        0.07352942228317261,
+                        0.40051889419555666,
+                        1.0,
+                        1.0
+                    ],
+                    "ColorEmissive": [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                    ],
+                    "Emissive Intensity": 1.0,
+                    "Playing Once": false
+                }
+            ]
+        },
+        {
+            "UUID": 1518692248,
+            "ParentUUID": 2203601508,
+            "Name": "exterior_texture_light_orb_VFX",
+            "Tag": "exterior_texture_light_orb_VFX",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1073208141,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    -0.0,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 2957063667,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 1004976767,
+                    "ComponentType": 16,
+                    "Active": true,
+                    "TextureUUID": 2669028227,
+                    "TextureEmissiveUUID": 0,
+                    "Width": 1.0,
+                    "Height": 1.0,
+                    "Pulse": false,
+                    "Loop": true,
+                    "BillboardType": 1,
+                    "AnimationTime": 500,
+                    "IsSpriteSheet": true,
+                    "Rows": 6,
+                    "Columns": 6,
+                    "Color": [
+                        0.0,
+                        0.05101281777024269,
+                        0.14705884456634522,
+                        1.0
+                    ],
+                    "ColorEmissive": [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                    ],
+                    "Emissive Intensity": 1.0,
+                    "Playing Once": false
+                }
+            ]
+        },
+        {
+            "UUID": 653606954,
+            "ParentUUID": 2203601508,
+            "Name": "shine_texture_light_orb_VFX",
+            "Tag": "shine_texture_light_orb_VFX",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1384291691,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    -0.0,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 264147811,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 852655075,
+                    "ComponentType": 16,
+                    "Active": true,
+                    "TextureUUID": 2669028227,
+                    "TextureEmissiveUUID": 2669028227,
+                    "Width": 1.0,
+                    "Height": 1.0,
+                    "Pulse": false,
+                    "Loop": true,
+                    "BillboardType": 1,
+                    "AnimationTime": 1000,
+                    "IsSpriteSheet": true,
+                    "Rows": 6,
+                    "Columns": 6,
+                    "Color": [
+                        0.0,
+                        0.32012009620666506,
+                        0.906862735748291,
+                        0.6901960968971252
+                    ],
+                    "ColorEmissive": [
+                        0.05099715292453766,
+                        0.0,
+                        0.8676470518112183,
+                        0.5372549295425415
+                    ],
+                    "Emissive Intensity": 1.0,
+                    "Playing Once": false
+                }
+            ]
+        }
+    ],
+    "Overwritable": true
+} 

@@ -1,0 +1,868 @@
+{
+    "GameObjects": [
+        {
+            "UUID": 2467659351,
+            "ParentUUID": 2574365580,
+            "Name": "Player2_Mesh",
+            "Tag": "VFX",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 717339636,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    -0.0,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    1.5,
+                    1.5,
+                    1.5
+                ]
+            },
+            "Transform2D": {
+                "UUID": 2395047332,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 1732334285,
+                    "ComponentType": 2,
+                    "Active": true,
+                    "Mesh": 2522875964,
+                    "Material": 696531997,
+                    "Skeleton": 3497700786,
+                    "Properties": 3
+                },
+                {
+                    "UUID": 1859389123,
+                    "ComponentType": 6,
+                    "Active": true,
+                    "ScriptName": "HitBlinker",
+                    "BlinkColor": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "BlinkTime": 200.0
+                }
+            ]
+        },
+        {
+            "UUID": 545268626,
+            "ParentUUID": 2467659351,
+            "Name": "l_alm_wilst",
+            "Tag": "AttackVFX",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 3938777621,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    -0.0,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 3200572151,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 3415495716,
+                    "ComponentType": 19,
+                    "Active": true,
+                    "Width": 0.25,
+                    "Duration": 1000.0,
+                    "TextureUUID": 3233643689,
+                    "Color": [
+                        0.4852941036224365,
+                        0.48528924584388735,
+                        0.48528924584388735,
+                        1.0
+                    ],
+                    "Emissive Intensity": 1.0,
+                    "Curve Points": 5,
+                    "Texture Mode": 0,
+                    "Rows": 1,
+                    "Columns": 1,
+                    "Color Blend": false,
+                    "Color To Blend": [
+                        0.4852941036224365,
+                        0.48528924584388735,
+                        0.48528924584388735,
+                        1.0
+                    ],
+                    "Portion Color 2": 0.5,
+                    "Smoothening Step": 0.30000001192092898
+                },
+                {
+                    "UUID": 702285422,
+                    "ComponentType": 16,
+                    "Active": true,
+                    "TextureUUID": 1748395978,
+                    "TextureEmissiveUUID": 0,
+                    "Width": 2.0,
+                    "Height": 2.0,
+                    "Pulse": false,
+                    "Loop": false,
+                    "BillboardType": 1,
+                    "AnimationTime": 500,
+                    "IsSpriteSheet": true,
+                    "Rows": 6,
+                    "Columns": 6,
+                    "Color": [
+                        0.0,
+                        0.8214483261108398,
+                        1.0,
+                        1.0
+                    ],
+                    "ColorEmissive": [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                    ],
+                    "Emissive Intensity": 1.0,
+                    "Playing Once": false
+                },
+                {
+                    "UUID": 166033975,
+                    "ComponentType": 16,
+                    "Active": false,
+                    "TextureUUID": 2016236598,
+                    "TextureEmissiveUUID": 0,
+                    "Width": 3.0,
+                    "Height": 3.0,
+                    "Pulse": false,
+                    "Loop": false,
+                    "BillboardType": 1,
+                    "AnimationTime": 500,
+                    "IsSpriteSheet": true,
+                    "Rows": 6,
+                    "Columns": 4,
+                    "Color": [
+                        0.2759515643119812,
+                        0.970588207244873,
+                        0.7662832736968994,
+                        1.0
+                    ],
+                    "ColorEmissive": [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                    ],
+                    "Emissive Intensity": 1.0,
+                    "Playing Once": false
+                }
+            ]
+        },
+        {
+            "UUID": 2154816094,
+            "ParentUUID": 2467659351,
+            "Name": "r_arm_wirst",
+            "Tag": "AttackVFX",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 3939223204,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    -0.0,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1241791195,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 2330213271,
+                    "ComponentType": 19,
+                    "Active": true,
+                    "Width": 0.25,
+                    "Duration": 1000.0,
+                    "TextureUUID": 3233643689,
+                    "Color": [
+                        0.7598038911819458,
+                        0.7597962617874146,
+                        0.7597962617874146,
+                        1.0
+                    ],
+                    "Emissive Intensity": 1.0,
+                    "Curve Points": 5,
+                    "Texture Mode": 0,
+                    "Rows": 1,
+                    "Columns": 1,
+                    "Color Blend": false,
+                    "Color To Blend": [
+                        0.7598038911819458,
+                        0.7597962617874146,
+                        0.7597962617874146,
+                        1.0
+                    ],
+                    "Portion Color 2": 0.5,
+                    "Smoothening Step": 0.30000001192092898
+                },
+                {
+                    "UUID": 2360249704,
+                    "ComponentType": 16,
+                    "Active": true,
+                    "TextureUUID": 1748395978,
+                    "TextureEmissiveUUID": 0,
+                    "Width": 1.0,
+                    "Height": 1.0,
+                    "Pulse": false,
+                    "Loop": false,
+                    "BillboardType": 1,
+                    "AnimationTime": 500,
+                    "IsSpriteSheet": true,
+                    "Rows": 6,
+                    "Columns": 6,
+                    "Color": [
+                        0.0,
+                        1.0,
+                        1.0,
+                        1.0
+                    ],
+                    "ColorEmissive": [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                    ],
+                    "Emissive Intensity": 1.0,
+                    "Playing Once": false
+                }
+            ]
+        },
+        {
+            "UUID": 759445560,
+            "ParentUUID": 2467659351,
+            "Name": "r_foot_01",
+            "Tag": "AttackVFX",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2115544215,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    -0.0,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 4112271694,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 2111147533,
+                    "ComponentType": 19,
+                    "Active": true,
+                    "Width": 0.25,
+                    "Duration": 1000.0,
+                    "TextureUUID": 3233643689,
+                    "Color": [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                    ],
+                    "Emissive Intensity": 1.0,
+                    "Curve Points": 5,
+                    "Texture Mode": 0,
+                    "Rows": 1,
+                    "Columns": 1,
+                    "Color Blend": false,
+                    "Color To Blend": [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                    ],
+                    "Portion Color 2": 0.5,
+                    "Smoothening Step": 0.30000001192092898
+                },
+                {
+                    "UUID": 2626889410,
+                    "ComponentType": 16,
+                    "Active": true,
+                    "TextureUUID": 1748395978,
+                    "TextureEmissiveUUID": 0,
+                    "Width": 2.0,
+                    "Height": 2.0,
+                    "Pulse": false,
+                    "Loop": false,
+                    "BillboardType": 1,
+                    "AnimationTime": 500,
+                    "IsSpriteSheet": true,
+                    "Rows": 6,
+                    "Columns": 6,
+                    "Color": [
+                        0.0,
+                        0.7916772365570068,
+                        1.0,
+                        1.0
+                    ],
+                    "ColorEmissive": [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                    ],
+                    "Emissive Intensity": 1.0,
+                    "Playing Once": false
+                }
+            ]
+        },
+        {
+            "UUID": 1785939533,
+            "ParentUUID": 2467659351,
+            "Name": "Tail_06",
+            "Tag": "AttackVFX",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2322652968,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    -0.0,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 3467990878,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 4219620163,
+                    "ComponentType": 19,
+                    "Active": true,
+                    "Width": 0.25,
+                    "Duration": 1000.0,
+                    "TextureUUID": 3233643689,
+                    "Color": [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                    ],
+                    "Emissive Intensity": 1.0,
+                    "Curve Points": 5,
+                    "Texture Mode": 0,
+                    "Rows": 1,
+                    "Columns": 1,
+                    "Color Blend": false,
+                    "Color To Blend": [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                    ],
+                    "Portion Color 2": 0.5,
+                    "Smoothening Step": 0.30000001192092898
+                },
+                {
+                    "UUID": 3932390500,
+                    "ComponentType": 16,
+                    "Active": true,
+                    "TextureUUID": 1748395978,
+                    "TextureEmissiveUUID": 0,
+                    "Width": 2.0,
+                    "Height": 2.0,
+                    "Pulse": false,
+                    "Loop": false,
+                    "BillboardType": 1,
+                    "AnimationTime": 500,
+                    "IsSpriteSheet": true,
+                    "Rows": 6,
+                    "Columns": 6,
+                    "Color": [
+                        0.0,
+                        0.8809614181518555,
+                        1.0,
+                        1.0
+                    ],
+                    "ColorEmissive": [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                    ],
+                    "Emissive Intensity": 1.0,
+                    "Playing Once": false
+                },
+                {
+                    "UUID": 3071195836,
+                    "ComponentType": 16,
+                    "Active": true,
+                    "TextureUUID": 1748395978,
+                    "TextureEmissiveUUID": 0,
+                    "Width": 2.0,
+                    "Height": 2.0,
+                    "Pulse": false,
+                    "Loop": false,
+                    "BillboardType": 1,
+                    "AnimationTime": 500,
+                    "IsSpriteSheet": true,
+                    "Rows": 6,
+                    "Columns": 6,
+                    "Color": [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                    ],
+                    "ColorEmissive": [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                    ],
+                    "Emissive Intensity": 1.0,
+                    "Playing Once": false
+                }
+            ]
+        },
+        {
+            "UUID": 1190362274,
+            "ParentUUID": 2467659351,
+            "Name": "l_foot_01",
+            "Tag": "AttackVFX",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 2923695226,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    -0.0,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 4260374625,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 1734176219,
+                    "ComponentType": 19,
+                    "Active": true,
+                    "Width": 0.25,
+                    "Duration": 1000.0,
+                    "TextureUUID": 3233643689,
+                    "Color": [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                    ],
+                    "Emissive Intensity": 1.0,
+                    "Curve Points": 5,
+                    "Texture Mode": 0,
+                    "Rows": 1,
+                    "Columns": 1,
+                    "Color Blend": false,
+                    "Color To Blend": [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                    ],
+                    "Portion Color 2": 0.5,
+                    "Smoothening Step": 0.30000001192092898
+                },
+                {
+                    "UUID": 3932390500,
+                    "ComponentType": 16,
+                    "Active": true,
+                    "TextureUUID": 1748395978,
+                    "TextureEmissiveUUID": 0,
+                    "Width": 2.0,
+                    "Height": 2.0,
+                    "Pulse": false,
+                    "Loop": false,
+                    "BillboardType": 1,
+                    "AnimationTime": 500,
+                    "IsSpriteSheet": true,
+                    "Rows": 6,
+                    "Columns": 6,
+                    "Color": [
+                        0.0,
+                        0.8809614181518555,
+                        1.0,
+                        1.0
+                    ],
+                    "ColorEmissive": [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                    ],
+                    "Emissive Intensity": 1.0,
+                    "Playing Once": false
+                },
+                {
+                    "UUID": 166033975,
+                    "ComponentType": 16,
+                    "Active": false,
+                    "TextureUUID": 2016236598,
+                    "TextureEmissiveUUID": 0,
+                    "Width": 3.0,
+                    "Height": 3.0,
+                    "Pulse": false,
+                    "Loop": false,
+                    "BillboardType": 1,
+                    "AnimationTime": 500,
+                    "IsSpriteSheet": true,
+                    "Rows": 6,
+                    "Columns": 4,
+                    "Color": [
+                        0.2759515643119812,
+                        0.970588207244873,
+                        0.7662832736968994,
+                        1.0
+                    ],
+                    "ColorEmissive": [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                    ],
+                    "Emissive Intensity": 1.0,
+                    "Playing Once": false
+                }
+            ]
+        },
+        {
+            "UUID": 3451355714,
+            "ParentUUID": 545268626,
+            "Name": "SonOfJordi",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": true,
+            "Transform": {
+                "UUID": 1143987866,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    0.43700000643730166,
+                    0.17000000178813935,
+                    0.0
+                ],
+                "Rotation": [
+                    -0.0,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1326346322,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": []
+        }
+    ],
+    "Overwritable": true
+} 

@@ -1,0 +1,616 @@
+{
+    "GameObjects": [
+        {
+            "UUID": 932573233,
+            "ParentUUID": 3080551034,
+            "Name": "NecroBurrow",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": false,
+            "Transform": {
+                "UUID": 140572580,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    -0.0,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    1.000068187713623,
+                    1.0,
+                    1.000068187713623
+                ]
+            },
+            "Transform2D": {
+                "UUID": 391701018,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 3876985526,
+                    "ComponentType": 6,
+                    "Active": false,
+                    "ScriptName": "NecroBurrow"
+                },
+                {
+                    "UUID": 1456964917,
+                    "ComponentType": 14,
+                    "Active": false,
+                    "Volume": 1.0,
+                    "SoundBank": 800557708,
+                    "3DSound": true,
+                    "PlayOnAwake": false,
+                    "AwakeEvent": -1
+                }
+            ]
+        },
+        {
+            "UUID": 498580155,
+            "ParentUUID": 932573233,
+            "Name": "Burrow",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": false,
+            "Transform": {
+                "UUID": 2652590734,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    0.0,
+                    -0.10000000149011612,
+                    0.0
+                ],
+                "Rotation": [
+                    90.00000762939453,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    1.0,
+                    0.9999961853027344,
+                    0.9999961853027344
+                ]
+            },
+            "Transform2D": {
+                "UUID": 3166099791,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 3601220251,
+                    "ComponentType": 16,
+                    "Active": false,
+                    "TextureUUID": 3123898167,
+                    "TextureEmissiveUUID": 0,
+                    "Width": 2.5,
+                    "Height": 2.450000047683716,
+                    "Pulse": false,
+                    "Loop": false,
+                    "BillboardType": 0,
+                    "AnimationTime": 1000,
+                    "IsSpriteSheet": false,
+                    "Rows": 1,
+                    "Columns": 1,
+                    "Color": [
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "ColorEmissive": [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                    ]
+                }
+            ]
+        },
+        {
+            "UUID": 3254331449,
+            "ParentUUID": 932573233,
+            "Name": "Dirt1",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": false,
+            "Transform": {
+                "UUID": 381946393,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    -0.0,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1599654204,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 829528441,
+                    "ComponentType": 17,
+                    "Active": true,
+                    "TextureUUID": 1544875687,
+                    "TextureEmissiveUUID": 0,
+                    "Width": 5.0,
+                    "Height": 5.0,
+                    "Pulse": false,
+                    "Loop": false,
+                    "BillboardType": 1,
+                    "AnimationTime": 1000,
+                    "IsSpriteSheet": false,
+                    "Rows": 1,
+                    "Columns": 1,
+                    "Color": [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                    ],
+                    "ColorEmissive": [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                    ],
+                    "Type of particle system": 2,
+                    "EmissionLoop": true,
+                    "Active": true,
+                    "Max Size Particles": 0.25,
+                    "Min Size Particles": 0.5,
+                    "Particle Size": [
+                        0.25,
+                        0.5
+                    ],
+                    "Size random": true,
+                    "Change size": false,
+                    "Tile random": false,
+                    "Max Tile": 0.0,
+                    "Min Tile": 4.0,
+                    "Velocity of particles": 10.979999542236329,
+                    "Gravity modifier": -10.0,
+                    "Time Between Particles": 0.20000000298023225,
+                    "Particles Life Time": 5.0,
+                    "Follow owner": false,
+                    "Random X position": true,
+                    "Max range position x": 100,
+                    "Min range position x": -100,
+                    "Position X": 0,
+                    "Random Z position": true,
+                    "Max range position z": 100,
+                    "Min range position z": -100,
+                    "Position Z": 0,
+                    "Max particles": 500,
+                    "Inner Radius": 1.0,
+                    "Outer Radius": 10.0,
+                    "Intial Color": [
+                        0.14705884456634522,
+                        0.017301039770245553,
+                        0.017301039770245553,
+                        1.0
+                    ],
+                    "Fade": true,
+                    "Fade Time": 2.0,
+                    "Size Fade Time": 2.0,
+                    "Color Fade Time": 1.0,
+                    "Fade between Colors": false,
+                    "Color to fade": [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                    ],
+                    "Orbit": false,
+                    "Velocity Random": true,
+                    "Velocity Speed First": 0.5,
+                    "Velocity Speed Second": 0.75
+                }
+            ]
+        },
+        {
+            "UUID": 1478175367,
+            "ParentUUID": 932573233,
+            "Name": "Dirt2",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": false,
+            "Transform": {
+                "UUID": 381946393,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    -0.0,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 1599654204,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 829528441,
+                    "ComponentType": 17,
+                    "Active": true,
+                    "TextureUUID": 2152237611,
+                    "TextureEmissiveUUID": 0,
+                    "Width": 5.0,
+                    "Height": 5.0,
+                    "Pulse": false,
+                    "Loop": false,
+                    "BillboardType": 1,
+                    "AnimationTime": 1000,
+                    "IsSpriteSheet": false,
+                    "Rows": 1,
+                    "Columns": 1,
+                    "Color": [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                    ],
+                    "ColorEmissive": [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                    ],
+                    "Type of particle system": 2,
+                    "EmissionLoop": true,
+                    "Active": true,
+                    "Max Size Particles": 0.75,
+                    "Min Size Particles": 1.0,
+                    "Particle Size": [
+                        0.25,
+                        0.5
+                    ],
+                    "Size random": true,
+                    "Change size": false,
+                    "Tile random": false,
+                    "Max Tile": 0.0,
+                    "Min Tile": 4.0,
+                    "Velocity of particles": 6.5,
+                    "Gravity modifier": -2.0,
+                    "Time Between Particles": 0.5,
+                    "Particles Life Time": 2.0,
+                    "Follow owner": false,
+                    "Random X position": true,
+                    "Max range position x": 100,
+                    "Min range position x": -100,
+                    "Position X": 0,
+                    "Random Z position": true,
+                    "Max range position z": 100,
+                    "Min range position z": -100,
+                    "Position Z": 0,
+                    "Max particles": 500,
+                    "Inner Radius": 1.0,
+                    "Outer Radius": 5.0,
+                    "Intial Color": [
+                        0.14705884456634522,
+                        0.017301039770245553,
+                        0.017301039770245553,
+                        1.0
+                    ],
+                    "Fade": true,
+                    "Fade Time": 2.0,
+                    "Size Fade Time": 2.0,
+                    "Color Fade Time": 1.0,
+                    "Fade between Colors": false,
+                    "Color to fade": [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                    ],
+                    "Orbit": false,
+                    "Velocity Random": true,
+                    "Velocity Speed First": 0.25,
+                    "Velocity Speed Second": 0.5
+                }
+            ]
+        },
+        {
+            "UUID": 2642585051,
+            "ParentUUID": 932573233,
+            "Name": "Dust1",
+            "Tag": "",
+            "IsStatic": false,
+            "Active": false,
+            "Transform": {
+                "UUID": 1793120093,
+                "ComponentType": 3,
+                "Active": true,
+                "Translation": [
+                    0.0,
+                    0.308590292930603,
+                    0.0
+                ],
+                "Rotation": [
+                    -0.0,
+                    0.0,
+                    -0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Transform2D": {
+                "UUID": 4059006531,
+                "ComponentType": 7,
+                "Active": true,
+                "AnchoredPos": [
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "MinAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "MaxAnchor": [
+                    0.5,
+                    0.5
+                ],
+                "SizeDelta": [
+                    100.0,
+                    100.0
+                ],
+                "Pivot": [
+                    0.5,
+                    0.5
+                ]
+            },
+            "Transform2DEnabled": false,
+            "Components": [
+                {
+                    "UUID": 1571252824,
+                    "ComponentType": 17,
+                    "Active": true,
+                    "TextureUUID": 2401054362,
+                    "TextureEmissiveUUID": 0,
+                    "Width": 5.0,
+                    "Height": 5.0,
+                    "Pulse": false,
+                    "Loop": false,
+                    "BillboardType": 1,
+                    "AnimationTime": 1000,
+                    "IsSpriteSheet": false,
+                    "Rows": 1,
+                    "Columns": 1,
+                    "Color": [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                    ],
+                    "ColorEmissive": [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                    ],
+                    "Type of particle system": 1,
+                    "EmissionLoop": true,
+                    "Active": true,
+                    "Max Size Particles": 0.20000000298023225,
+                    "Min Size Particles": 0.20000000298023225,
+                    "Particle Size": [
+                        2.0,
+                        2.0
+                    ],
+                    "Size random": false,
+                    "Change size": false,
+                    "Tile random": false,
+                    "Max Tile": 0.0,
+                    "Min Tile": 4.0,
+                    "Velocity of particles": 1.0,
+                    "Gravity modifier": 0.0,
+                    "Time Between Particles": 0.5,
+                    "Particles Life Time": 5.0,
+                    "Follow owner": false,
+                    "Random X position": true,
+                    "Max range position x": 100,
+                    "Min range position x": -100,
+                    "Position X": 0,
+                    "Random Z position": true,
+                    "Max range position z": 100,
+                    "Min range position z": -100,
+                    "Position Z": 0,
+                    "Max particles": 7,
+                    "Inner Radius": 1.0,
+                    "Outer Radius": 3.0,
+                    "Intial Color": [
+                        0.19607841968536378,
+                        0.10428681969642639,
+                        0.012495189905166626,
+                        1.0
+                    ],
+                    "Fade": true,
+                    "Fade Time": 5.0,
+                    "Size Fade Time": 5.0,
+                    "Color Fade Time": 1.0,
+                    "Fade between Colors": false,
+                    "Color to fade": [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                    ],
+                    "Orbit": false,
+                    "Velocity Random": false,
+                    "Velocity Speed First": 1.0,
+                    "Velocity Speed Second": 2.0
+                }
+            ]
+        }
+    ],
+    "Overwritable": true
+} 
