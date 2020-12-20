@@ -64,5 +64,8 @@ Because this is a academic project is not possible to contribute directly to thi
 </tr>
 </table>
 
+## Commit race
+![](https://github.com/OnionGalaxy/TwinlightSouls/blob/master/Media/commitrace.png)
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/OnionGalaxy/TwinlightSouls/blob/develop/LICENSE) file for details.
