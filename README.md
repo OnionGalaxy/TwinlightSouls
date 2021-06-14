@@ -20,7 +20,7 @@
   </a>
 </p>
 
-![](https://github.com/OnionGalaxy/TwinlightSouls/blob/develop/Media/twinlight_souls.png)
+![](https://github.com/OnionGalaxy/TwinlightSouls/blob/master/Media/twinlight_souls.png)
 
 ## Highlights
 - Fast paced combat, kill hordes of enemies and epic boss battle!
